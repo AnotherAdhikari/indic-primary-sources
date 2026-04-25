@@ -1,0 +1,13 @@
+# SECRETS — never commit
+*token*
+*secret*
+*credentials*
+.env
+.env.*
+*.key
+*.pem
+.netrc
+
+# Temporary
+*.tmp
+.DS_Store
