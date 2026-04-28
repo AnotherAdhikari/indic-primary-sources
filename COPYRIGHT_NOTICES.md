@@ -61,7 +61,9 @@ If you believe a specific item has been included in error, please open an issue 
 
 | Source | Editor / Translator | Original Year | License | Notes |
 |---|---|---|---|---|
+| Agni Purāṇa (4 vols) | Manmatha Nath Dutt | 1903–1904 | PD (US, pre-1929) | Elysium Press, Calcutta; 383 chapters; ~78,000 lines |
 | Devī Bhāgavata Purāṇa | Swami Vijnanananda | 1921–1922 | PD (US, pre-1929) | Sacred Books of the Hindus series; Śākta Mahāpurāṇa |
+| Garuḍa Purāṇa (3 vols) | Manmatha Nath Dutt | 1908 | PD (US, pre-1929) | Elysium Press, Calcutta; ~37,000 lines |
 | Mārkaṇḍeya Purāṇa | F. Eden Pargiter | 1904 | PD (US, pre-1929) | Bibliotheca Indica; contains Devī Māhātmyam (cantos 81–93) |
 | Viṣṇu-Purāṇa: A System of Hindu Mythology and Tradition | Horace Hayman Wilson | 1840 | PD (US, pre-1929) | |
 
@@ -83,6 +85,13 @@ If you believe a specific item has been included in error, please open an issue 
 | Mālinī-Vijayottara-Tantra | (KSTS editor) | XXXVII | 1922 | PD (US, pre-1929) |
 | Svacchanda-Tantra Vol. 1 with Kṣemarāja's Uddyota | Pandit Madhusudan Kaul Shastri | XXXI | 1921 | PD (US, pre-1929) |
 | Netra-Tantra (Mṛtyuñjaya-Tantra) | (KSTS editor) | XLVI | 1926 | PD (US, pre-1929) |
+| Tantrāloka Vol. 1 (Āhnikas 1–3) | Abhinavagupta; ed. Madhusudan Kaul Shastri | XXIII | 1918 | PD (US, pre-1929) |
+| Tantrāloka Vol. 2 (Āhnikas 4–7) | Abhinavagupta; ed. Madhusudan Kaul Shastri | XXVIII | 1921 | PD (US, pre-1929) |
+| Tantrāloka Vol. 3 (Āhnikas 8–11) | Abhinavagupta; ed. Madhusudan Kaul Shastri | XXX | 1921 | PD (US, pre-1929) |
+| Tantrāloka Vol. 4 (Āhnikas 12–15) | Abhinavagupta; ed. Madhusudan Kaul Shastri | XXXVI | 1922 | PD (US, pre-1929) |
+| Tantrāloka Vol. 5 (Āhnikas 16–21) | Abhinavagupta; ed. Madhusudan Kaul Shastri | XXXV | 1922 | PD (US, pre-1929) |
+| Tantrāloka Vol. 6 (Āhnikas 22–28) | Abhinavagupta; ed. Madhusudan Kaul Shastri | XXXVIII | 1924 | PD (US, pre-1929) |
+| Tantrāloka Vol. 7 (Āhnikas 29–37) | Abhinavagupta; ed. Madhusudan Kaul Shastri | XLI | 1926 | PD (US, pre-1929) |
 
 ## Tantric — Avalon's Tantric Texts series
 
@@ -104,6 +113,7 @@ If you believe a specific item has been included in error, please open an issue 
 
 | Source | Editor / Translator | Original Year | License |
 |---|---|---|---|
+| Bṛhat Saṃhitā of Varāhamihira (partial, Ch I–LIX) | N. Chidambaram Iyer | 1884 | PD (US, pre-1929) |
 | Sūrya-Siddhānta: A Text-Book of Hindu Astronomy | Ebenezer Burgess | 1860 | PD (US, pre-1929) |
 
 ## Polity / Statecraft
@@ -137,7 +147,9 @@ If you believe a specific item has been included in error, please open an issue 
 
 | Source | Translator | Original Year | License | Notes |
 |---|---|---|---|---|
+| Haṭha Yoga Pradīpikā | Pancham Sinh | 1915 | PD (US, pre-1929) | Sacred Books of the Hindus Vol. XV Part III |
 | Laghu Yoga Vāsiṣṭha | K. Narayanaswami Aiyer | 1896 | PD (US, pre-1929) | Thomson & Co., Madras; Advaita philosophy |
+| Yoga Sūtras of Patañjali with Vyāsa & Vācaspati Miśra | Rāma Prasāda | 1912 | PD (US, pre-1929) | Sacred Books of the Hindus Vol. IV |
 
 ---
 
@@ -148,4 +160,4 @@ If you believe a specific item has been included in error, please open an issue 
 
 ---
 
-*Last updated: 2026-04-28*
+*Last updated: 2026-04-29*

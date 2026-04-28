@@ -127,16 +127,16 @@ For several copyright texts above, older PD translations exist but are not in ou
 
 | Copyright Text | PD Alternative | PD Alt. Date | Status |
 |---|---|---|---|
-| Haṭha Yoga Pradīpikā (Adyar 1972) | Pancham Sinh (Sacred Books of the Hindus, 1915) | PD now | Not yet acquired |
-| Yoga Sūtras (Venkatesananda 1998) | Rāma Prasāda (Sacred Books of the Hindus, 1912) | PD now | Not yet acquired |
+| Haṭha Yoga Pradīpikā (Adyar 1972) | Pancham Sinh (Sacred Books of the Hindus, 1915) | PD now | **Acquired** — in `corpus/yoga/` |
+| Yoga Sūtras (Venkatesananda 1998) | Rāma Prasāda (Sacred Books of the Hindus, 1912) | PD now | **Acquired** — in `corpus/yoga/` |
 | Nāṭyaśāstra (Ghosh 1951) | No complete pre-1929 English translation exists | — | |
-| Bṛhat Saṃhitā (Bhat 1981) | N. Chidambaram Iyer (partial, 1884) | PD now | Not yet acquired |
-| Agni Purāṇa (AITM 1954) | M.N. Dutt (1903–04) | PD now | Not yet acquired |
-| Garuḍa Purāṇa (AITM 1957) | M.N. Dutt (1908) | PD now | Not yet acquired |
+| Bṛhat Saṃhitā (Bhat 1981) | N. Chidambaram Iyer (partial, 1884) | PD now | **Acquired** — in `corpus/astronomy_math/` |
+| Agni Purāṇa (AITM 1954) | M.N. Dutt (1903–04) | PD now | **Acquired** — in `corpus/puranas/` |
+| Garuḍa Purāṇa (AITM 1957) | M.N. Dutt (1908) | PD now | **Acquired** — in `corpus/puranas/` |
 | Śiva Purāṇa (AITM 1970) | No complete pre-1929 English translation exists | — | |
 
 Acquiring these PD alternatives would allow hosting the text content in this repository immediately.
 
 ---
 
-*Last updated: 2026-04-28*
+*Last updated: 2026-04-29*

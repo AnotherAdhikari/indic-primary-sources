@@ -18,17 +18,17 @@ The corpus spans the major textual traditions of classical India. Both **Vedic**
 | **Epics** | 3 | Mahābhārata (Ganguli, all 18 Parvas), Rāmāyaṇa (Griffith), Bhagavad Gītā with Śaṅkara (Mahadeva Sastri) |
 | **Grammar** | 4 | Pāṇini Aṣṭādhyāyī (Vasu), Patañjali Mahābhāṣya 3 vols (Kielhorn) |
 | **Medical** | 4 | Charaka Saṃhitā (Kaviratna 1890), Suśruta Saṃhitā 3 vols (Bhishagratna) |
-| **Purāṇas** | 3 | Viṣṇu (Wilson), Devī Bhāgavata (Vijnanananda), Mārkaṇḍeya (Pargiter) |
+| **Purāṇas** | 5 | Viṣṇu (Wilson), Devī Bhāgavata (Vijnanananda), Mārkaṇḍeya (Pargiter), Agni (Dutt 1904), Garuḍa (Dutt 1908) |
 | **Śilpa Śāstra** | 1 | Mānasāra (Acharya 1927) — temple architecture |
-| **Tantric** | 13 | KSTS Kashmir Śaivism texts (8), Avalon Tantric Texts (4), Lalitā-Sahasranāma (Ananthakrishna Sastry), Śakti and Śākta (Woodroffe) |
+| **Tantric** | 21 | KSTS Kashmir Śaivism texts (8), Tantrāloka Sanskrit 7 vols (KSTS 1918–1926), Avalon Tantric Texts (4), Lalitā-Sahasranāma (Ananthakrishna Sastry), Śakti and Śākta (Woodroffe) |
 | **Vedic Saṃhitās** | 2 | Four Vedas (Griffith/Keith/Bloomfield), Gaṇapati Atharvaśīrṣa |
-| **Yoga** | 1 | Laghu Yoga Vāsiṣṭha (Aiyer 1896) |
+| **Yoga** | 3 | Laghu Yoga Vāsiṣṭha (Aiyer 1896), Yoga Sūtras (Rāma Prasāda 1912), Haṭha Yoga Pradīpikā (Pancham Sinh 1915) |
 | **Alchemy** | 2 | Rasārṇava (Kaviratna 1910), Rasaratna-Samuccaya (1927) |
-| **Astronomy** | 1 | Sūrya-Siddhānta (Burgess 1860) |
+| **Astronomy** | 2 | Sūrya-Siddhānta (Burgess 1860), Bṛhat Saṃhitā (Iyer 1884, partial) |
 | **Reference** | 2 | Aufrecht Catalogus Catalogorum, Caraṇa-vyūha |
 | **Misc** | 1 | Arthaśāstra (Shamasastry 1909) |
 
-**Total: ~55 public-domain text files, ~1.7M lines**
+**Total: ~67 public-domain text files, ~2.0M lines**
 
 ## Copyright texts in our research corpus
 
