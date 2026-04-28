@@ -28,7 +28,7 @@ The corpus spans the major textual traditions of classical India. Both **Vedic**
 | **Reference** | 2 | Aufrecht Catalogus Catalogorum, Caraṇa-vyūha |
 | **Misc** | 1 | Arthaśāstra (Shamasastry 1909) |
 
-**Total: ~67 public-domain text files, ~2.0M lines**
+**Total: 67 public-domain text files, ~2.05M lines** (additional texts pending OCR)
 
 ## Copyright texts in our research corpus
 
