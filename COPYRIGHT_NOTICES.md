@@ -8,37 +8,70 @@ If you believe a specific item has been included in error, please open an issue 
 
 ---
 
+## Āgamas
+
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Ahirbudhnya Saṃhitā — Introduction | F. Otto Schrader | 1916 | PD (US, pre-1929) | Adyar Library and Research Centre; Pāñcarātra text |
+| Ahirbudhnya Saṃhitā — Sanskrit text | F. Otto Schrader (ed.) | 1916 | PD (US, pre-1929) | Adyar Library Sanskrit edition |
+
+## Brāhmaṇas
+
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Aitareya Āraṇyaka | Arthur Berriedale Keith | 1909 | PD (US, pre-1929) | Anecdota Oxoniensia series; English translation |
+| Aitareya Brāhmaṇa | Arthur Berriedale Keith | 1920 | PD (US, pre-1929) | HOS Vol. 25; English translation |
+| Gopatha Brāhmaṇa (English study) | Maurice Bloomfield | 1899 | PD (US, pre-1929) | Partial English study; Atharvavedic |
+| Gopatha Brāhmaṇa (Sanskrit) | Rajendralala Mitra | 1872 | PD (US, pre-1929) | Bibliotheca Indica; Sanskrit text |
+| Kauṣītaki Brāhmaṇa | Arthur Berriedale Keith | 1920 | PD (US, pre-1929) | HOS Vol. 25 |
+| Ṛgveda Brāhmaṇas (combined Aitareya + Kauṣītaki) | Arthur Berriedale Keith | 1920 | PD (US, pre-1929) | HOS Vol. 25; djvu extraction |
+| Śatapatha-Brāhmaṇa Pt. 1 (SBE Vol. 12: Books I–II) | Julius Eggeling | 1882 | PD (US, pre-1929) | |
+| Śatapatha-Brāhmaṇa Pt. 2 (SBE Vol. 26: Books III–IV) | Julius Eggeling | 1885 | PD (US, pre-1929) | Re-OCR'd 2026-04 with `-l eng` |
+| Śatapatha-Brāhmaṇa Pt. 3 (SBE Vol. 41: Books V–VII) | Julius Eggeling | 1894 | PD (US, pre-1929) | Re-OCR'd 2026-04 |
+| Śatapatha-Brāhmaṇa Pt. 4 (SBE Vol. 43: Books VIII–X) | Julius Eggeling | 1897 | PD (US, pre-1929) | Contains Agnicayana fire-altar. Re-OCR'd 2026-04 |
+| Śatapatha-Brāhmaṇa Pt. 5 (SBE Vol. 44: Books XI–XIV) | Julius Eggeling | 1900 | PD (US, pre-1929) | Re-OCR'd 2026-04 with `-l eng` |
+
+## Epics
+
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Bhagavad Gītā with Śaṅkarācārya's commentary | Alladi Mahadeva Sastri | 1897 | PD (US, pre-1929) | First published 1897; successive editions 1901, 1918, etc. Translation text is PD |
+| Mahābhārata (complete, 18 Parvas) | Kisari Mohan Ganguli | 1883–1896 | PD (US, pre-1929) | ~258,000 lines; Calcutta edition |
+| Rāmāyaṇa (verse translation) | Ralph T.H. Griffith | 1870–1895 | PD (US, pre-1929) | |
+
 ## Vyākaraṇa (Grammar)
 
 | Source | Editor / Translator | Original Year | License | Notes |
 |---|---|---|---|---|
-| Aṣṭādhyāyī of Pāṇini | Srisa Chandra Vasu | 1897 | PD (US, pre-1929) | First complete English translation of the Aṣṭādhyāyī |
+| Aṣṭādhyāyī of Pāṇini | Srisa Chandra Vasu | 1897 | PD (US, pre-1929) | First complete English translation |
 | Vyākaraṇa-Mahābhāṣya of Patañjali, Vol. 1 | Franz Kielhorn | 1880 | PD (US, pre-1929) | Bombay Sanskrit Series |
 | Vyākaraṇa-Mahābhāṣya of Patañjali, Vol. 2 | Franz Kielhorn | 1883 | PD (US, pre-1929) | |
 | Vyākaraṇa-Mahābhāṣya of Patañjali, Vol. 3 | Franz Kielhorn | 1885 | PD (US, pre-1929) | |
 
 ## Āyurveda (Medicine)
 
-| Source | Editor / Translator | Original Year | License |
-|---|---|---|---|
-| Suśruta-Saṃhitā Vol. 1 (Sūtra-sthāna) | Kaviraj Kunja Lal Bhishagratna | 1907 | PD (US, pre-1929) |
-| Suśruta-Saṃhitā Vol. 2 (Nidāna + Śārīra + Cikitsā-sthāna) | Kaviraj Kunja Lal Bhishagratna | 1908 | PD (US, pre-1929) |
-
-## Brāhmaṇas
-
-| Source | Editor / Translator | Original Year | License |
-|---|---|---|---|
-| Śatapatha-Brāhmaṇa Pt. 1 (Sacred Books of the East Vol. 12) | Julius Eggeling | 1882 | PD (US, pre-1929) |
-| Śatapatha-Brāhmaṇa Pt. 2 (SBE Vol. 26) | Julius Eggeling | 1885 | PD (US, pre-1929) |
-| Śatapatha-Brāhmaṇa Pt. 5 (SBE Vol. 44) | Julius Eggeling | 1900 | PD (US, pre-1929) |
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Charaka Saṃhitā | Avinash Chandra Kaviratna | 1890 | PD (US, pre-1929) | Complete Āyurveda; ~106,000 lines |
+| Suśruta-Saṃhitā Vol. 1 (Sūtra-sthāna) | Kaviraj Kunja Lal Bhishagratna | 1907 | PD (US, pre-1929) | |
+| Suśruta-Saṃhitā Vol. 2 (Nidāna + Śārīra + Cikitsā-sthāna) | Kaviraj Kunja Lal Bhishagratna | 1908 | PD (US, pre-1929) | |
+| Suśruta-Saṃhitā Vol. 3 (Kalpa + Uttara-tantra) | Kaviraj Kunja Lal Bhishagratna | ~1916 | PD (US, pre-1929) | Completes the 3-volume set |
 
 ## Purāṇas
 
-| Source | Editor / Translator | Original Year | License |
-|---|---|---|---|
-| Viṣṇu-Purāṇa: A System of Hindu Mythology and Tradition | Horace Hayman Wilson | 1840 | PD (US, pre-1929) |
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Devī Bhāgavata Purāṇa | Swami Vijnanananda | 1921–1922 | PD (US, pre-1929) | Sacred Books of the Hindus series; Śākta Mahāpurāṇa |
+| Mārkaṇḍeya Purāṇa | F. Eden Pargiter | 1904 | PD (US, pre-1929) | Bibliotheca Indica; contains Devī Māhātmyam (cantos 81–93) |
+| Viṣṇu-Purāṇa: A System of Hindu Mythology and Tradition | Horace Hayman Wilson | 1840 | PD (US, pre-1929) | |
 
-## Tantric (Kashmir Shaivism — KSTS pre-1929 vols)
+## Śilpa Śāstra (Architecture)
+
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Mānasāra (Architecture of Mānasāra) | Prasanna Kumar Acharya | 1927 | PD (US, pre-1929) | English translation + Sanskrit notes |
+
+## Tantric — Kashmir Śaivism (KSTS pre-1929 vols)
 
 | Source | Editor | KSTS No. | Original Year | License |
 |---|---|---|---|---|
@@ -51,16 +84,21 @@ If you believe a specific item has been included in error, please open an issue 
 | Svacchanda-Tantra Vol. 1 with Kṣemarāja's Uddyota | Pandit Madhusudan Kaul Shastri | XXXI | 1921 | PD (US, pre-1929) |
 | Netra-Tantra (Mṛtyuñjaya-Tantra) | (KSTS editor) | XLVI | 1926 | PD (US, pre-1929) |
 
-## Tantric (Avalon's Tantric Texts series — pre-1929 vols)
+## Tantric — Avalon's Tantric Texts series
 
-| Source | Editor | TT Vol. | Original Year | License |
+| Source | Editor | TT Vol. | Original Year | License | Notes |
+|---|---|---|---|---|---|
+| Mahānirvāṇa-Tantra | Arthur Avalon (Sir John Woodroffe) | — | 1913 | PD (US, pre-1929) | |
+| Kulārṇava-Tantra | Arthur Avalon | — | 1917 | PD (US, pre-1929) | |
+| Tantrarāja-Tantra | Arthur Avalon | VIII | 1918 | PD (US, pre-1929) | |
+| Kāmakalāvilāsa with Naṭānanda-nātha commentary | Arthur Avalon | XI | 1922 | PD (US, pre-1929) | |
+
+## Tantric — Śrī Vidyā / Śākta
+
+| Source | Editor / Translator | Original Year | License | Notes |
 |---|---|---|---|---|
-| Mahānirvāṇa-Tantra | Arthur Avalon (Sir John Woodroffe) | (separate) | 1913 | PD (US, pre-1929) |
-| Kulārṇava-Tantra | Arthur Avalon | (separate) | 1917 | PD (US, pre-1929) |
-| Tantrarāja-Tantra | Arthur Avalon | VIII | 1918 | PD (US, pre-1929) |
-| Kāmakalāvilāsa with Naṭānanda-nātha commentary | Arthur Avalon | XI | 1922 | PD (US, pre-1929) |
-
-**Note on Avalon's Tantrabhidhana (1937):** This dictionary, also part of the Tantric Texts series, is **NOT** included here because the 2nd edition (1937, posthumous) is still under US copyright through 2032. Researchers needing it should consult the original Avalon edition.
+| Lalitā-Sahasranāma with Bhāskararāya's commentary | R. Ananthakrishna Sastry | 1925 | PD (US, pre-1929) | Adyar Library edition; English translation of names + Saubhāgya-bhāskara |
+| Śakti and Śākta | Sir John Woodroffe | 1918 | PD (US, pre-1929) | 1st ed. 1918; comprehensive overview of Śākta-Tantric doctrine |
 
 ## Astronomy / Mathematics
 
@@ -79,49 +117,35 @@ If you believe a specific item has been included in error, please open an issue 
 | Source | Editor | Original Year | License | Notes |
 |---|---|---|---|---|
 | Rasārṇava | Praphulla Chandra Rāy / Kaviratna | 1910 | PD (US, pre-1929) | Asiatic Society of Bengal ed. |
-| Rasaratna-Samuccaya of Vāgbhaṭa with Rasaprabhā commentary | Vidyābhūṣaṇa | 1927 | PD (US, pre-1929) | Original PDF 551MB; this archive includes extracted text only |
+| Rasaratna-Samuccaya of Vāgbhaṭa | Vidyābhūṣaṇa | 1927 | PD (US, pre-1929) | |
 
 ## Reference
 
 | Source | Editor / Compiler | Original Year | License |
 |---|---|---|---|
-| Catalogus Catalogorum: An Alphabetical Register of Sanskrit Works and Authors | Theodor Aufrecht | 1891-1903 | PD (US, pre-1929) |
-| Caraṇa-vyūha (Śaunaka with Mahīdāsa commentary) | (verify edition) | (verify year) | Pending verification |
+| Catalogus Catalogorum | Theodor Aufrecht | 1891–1903 | PD (US, pre-1929) |
+| Caraṇa-vyūha (Śaunaka) | (edition pending verification) | (pre-1929) | PD (pending) |
 
-## Vedic Saṃhitās
+## Vedic Saṃhitās + Upaniṣads
 
 | Source | Translators | Original Years | License |
 |---|---|---|---|
-| Four Vedas: Ṛk + Yajur + Sāma + Atharva (compilation) | Ralph T.H. Griffith / Maurice Bloomfield / Arthur Berriedale Keith | 1893-1925 | PD (US, pre-1929) |
-| Gaṇapati Atharvaśīrṣa Upaniṣad with Vedic accents | Sanskrit Documents (digital edition) | digital | PD (text in PD) |
+| Four Vedas: Ṛk + Yajur + Sāma + Atharva | Griffith / Bloomfield / Keith | 1893–1925 | PD (US, pre-1929) |
+| Gaṇapati Atharvaśīrṣa Upaniṣad | Sanskrit Documents (digital) | — | PD |
+
+## Yoga
+
+| Source | Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Laghu Yoga Vāsiṣṭha | K. Narayanaswami Aiyer | 1896 | PD (US, pre-1929) | Thomson & Co., Madras; Advaita philosophy |
 
 ---
 
-## Items deliberately EXCLUDED from this archive due to copyright
+## See Also
 
-These items were considered but excluded because their original editions are still under copyright:
-
-- Avalon (Woodroffe), *Tantrabhidhana / Tantric Texts Vol. I* (1937 2nd ed., posthumous) — copyright runs to 2032
-- Sanjukta Gupta, *Lakshmī-Tantra: A Pāñcarātra Text* (Brill, 1972)
-- Hélène Brunner, *Somaśambhu-paddhati Pts 1-2* (IFP, 1963-1968)
-- N.R. Bhatt, *Mṛgendra Āgama* (IFP, 1962)
-- Shaman Hatley, *The Brahmayāmala-Tantra and the Early Śaiva Cult of Yoginīs* (UPenn dissertation, 2007)
-- Shaman Hatley, *The Brahmayāmala or Picumata Vol. 1* (EFEO/IFP critical edition, 2018)
-- Dominic Goodall et al., *The Niśvāsatattvasaṃhitā Vol. 1* (EFEO/IFP critical edition, 2015)
-- K.L. Joshi (Parimal), *112 Upaniṣads Vol. 2* (2005)
-- Manomohan Ghosh, *Nāṭyaśāstra* English translation (1951/1961)
-- R.K. Shringy / Prem Lata Sharma, *Saṅgīta-Ratnākara* English translation (multiple modern editions)
-- Various modern Mahāpurāṇa critical editions
-
-For these works please consult the publisher or interlibrary loan.
+- **`COPYRIGHT_TEXTS_IN_CORPUS.md`** — Full list of copyright texts in our research corpus (not hosted here) with estimated US public domain entry dates.
+- **`LICENSE`** — CC0 1.0 Universal for compilation; underlying texts are PD as noted above.
 
 ---
 
-## Items pending verification
-
-- Caraṇa-vyūha (Śaunaka with Mahīdāsa commentary) — edition year and editor pending
-- Lalita-Sahasranāma (Pansikar) — verify whether our copy is the 1907 edition or a modern reprint
-- Various Mahāpurāṇa translations in `puranas/` of our local archive (to be added in subsequent commits after verification)
-- Various Śilpa-Śāstra editions (Mānasāra, Mayamata) — most modern eds are still in copyright; verify our extractions
-
-These items are not included in the initial commit; they will be added (with verification) in subsequent updates.
+*Last updated: 2026-04-28*

@@ -1,91 +1,97 @@
 # Indic Primary Sources
 
-An open archive of public-domain primary sources in Sanskrit and other Indic languages, organized for researchers, students, translators, and the curious.
+An open archive of public-domain primary sources from the Indic traditions (Vedic, Tantric, Purāṇic, and related), organized for researchers, students, translators, and the curious.
 
 This repository collects:
-- **Original PDF scans** of pre-1929 (US public-domain) and Creative Commons-licensed editions of Indic primary texts
-- **Extracted text** from those scans (via `pdftotext`, `tesseract san+hin+eng`, and similar pipelines)
-- **Metadata** for each source (edition, year, language, original location)
+- **Extracted text** from pre-1929 (US public-domain) editions of Indic primary texts
+- **OCR'd text** from scanned PDFs (re-processed with appropriate language models)
+- **Metadata** for each source (edition, year, language, provenance)
 
 ## What's here
 
-The corpus spans the major textual traditions of classical India:
+The corpus spans the major textual traditions of classical India. Both **Vedic** (Śruti/Smṛti) and **Tantric** (Āgama/Tantra) traditions are represented — these are parallel transmissions with a shared substrate, not parent-child.
 
-| Category | Description | Examples |
+| Category | Texts | Description |
 |---|---|---|
-| **Vedic Saṃhitās** | Ṛk, Yajur, Sāma, Atharva | Griffith / Bloomfield / Keith translations (1893–1925) |
-| **Brāhmaṇas** | Ritual exegesis | Eggeling's Śatapatha-Brāhmaṇa (1882–1900) |
-| **Upaniṣads** | Mukhya + minor | (selected PD editions) |
-| **Purāṇas** | Major Mahāpurāṇas | Wilson's Viṣṇu-Purāṇa (1840), etc. |
-| **Āgamas** | Śaiva ritual manuals | Pre-1929 KSTS volumes (Svacchanda, Netra, etc.) |
-| **Tantras** | Bhairava, Kaula, Śākta, Trika | Avalon (Woodroffe) Tantric Texts series 1913–1922; KSTS Trika texts |
-| **Śilpa-Śāstras** | Architecture / iconography | Acharya's Mānasāra, etc. (pre-1929 eds where available) |
-| **Vyākaraṇa** (Grammar) | Pāṇinian + commentaries | Vasu's Aṣṭādhyāyī (1897), Kielhorn's Mahābhāṣya (1880–1885) |
-| **Āyurveda** | Medical | Bhishagratna's Suśruta-Saṃhitā (1907–1916) |
-| **Rasaśāstra** (Alchemy) | Mercury / mineral / elixir | Vidyabhusana's Rasaratna-Samuccaya (1927), Kaviratna's Rasarṇava (1910) |
-| **Astronomy / Math** | Jyotiṣa | Burgess's Sūrya-Siddhānta (1860) |
-| **Polity / Statecraft** | | Shamasastry's Arthaśāstra (1909) |
-| **Reference** | Catalogues, recension lists | Aufrecht's *Catalogus Catalogorum* (1891–1903), Caraṇa-vyūha |
+| **Āgamas** | 1 | Ahirbudhnya Saṃhitā (Schrader/Adyar 1916) — Pāñcarātra Vaiṣṇava |
+| **Brāhmaṇas** | 11 | Śatapatha (all 5 pts), Aitareya, Kauṣītaki, Gopatha, Ṛgveda Brāhmaṇas (Keith/Eggeling/Bloomfield/Mitra) |
+| **Epics** | 3 | Mahābhārata (Ganguli, all 18 Parvas), Rāmāyaṇa (Griffith), Bhagavad Gītā with Śaṅkara (Mahadeva Sastri) |
+| **Grammar** | 4 | Pāṇini Aṣṭādhyāyī (Vasu), Patañjali Mahābhāṣya 3 vols (Kielhorn) |
+| **Medical** | 4 | Charaka Saṃhitā (Kaviratna 1890), Suśruta Saṃhitā 3 vols (Bhishagratna) |
+| **Purāṇas** | 3 | Viṣṇu (Wilson), Devī Bhāgavata (Vijnanananda), Mārkaṇḍeya (Pargiter) |
+| **Śilpa Śāstra** | 1 | Mānasāra (Acharya 1927) — temple architecture |
+| **Tantric** | 13 | KSTS Kashmir Śaivism texts (8), Avalon Tantric Texts (4), Lalitā-Sahasranāma (Ananthakrishna Sastry), Śakti and Śākta (Woodroffe) |
+| **Vedic Saṃhitās** | 2 | Four Vedas (Griffith/Keith/Bloomfield), Gaṇapati Atharvaśīrṣa |
+| **Yoga** | 1 | Laghu Yoga Vāsiṣṭha (Aiyer 1896) |
+| **Alchemy** | 2 | Rasārṇava (Kaviratna 1910), Rasaratna-Samuccaya (1927) |
+| **Astronomy** | 1 | Sūrya-Siddhānta (Burgess 1860) |
+| **Reference** | 2 | Aufrecht Catalogus Catalogorum, Caraṇa-vyūha |
+| **Misc** | 1 | Arthaśāstra (Shamasastry 1909) |
 
-A separate `creative_commons/` subdirectory hosts CC-licensed modern editions whose terms permit redistribution (currently: Singh + Maheshvarananda's 8-volume *Sri Tantraloka & other works*, CC BY-NC-ND 4.0).
+**Total: ~55 public-domain text files, ~1.7M lines**
+
+## Copyright texts in our research corpus
+
+We maintain a separate research corpus of ~130 texts (~4.1M lines) that includes modern translations still under copyright. These cannot be hosted here, but we provide a complete list with estimated public-domain entry dates:
+
+**See [`COPYRIGHT_TEXTS_IN_CORPUS.md`](COPYRIGHT_TEXTS_IN_CORPUS.md)** — 41 copyright texts catalogued with translator, publisher, publication year, and estimated US PD date (earliest: 2030s; most: 2050s–2070s).
+
+This list also identifies **PD alternatives** that could replace some copyright editions (e.g., M.N. Dutt's 1903–08 Purāṇa translations could replace the 1950s–70s AITM editions).
 
 ## Why this repository exists
 
-Two practical problems this archive addresses:
+1. **Discovery.** Many of these texts exist on archive.org but are scattered across hundreds of poorly-tagged items. This repo indexes them by category, edition, and provenance.
 
-1. **Discovery.** Many of these texts exist on archive.org or other OCR-archives but are scattered across hundreds of unindexed items, often poorly tagged. This repo indexes them by category, edition, and provenance.
+2. **Quality.** The OCR layer on many archive.org PDFs was generated with English-only models on Sanskrit-script originals, producing garbled output. We re-OCR with appropriate language packs and verify readability. The Śatapatha Brāhmaṇa (all 5 parts) was re-OCR'd with `ocrmypdf --force-ocr -l eng` to produce readable English from previously garbled Hindi-model OCR.
 
-2. **Text extraction.** The OCR layer that ships with most archive.org Sanskrit-text PDFs is generated with English-only models, producing garbled output. We re-OCR with the `san+hin+eng` tesseract language pack to produce usable Devanagari text. Where the original PDF is text-searchable, we extract directly with `pdftotext -layout`. Each file's extracted text is bundled alongside its source PDF.
+3. **Organization.** Vedic and Tantric traditions are often conflated. Our corpus classification (in the research project) identifies every text by tradition and highlights the 7 key overlap-zone texts where both traditions meet.
 
 ## Repository structure
 
 ```
 corpus/
-├── agamas/          # Śaiva Tantric ritual texts (KSTS pre-1929 vols)
-├── alchemy/         # Rasaśāstra: Rasārṇava, Rasaratna-Samuccaya, etc.
-├── astronomy_math/  # Sūrya-Siddhānta and others
-├── brahmanas/       # Eggeling's Śatapatha-Brāhmaṇa
-├── grammar/         # Pāṇini, Patañjali Mahābhāṣya
-├── medical/         # Suśruta-Saṃhitā (Bhishagratna)
-├── misc/            # Arthaśāstra (Shamasastry)
-├── puranas/         # PD-edition Mahāpurāṇa translations
-├── reference/       # Aufrecht's CC, Caraṇa-vyūha
-├── shilpa_shastras/ # Mānasāra, Mayamata (PD editions where available)
-├── tantric/         # Avalon Tantric Texts series + KSTS Kashmir Shaivism
-├── vedas_upanishads/# Saṃhitās + selected Upaniṣads
-└── creative_commons/
-    └── tantraloka_singh_maheshvarananda/  # CC BY-NC-ND 4.0
-tools/
-└── (extraction scripts: pdftotext wrappers, ocr_sanskrit.sh)
-COPYRIGHT_NOTICES.md
+├── agamas/              # Āgamic ritual texts (Pāñcarātra, Śaiva Siddhānta)
+├── alchemy/             # Rasaśāstra: Rasārṇava, Rasaratna-Samuccaya
+├── astronomy_math/      # Sūrya-Siddhānta
+├── brahmanas/           # Śatapatha (5 pts), Aitareya, Kauṣītaki, Gopatha, etc.
+├── epics/               # Mahābhārata, Rāmāyaṇa, Bhagavad Gītā
+├── grammar/             # Pāṇini Aṣṭādhyāyī, Patañjali Mahābhāṣya
+├── medical/             # Charaka Saṃhitā, Suśruta Saṃhitā (3 vols)
+├── misc/                # Arthaśāstra
+├── puranas/             # PD-edition Mahāpurāṇa translations
+├── reference/           # Aufrecht Catalogus, Caraṇa-vyūha
+├── shilpa_shastras/     # Mānasāra (temple architecture)
+├── tantric/             # KSTS Kashmir Śaivism + Avalon Tantric Texts + Śrī Vidyā
+├── vedas_upanishads/    # Four Saṃhitās + Gaṇapati Atharvaśīrṣa
+└── yoga/                # Laghu Yoga Vāsiṣṭha
+tools/                   # Extraction scripts
+COPYRIGHT_NOTICES.md     # Per-source PD attribution
+COPYRIGHT_TEXTS_IN_CORPUS.md  # Copyright texts NOT hosted (with PD dates)
 LICENSE
-README.md  ← you are here
+README.md
 ```
 
 Each text-folder contains:
-- `original.pdf` (when ≤100MB)
-- `extracted_text.txt` (pdftotext output)
-- `extracted_text_sanskrit.txt` (tesseract `san+hin+eng` output, for OCR'd Sanskrit-script PDFs)
-- `metadata.json` (title, edition, year, language, source-URL, license)
-
-If `original.pdf` is absent because of GitHub's 100MB-file limit, `metadata.json` provides the source-URL so users can fetch the original from archive.org or the noted source.
+- `extracted_text.txt` — primary text extraction
+- `extracted_text_sanskrit.txt` — Sanskrit OCR where applicable
+- Additional variant files where multiple extractions exist
 
 ## Copyright
 
 Every item in `corpus/` is one of:
 1. **Public domain in the US** (publication ≤ 1928), OR
-2. **Public domain by author-life-+70-years rule**, OR
+2. **Public domain by author-life rule**, OR
 3. **Creative Commons-licensed**, with the license explicitly noted
 
 We do not host modern critical editions, modern translations, or any work whose copyright remains active.
 
-See `COPYRIGHT_NOTICES.md` for the per-source attribution and edition details.
+See `COPYRIGHT_NOTICES.md` for per-source attribution and `COPYRIGHT_TEXTS_IN_CORPUS.md` for the complete list of copyright texts we track but do not host.
 
 If you believe a specific item has been included in error, please open an issue and we will remove it pending review.
 
 ## License
 
-The compilation, indexing, extracted-text artifacts (where derived from PD originals), and the metadata are released under **CC0 1.0 Universal** — no rights reserved on our compilation effort. The underlying source-text content is in the public domain or as noted per-item.
+The compilation, indexing, extracted-text artifacts (where derived from PD originals), and metadata are released under **CC0 1.0 Universal** — no rights reserved on our compilation effort. The underlying source-text content is in the public domain as noted per-item.
 
 ## Contributing
 
@@ -93,8 +99,8 @@ Issues and PRs welcome for:
 - Additional public-domain editions of Indic primary texts
 - Improved OCR for already-included items
 - Metadata corrections
-- Translation suggestions or alignment between editions
+- PD-alternative editions to replace copyright texts listed in `COPYRIGHT_TEXTS_IN_CORPUS.md`
 
 ## Acknowledgments
 
-These texts owe their preservation to centuries of paṇḍita transmission, 19th- and early-20th-century Indological scholarship (Eggeling, Burgess, Wilson, Avalon, Vasu, Bhishagratna, Aufrecht, Kielhorn, etc.), and the open archives — Internet Archive, Sacred-Texts.com, Sanskrit Documents, KSTS, IFP, Adyar Library — that have made their digitization possible.
+These texts owe their preservation to centuries of paṇḍita transmission, 19th- and early-20th-century Indological scholarship (Eggeling, Burgess, Wilson, Avalon, Vasu, Bhishagratna, Keith, Griffith, Ganguli, Pargiter, Acharya, Woodroffe, Kaviratna, Aufrecht, Kielhorn, Schrader, Bloomfield, Mitra, Aiyer, Ananthakrishna Sastry, Mahadeva Sastri, Vijnanananda, and many others), and the open archives — Internet Archive, Sacred-Texts.com, Sanskrit Documents, KSTS, IFP, Adyar Library — that have made their digitization possible.
