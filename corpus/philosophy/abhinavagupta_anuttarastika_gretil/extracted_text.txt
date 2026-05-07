@@ -1,0 +1,68 @@
+Abhinavagupta: Anuttarāṣṭikā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhinavagupta-anuttarASTikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Marino Faliero
+## Contribution: Marino Faliero
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Anuttarāṣṭikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from anuttaru.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Abhinavagupta: Anuttarastika
+Encoded by: Dott. Marino Faliero
+Date: July 1998
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+saṃkrāmo 'tra na bhāvanā na ca kathāyuktir na carcā na ca dhyānaṃ vā na ca dhāraṇā na ca japābhyāsaprayāso na ca |
+tat kiṃ nāma suniścitaṃ vada paraṃ satyaṃ ca tacchrūyatāṃ na tyāgī na parigrahī bhaja sukhaṃ sarvaṃ yathāvasthitaḥ || AgAna_1
+
+saṃsāro 'sti na tattvatas tanubhṛtāṃ bandhasya vārtaiva kā bandho yasya na jātu tasya vitathā muktasya muktikriyā |
+mithyāmohakṛd eṣa rajjubhujagacchāyāpiśācabhramo mā kiṃcit tyaja mā gṛhāṇa vihara [1] svastho yathāvasthitaḥ || AgAna_2
+
+pūjapūjakapūjyabhedasaraṇiḥ keyaṃ kathānuttare saṃkrāmaḥ kila kasya kena vidadhe ko vā praveśakramaḥ |
+māyeyam na cidadvayāt paratayā bhinnāpy aho vartate sarvaṃ svānubhavasvabhāvavimalaṃ cintāṃ vṛthā mā kṛthāḥ || AgAna_3
+
+ānando 'tra na vittamadhyamadavan naivāṅganāsaṅgavat dīpārkendukṛtaprabhāprakaravan naiva prakāśodayaḥ |
+harṣaḥ saṃbhṛtabhedamuktisukhabhūr bhārāvatāropamaḥ sarvādvaitapadasya vismṛtanidheḥ prāptiḥ prakāśodayaḥ || AgAna_4
+
+rāgadveṣasukhāsukhodayalayāhaṅkāradainyādayo ye bhāvāḥ pravibhānti viśvavapuṣo bhinnasvabhāvā na te |
+vyaktiṃ paśyasi yasya yasya sahasā tattattadekātmatāsaṃvidrūpam avekṣya kiṃ na ramase tadbhāvanānirbharaḥ || AgAna_5
+
+pūrvābhāvabhavakriyā hi sahasā bhāvāḥ sadā 'smin bhave madhyākāravikārasaṃkaravatāṃ teṣāṃ kutaḥ satyatā |
+niḥsatye capale prapañcanicaye svapnabhrame peśale śaṅkātaṅkakalaṅkayuktikalanātītaḥ prabuddho bhava || AgAna_6
+
+bhāvānāṃ na samudbhavo 'sti sahajas tvadbhāvitā bhānty amī niḥsatyā api satyatām anubhavabhrāntyā bhajanti kṣaṇam |
+tvatsaṅkalpaja eṣa viśvamahimā nāsty asya janmānyataḥ tasmāt tvaṃ vibhavena bhāsi bhuvaneṣv ekopy anekātmakaḥ || AgAna_7
+
+yat satyaṃ yad asatyam alpabahulaṃ nityaṃ na nityaṃ ca yat yan māyāmalinaṃ yad ātmavimalaṃ ciddarpaṇe rājate |
+tat sarvaṃ svavimarśasaṃvidudayād rūpaprakāśātmakaṃ jñātvā svānubhavādhirūḍhamahimā viśveśvaratvaṃ bhaja || AgAna_8
+
+|| iti śrīmadācāryābhinavaguptapādair viracitānuttarāṣṭikā samāptā ||

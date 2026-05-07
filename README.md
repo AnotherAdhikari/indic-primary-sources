@@ -4,6 +4,7 @@ An open archive of public-domain primary sources from the Indic traditions (Vedi
 
 This repository collects:
 - **Extracted text** from pre-1929 (US public-domain) editions of Indic primary texts
+- **GRETIL IAST-encoded Sanskrit** from the Goettingen Register of Electronic Texts in Indian Languages (CC BY-NC-SA 4.0)
 - **OCR'd text** from scanned PDFs (re-processed with appropriate language models)
 - **Metadata** for each source (edition, year, language, provenance)
 
@@ -13,22 +14,25 @@ The corpus spans the major textual traditions of classical India. Both **Vedic**
 
 | Category | Texts | Description |
 |---|---|---|
-| **Āgamas** | 1 | Ahirbudhnya Saṃhitā (Schrader/Adyar 1916) — Pāñcarātra Vaiṣṇava |
-| **Brāhmaṇas** | 11 | Śatapatha (all 5 pts), Aitareya, Kauṣītaki, Gopatha, Ṛgveda Brāhmaṇas (Keith/Eggeling/Bloomfield/Mitra) |
+| **Āgamas** | 8 | Ahirbudhnya Saṃhitā (Schrader 1916); GRETIL IAST: Svacchandatantra, Mṛgendrāgama, Devīkalottarāgama, Kiraṇatantra (ch 1–6), Pāśupatasūtra + commentary, Sārdhatriśatikālottarāgama, Jñānaśambhu Śivapūjāstava |
+| **Alchemy** | 14 | Rasārṇava English (Kaviratna 1910) + Sanskrit (GRETIL); Rasaratna-Samuccaya English (1927) + Sanskrit (GRETIL); GRETIL IAST: Ānandakanda, Rasahṛdayatantra, Rasendracintāmaṇi, Rasendracūḍāmaṇi (partial), Rasādhyāya, Rasamañjarī, Rasaṅketakalikā, Rasārṇavasudhākara; Rasa-Prakāśa-Sudhākara, Rasārṇavakalpa |
+| **Astronomy / Math** | 3 | Sūrya-Siddhānta (Burgess 1860), Bṛhat Saṃhitā English (Iyer 1884, partial) + Sanskrit (GRETIL) |
+| **Brāhmaṇas** | 13 | Śatapatha English (all 5 pts, Eggeling SBE) + Sanskrit (GRETIL, 13 of 14 kāṇḍas), Aitareya, Kauṣītaki, Gopatha (Bloomfield + Mitra + GRETIL IAST), Ṛgveda Brāhmaṇas (Keith) |
+| **Dharmaśāstra** | 6 | Gṛhya Sūtras pts 1–2 (Oldenberg, SBE 29–30), Sacred Laws pts 1–2 (Buhler, SBE 2, 14), Institutes of Viṣṇu (Jolly, SBE 7), Minor Law Books (Jolly, SBE 33) |
 | **Epics** | 3 | Mahābhārata (Ganguli, all 18 Parvas), Rāmāyaṇa (Griffith), Bhagavad Gītā with Śaṅkara (Mahadeva Sastri) |
 | **Grammar** | 4 | Pāṇini Aṣṭādhyāyī (Vasu), Patañjali Mahābhāṣya 3 vols (Kielhorn) |
 | **Medical** | 4 | Charaka Saṃhitā (Kaviratna 1890), Suśruta Saṃhitā 3 vols (Bhishagratna) |
-| **Purāṇas** | 5 | Viṣṇu (Wilson), Devī Bhāgavata (Vijnanananda), Mārkaṇḍeya (Pargiter), Agni (Dutt 1904), Garuḍa (Dutt 1908) |
+| **Philosophy** | 42 | Vedānta Sūtras: Śaṅkara pts 1–2 + Rāmānuja (Thibaut, SBE); Sāṅkhya Aphorisms (Ballantyne); GRETIL IAST Kashmir Śaivism: Abhinavagupta (13 works incl. Tantrāloka, Tantrasāra, Parāmārthasāra, Mālinīślokavārttika, Īśvarapratyabhijñāvimarśinī), Kṣemarāja (3 works), Utpaladeva (3 works), Somananda, Vasugupta Spandakārikā + comm.; Parātrīśikā + comm., Śivasūtra Vārttika, Vātulanāthasūtra + comm.; Amarakośa, Śivopaniṣad, Śivamahimnastava, and 12 smaller prakaraṇas |
+| **Purāṇas** | 8 | Viṣṇu (Wilson), Devī Bhāgavata (Vijnanananda), Mārkaṇḍeya (Pargiter), Agni English (Dutt 1904) + Sanskrit (GRETIL), Garuḍa (Dutt 1908), Nārada Sanskrit (GRETIL), Kāratoyamāhātmya (GRETIL) |
 | **Śilpa Śāstra** | 1 | Mānasāra (Acharya 1927) — temple architecture |
-| **Tantric** | 21 | KSTS Kashmir Śaivism texts (8), Tantrāloka Sanskrit 7 vols (KSTS 1918–1926), Avalon Tantric Texts (4), Lalitā-Sahasranāma (Ananthakrishna Sastry), Śakti and Śākta (Woodroffe) |
+| **Tantric** | 39 | KSTS Kashmir Śaivism (8 texts), Tantrāloka Sanskrit 7 vols (KSTS 1918–1926), Avalon Tantric Texts (4 + Hymns to the Goddess, Karpūrādi Stotra, Tantrābhidhāna), Lalitā-Sahasranāma (2 eds.), Śakti and Śākta; GRETIL IAST: Kubjikāmatatantra, Mālinīvijayottaratantra, Mātṛkābhedatantra, Bījanigantu, Ekākṣarakośa, Gorākṣaśataka (2 versions + Amaraughaśāsana), Saundaryalaharī, Toḍalatantra, Uddāmareśvaratantra, Vināśikhatantra, Parāśurāmakalpasūtra, Parājapavidhi-Parāmantravidhi, Bhavopahāra |
+| **Vaiṣṇava** | 7 | GRETIL IAST: Bhṛgusaṃhitā, Sātvaṭatantra, Prakāśasaṃhitā, Jñānāmṛtasārasaṃhitā (Nārada Pāñcarātra), Viṣṇudharma, Viśvaksenasaṃhitā, Vaikhānasa Mantrapraśna 5–8 |
 | **Vedic Saṃhitās** | 2 | Four Vedas (Griffith/Keith/Bloomfield), Gaṇapati Atharvaśīrṣa |
-| **Yoga** | 3 | Laghu Yoga Vāsiṣṭha (Aiyer 1896), Yoga Sūtras (Rāma Prasāda 1912), Haṭha Yoga Pradīpikā (Pancham Sinh 1915) |
-| **Alchemy** | 2 | Rasārṇava (Kaviratna 1910), Rasaratna-Samuccaya (1927) |
-| **Astronomy** | 2 | Sūrya-Siddhānta (Burgess 1860), Bṛhat Saṃhitā (Iyer 1884, partial) |
+| **Yoga** | 5 | Laghu Yoga Vāsiṣṭha (Aiyer 1896), Yoga Sūtras (Rāma Prasāda 1912), Haṭha Yoga Pradīpikā English (Pancham Sinh 1915) + Sanskrit (GRETIL), Gheraṇḍa Saṃhitā Sanskrit (GRETIL) |
 | **Reference** | 2 | Aufrecht Catalogus Catalogorum, Caraṇa-vyūha |
 | **Misc** | 1 | Arthaśāstra (Shamasastry 1909) |
 
-**Total: 67 public-domain text files, ~2.12M lines** (additional texts pending OCR)
+**Total: 162 texts across 16 categories, ~2.85M lines**
 
 ## Copyright texts in our research corpus
 
@@ -50,22 +54,25 @@ This list also identifies **PD alternatives** that could replace some copyright 
 
 ```
 corpus/
-├── agamas/              # Āgamic ritual texts (Pāñcarātra, Śaiva Siddhānta)
-├── alchemy/             # Rasaśāstra: Rasārṇava, Rasaratna-Samuccaya
-├── astronomy_math/      # Sūrya-Siddhānta
-├── brahmanas/           # Śatapatha (5 pts), Aitareya, Kauṣītaki, Gopatha, etc.
+├── agamas/              # Āgamic ritual texts (Śaiva Siddhānta, Pāśupata, Pāñcarātra)
+├── alchemy/             # Rasaśāstra (14 texts, Sanskrit + English)
+├── astronomy_math/      # Sūrya-Siddhānta, Bṛhat Saṃhitā
+├── brahmanas/           # Śatapatha (English 5 pts + Sanskrit 13 kāṇḍas), Aitareya, Kauṣītaki, Gopatha
+├── dharmashastra/       # Gṛhya Sūtras, Sacred Laws, Institutes of Viṣṇu, Minor Law Books (SBE)
 ├── epics/               # Mahābhārata, Rāmāyaṇa, Bhagavad Gītā
 ├── grammar/             # Pāṇini Aṣṭādhyāyī, Patañjali Mahābhāṣya
 ├── medical/             # Charaka Saṃhitā, Suśruta Saṃhitā (3 vols)
 ├── misc/                # Arthaśāstra
-├── puranas/             # PD-edition Mahāpurāṇa translations
+├── philosophy/          # Kashmir Śaivism (GRETIL IAST), Vedānta Sūtras (SBE), Sāṅkhya, Amarakośa
+├── puranas/             # Mahāpurāṇa translations + Sanskrit (GRETIL)
 ├── reference/           # Aufrecht Catalogus, Caraṇa-vyūha
 ├── shilpa_shastras/     # Mānasāra (temple architecture)
-├── tantric/             # KSTS Kashmir Śaivism + Avalon Tantric Texts + Śrī Vidyā
+├── tantric/             # KSTS + Avalon + GRETIL IAST Tantric texts
+├── vaisnava/            # Pāñcarātra Saṃhitās (GRETIL IAST)
 ├── vedas_upanishads/    # Four Saṃhitās + Gaṇapati Atharvaśīrṣa
-└── yoga/                # Laghu Yoga Vāsiṣṭha
+└── yoga/                # HYP, Gheraṇḍa, Laghu Yoga Vāsiṣṭha, Yoga Sūtras
 tools/                   # Extraction scripts
-COPYRIGHT_NOTICES.md     # Per-source PD attribution
+COPYRIGHT_NOTICES.md     # Per-source PD + CC attribution
 COPYRIGHT_TEXTS_IN_CORPUS.md  # Copyright texts NOT hosted (with PD dates)
 LICENSE
 README.md
@@ -81,7 +88,7 @@ Each text-folder contains:
 Every item in `corpus/` is one of:
 1. **Public domain in the US** (publication ≤ 1928), OR
 2. **Public domain by author-life rule**, OR
-3. **Creative Commons-licensed**, with the license explicitly noted
+3. **Creative Commons-licensed** (CC BY-NC-SA 4.0 for GRETIL texts), with the license explicitly noted
 
 We do not host modern critical editions, modern translations, or any work whose copyright remains active.
 
@@ -103,4 +110,4 @@ Issues and PRs welcome for:
 
 ## Acknowledgments
 
-These texts owe their preservation to centuries of paṇḍita transmission, 19th- and early-20th-century Indological scholarship (Eggeling, Burgess, Wilson, Avalon, Vasu, Bhishagratna, Keith, Griffith, Ganguli, Pargiter, Acharya, Woodroffe, Kaviratna, Aufrecht, Kielhorn, Schrader, Bloomfield, Mitra, Aiyer, Ananthakrishna Sastry, Mahadeva Sastri, Vijnanananda, and many others), and the open archives — Internet Archive, Sacred-Texts.com, Sanskrit Documents, KSTS, IFP, Adyar Library — that have made their digitization possible.
+These texts owe their preservation to centuries of paṇḍita transmission, 19th- and early-20th-century Indological scholarship (Eggeling, Burgess, Wilson, Avalon, Vasu, Bhishagratna, Keith, Griffith, Ganguli, Pargiter, Acharya, Woodroffe, Kaviratna, Aufrecht, Kielhorn, Schrader, Bloomfield, Mitra, Aiyer, Ananthakrishna Sastry, Mahadeva Sastri, Vijnanananda, Oldenberg, Buhler, Jolly, Thibaut, Ballantyne, Goodall, and many others), and the open archives — Internet Archive, Sacred-Texts.com, Sanskrit Documents, KSTS, IFP, Adyar Library, GRETIL (Goettingen Register of Electronic Texts in Indian Languages) — that have made their digitization possible.

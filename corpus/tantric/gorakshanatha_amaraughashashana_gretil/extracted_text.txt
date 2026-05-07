@@ -1,0 +1,74 @@
+Gorakṣanātha: Āmaraughaśāsana
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gorakSanAtha-AmaraughazAsana-comm.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Oliver Hellwig
+## Contribution: Oliver Hellwig
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Mukund Ram Shastri, Bombay : Nirnaya-Sagara Press 1918.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Āmaraughaśāsana+comm = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from goramaru.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Goraksanatha: Amaraughasasana (with commentary)
+Based on the edition by Mukund Ram Shastri,
+Bombay : Nirnaya-Sagara Press 1918
+Input by Oliver Hellwig (hellwig7@gmx.de), Berlin, 2001/02
+Commentary marked with asterisk and brackets.
+Der digitalisierte Text kann in jedem Rahmen ohne
+Einschraenkungen genutzt werden. Allerdings sollte ein
+Hinweis auf den Einleser enthalten sein.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+āmaraughaśāsana
+ūrdhvaśaktinipātaḥ kandacatuṣṭayena jñāyate // 1
+*  * yac candraprabhavaṃ varāmbaragataṃ yal liṅgasaṃjñaṃ jalaṃ sa prāṇas tadadhaḥ sthiraṃ ca kamalaṃ dhatte mukhordhvaṃ hṛdi || 1.1 * baddhvā kumbhakam ātmagāḍharacitaṃ tad brahmanāḍīgataṃ hy ānetuṃ vadane ṣaḍadhvagakalā saivaṃvidhā sāraṇā || 1.2]
+ṣaḍadhvagā kathyate // 2
+*  * ghaṇṭākoṭikapolakoṭarakuṭījihvāgramadhyāśrayāc chaṅkhinyāgatarājadantavivaraṃ prāntordhvavaktreṇa yat || 2.1 * saṃprāptaṃ hanurandhramūlavidhinā yac candratoyaṃ mukhe tat sarvaṃ ravikālarūpasadane rakṣet parā sāraṇā || 2.2]
+karmāntareṇa parā sāraṇā kathyate // 3
+*  * nṛtyan nityordhvajihvo yadi pibati pumān vaktradhārāmṛtaughaṃ susvādaṃ śītalāṅgaṃ duritabhayaharaṃ kṣutpipāsāvināśi || 3.1 * piṇḍasthairyaṃ yad asmād bhavati bata mahāmṛtyurogā dravante daurbhāgyaṃ yāti nāśaṃ harati viṣajarāṃ yāti kāle bhramitvā || 3.2]
+sāraṇānantaraṃ sāraṇā kathyate // 4
+*  * jihvāgraṃ tv atha rājadantavivaraṃ nītvā tato ghaṇṭikāṃ saṃsthāpya pratijihvaparva śaśino mārge kalāṃ ca kṣipet || 4.1 * evaṃsāraṇike patanti ca sudhādhārāḥ punaḥ ṣaṇmukhagāndhārāpy atha tatkalāpamathanaṃ nāḍīmukhojjṛmbhaṇam || 4.2]
+sāraṇānantaraṃ pratisāraṇā kathyate // 5
+*  * prāṇavātena nītvordhvaṃ koṭare candrajāṃ kalām || 5.1 * manthitāṃ divyajātāṃ ca tena gāndhārakarmaṇā || 5.2]
+gāndhārānantaraṃ pratisāraṇā kathyate // 6
+*  * nāsāpaścimamārgavāhapavanāt prāṇe 'tidīrghīkṛte candrāmbu pratisāraṇāṃ sukṛtinaḥ prāgghaṇṭikāyāḥ pathaḥ || 6.1 * siñcan kālaviśālavahnivaśagaṃ bhūtvā sa nāḍīśataṃ tat kāryaṃ kurute punar navatanuṃ jīrṇadrumaskandhavat || 6.2]
+pratisāraṇānantaraṃ śaṅkhasāraṇā kathyate // 7
+*  * protkṣiptaṃ vṛṣaṇasya golakayugaṃ madhye dhvajaṃ proddhvajaṃ nityordhve bata śaṅkhasāraṇavidhau vaktraṃ vidheyaṃ nijam || 7.1 * sarvasthānaśarīrabandhanavaśāt skandhoddhṛtānāṃ yathā nāḍīnāṃ mukhataḥ sudhānidhijalaṃ siñcann adho gacchati || 7.2]
+karmāntareṇa śaṅkhasāraṇā kathyate // 8
+*  * vṛṣaṇākarṣaṇaṃ kāryam athavā śaṅkhasāraṇā || 8.1 * bodhanaṃ caiva kuṇḍalyās tiṣṭhec caivotkaṭāsanam || 8.2]
+śaṅkhasāraṇānantaraṃ mahāsāraṇā kathyate // 9
+*  * paścād āsanaśuddhavātanikarān ādāya kaṇṭhavraṇāt saṃsthāpyā ravimaṇḍale tu bhujagī saṃbhūtanāḍītrayāt || 9.1 * devī madhyapathoditā prakurute kampaṃ tato mūrchanāṃ dūrakarṣaṇadarśanaṃ śrutigaṇāṃś cānyā mahāsāraṇā || 9.2]
+karmāntareṇa mahāsāraṇā kathyate // 10
+*  * ādhārāmbujakośakandabhujagī saṃbhūya nāḍītrayāt candrārkodbhavanāḍikordhvayugalaṃ cādvaitapathyāgatam || 10.1 * tatraivāṅgulibhir nipīḍya kramaśaḥ śāntiṃ mano mārutaṃ candro yāti raviṃ tataś ca bhuvane tulyā mahāsāraṇā || 10.2 * sūryāntaḥ śaśivīcidantavadanaprāntaplavaughoragī saṃprāpte pavanātisaṅgaharaṇe kṣipraṃ tato dhāvitā || 10.3 * śrīmanmadhyapathāntato vidadhatī kampādi kopānvitā tasyaivāśrayayāyino 'pi śaśino dattā sudhā saṃmatā || 10.4 * ādau śoṣaṇiko 'tra sāraṇam ataḥ kāryaṃ mahāsāraṇaṃ kartavyaṃ pratisāraṇaṃ ca guruṇā nirdiṣṭamārgaṃ kramāt || 10.5 * paścād eva ca śaṅkhasāraṇavidhau kāryaṃ mahāsāraṇaṃ sammūrchā vitatākṛtiḥ pratidinaṃ velātrayaṃ dīyatām || 10.6 * ākuñcyāgajakāmarūpam acalaṃ bandhatvajātaṃ tanau nātyūrdhve caturaṅgulāgravidite sthāne hṛdā prāṇite || 10.7 * dantair bandhurite ca vātayugale praśleṣaṇāśleṣaṇāt nābhigranthivimokṣapātasahaje mārge manaḥsiddhayaḥ || 10.8 * dūrākāravisarpite ca pavane nābheś ca mārgasthite bandheṣu triṣu satsu so 'pi śithile madhyaprabodhe sati || 10.9 * kṣipraṃ ca dhriyate dvipīṭhamaruto 'py ūrdhvakramākarṣaṇe saṃyukto gaticittaśoṣaṇam ataḥ prāpye 'nile tiṣṭhati || 10.10 * mūle mūlordhvacakre vṛṣaṇakulatale vahnimātaṅgakūle kampakṣobhabhramāḍhye dhvanitaparicayaṃ gharmapātordhvaroma || 10.11 * bhūmityāgaṃ kavitvaṃ parapuraviśanaṃ vaśyam ākarṣaṇaṃ ca hy evaṃ vā cetanāptā prabhavati nikhilā khecaratvapratiṣṭhā || 10.12 * dve brahmaṇī veditavye śabdabrahma paraṃ ca tat || 10.13 * hṛdaye parame dhāmni madhye tu ravicandramāḥ || 10.14 * nādaṃ tu taṃ gṛhītvā ca caitanyaṃ tatra yojayet || 10.15 * dve brahmaṇī veditavye śabdabrahma paraṃ ca tat || 10.16 * śabdabrahmaṇi niṣṇātaḥ paraṃ brahmādhigacchati || 10.17 * anyat sarvaṃ parityajya śabdabrahma sadābhyaset || 10.18 * svasaṃvedyam asaṃvedyaṃ śabdabrahma dvidhā sthitam || 10.19 * cinoti prathamaḥ śabdaś ciñcinoti dvitīyakaḥ || 10.20 * vivaraś ca tṛtīyaḥ syāc chaṅkhaśabdaś caturthakaḥ || 10.21 * pañcamo meghanirghoṣaḥ ṣaṣṭham etad udīraṇam || 10.22 * saptamaṃ kāṃsyatālākhyaṃ meghaśabdas tathāṣṭamam || 10.23 * navamo 'py agnidāhaś ca daśamo dundubhisvanaḥ || 10.24 * anāhataninādo 'yaṃ pavanāntavinirgataḥ || 10.25 * dhvanitena vinā yas tu nādaś caivam apaṇḍitaḥ || 10.26 * cinoti rasam uddhṛtya ciñcinoti bhagāśritam || 10.27 * virasāṃśena saṃprāptaṃ meghaśabdena cāviśet || 10.28 * majjāṃ patati nirghoṣaḥ saṃsthitodadhibhīṣaṇaḥ || 10.29 * kāṃsyatāle nabhaḥśabdaḥ prāṇameghadhvaniḥ kramāt || 10.30 * jīvaś caivāgnidāhaḥ syān mokṣaḥ samaraso bhavet || 10.31 * viśuddham ittham ātmānaṃ paśyeta cātmanātmani || 10.32 * prathame janavātsalyaṃ dvitīye roganāśanam || 10.33 * tṛtīyena kavitvaṃ ca dūrākarṣaṃ caturthake || 10.34 * pañcame vāci kāmitvaṃ ṣaṣṭhe bhūmiṃ parityajet || 10.35 * saptame dūram ālokya cāṣṭame vajravad bhavet || 10.36 * navame sphurate kāyo daśame sāmarasyakam || 10.37 * pṛthvīmadhye bhavet pṛthvī cāpām āpas tathaiva ca || 10.38 * tejomadhye bhavet tejo vāyur vāyau pralīyate || 10.39 * ākāśo līyate sarvaḥ satattvaḥ piṇḍasaṃgrahaḥ || 10.40 * anāhato divārātrau dhvanate tu dhanaṃjayaḥ || 10.41 * tatrārūḍho yadā yogī prāpnuyāt paramaṃ padam || 10.42]
+ayaṃ prakṛtibhedaḥ pṛthvī āpaḥ tejaḥ vāyuḥ ākāśaś ca iti śarīre pañcaguṇāḥ mahābhūtāni bhavanti tatraiva tāni pañcavidhāni bhavanti // 11asthi māṃsaṃ tvak nāḍī romāṇi iti pañcaguṇā pṛthivī // 12lālāmūtrāsruniḥsvedaprasvedāḥ iti pañcaguṇā āpaḥ // 13kṣudhā tṛṣṇā nidrā ālasyaṃ kāntiś ca iti pañcaguṇaṃ tejaḥ // 14dhāvanaṃ valganam ākuñcanaṃ prasāraṇaṃ nirodhaś ceti pañcaguṇo vāyuḥ // 15rāgo dveṣo lajjā bhayaṃ mohaś ceti pañcaguṇa ākāśaḥ iti pañcaguṇālaṅkṛtāni pañcatattvāni // 16śabdaḥ sparśaḥ rasaḥ rūpaṃ gandhaś ceti pañca bhūtaguṇāḥ // 17śṛṅgārādinavanāṭyarasāḥ iti hāsyādibhāvāḥ śṛṅgārādīnām // 18kaṭukatiktakaṣāyāmlamadhuralavaṇāś ceti ṣaṭ āsvādāḥ // 19śubham aśubhaṃ ceti karmadvayam // 20prāṇāpānasamānodānavyānā nāgakūrmakṛkaradevadattadhanaṃjayāś ceti daśa vātāḥ // 21iḍāpiṅgalāsuṣumnāgāndhārīhastijihvāyaśasvinīpūṣālambusākuhūśaṅkhinīprabhṛtayaḥ dvāsaptatir nāḍīsahasrāṇi // 22utpattisthitipralayāś ceti mārgatrayam // 23asthisaṃcayaṃ ṣaṣṭyadhikaṃ śatatrayam asty asya prāṇena saṃbandhaḥ // 24kāmakrodhalobhamohamadamānāhaṅkārāś ceti sapta bandhanāni // 25vivekabodhasaṃtoṣaharṣapulakakṣamopaśamadhyānajñānotsavarāgavairāgyānandakampamūrchāvikāramanovāsanādīni prakṛtisvarūpāṇi // 26romṇāṃ koṭitrayaṃ sārdham // 27vātapittaśleṣmāṇa iti prakṛtitrayam // 28vātaḥ prāṇaprakṛtiḥ pittaṃ hutāśanodbhūtaṃ śleṣmā nirodhāt bhavati // 29tvak asṛk māṃsaṃ medaḥ asthi majjā śukraṃ prāṇo jīvaḥ śaktiḥ iti daśa dhātavaḥ // 30prāṇarandhradvayaṃ locanarandhradvayaṃ karṇarandhradvayaṃ mukharandhradvayam utsargarandhradvayam iti daśa dvārāṇi // 31atha daśamadvāraṃ dvividhaṃ śukramārgam amṛtaṃ kālamārgaś ceti brahmadaṇḍamūle raviśaśimadhye bhagākāram asti tasmād āgatabrahmadaṇḍāśritaṃ paścimaliṅgam asti paścimaśabdena sthānam asti tasya madhye liṅgākāram asti // 32puruṣāṇāṃ retomārgaḥ strīṇāṃ rajomārgaḥ sahaiva tena brahmadaṇḍarekhāśritapuṣpasamaye sarvavyāpakanāḍīsamūhāgataṃ kāminīrajaḥ sravati // 33tatraiva kāmaviṣaharanirañjanānāṃ saṃyogaṃ bījapātāt ānandāgamaḥ pralayakālaviṣakālayoḥ kartā nirañjanaś ca iti // 34śaktitrayavinirbhinne citte bījanirañjanāt // 35vajrapūjāpadānandaṃ yaḥ karoti sa manmathaḥ // 36citte tṛpte manomuktir ūrdhvamārgāśrite 'nale // 37udānacalitaṃ reto mṛtyurekhāviṣaṃ viduḥ // 38cittamadhye bhaved yas tu bālāgraśatadhāśraye // 39nānābhāvavinirmuktaḥ sa ca prokto nirañjanaḥ // 40nirañjanāśritā śaktiḥ sūkṣmaśaktyā tayāśritam // 41manasy āśrayatāmeti jñeyaṃ śaktitrayaṃ tu tat // 42śaktitrayodbhavaṃ bījaṃ bījāt kāmo viṣaṃ tataḥ // 43kāmaḥ sṛṣṭitayā prokto viṣaṃ mṛtyupadaṃ bhavet // 44kiṃ bahunā kāmaviṣaharanirañjanānāṃ brahmadaṇḍamūlāṅkure nivāsaḥ ebhir yad amukho mokṣaḥ bhasmībhūtasya dehasya punar āgamanakāryaṃ nāsti // 45aho mūrkhatā lokasya kecid vadanti śubhāśubhakarmavicchedanaṃ mokṣaḥ // 46kecid vadanti vedapāṭhāśrito mokṣaḥ // 47kecid vadanti nirālambanalakṣaṇo mokṣaḥ // 48kecid vadanti dhyānakalākaraṇasambaddhaprayogasambhavena rūpabindunādacaitanyapiṇḍākāśalakṣaṇo mokṣaḥ // 49kecid vadanti pūjāpūjakamadyamāṃsādisurataprasaṅgasānandalakṣaṇo mokṣaḥ // 50kecid vadanti // 51mūlakandollāsitakuṇḍalinīsaṃcāralakṣaṇo mokṣaḥ // 52kecid vadanti susamadṛṣṭinipātalakṣaṇo mokṣaḥ ity evaṃvidhabhāvanāśritalakṣaṇo mokṣo na bhavati // 53atha mokṣapadaṃ kathyate yatra sahajasamādhikrameṇa manasā manaḥ samālokyate sa eva mokṣaḥ // 54kāmaviṣaharasthānaṃ mānasodbhavaḥ manomadhye kāraṇaṃ kāraṇāt utpattisthitipralayāḥ pravartante // 55uktaṃ ca bhagavatā maheśvareṇa // 56jīvanmuktipade devi cittaṃ bījanirañjanam // 57mṛtyumārgasthito yogī jñātvā karma samabhyaset // 58iti jīvanmuktipadam anena mārgeṇa sthiratvaṃ bhavati // 59athādhāraṇakarmoditaśaṅkhinībhedavyavasthāvyākhyā gudameḍhrāntare trikoṇatridhāvartabhagamaṇḍalam ucyate tatra ādhāragranthaya ekadvitrayaś ceti ekadvitrayāṇāṃ madhye granthīnām upāntare catuṣpatraṃ padmam adhomukhaṃ tiṣṭhati tatra karṇikāmadhye mṛṇālasūtraparimāṇā śaṅkhāvartā tatra pravālāṅkurasannibhā dvitrināḍībhūtā kuṇḍalinī śaktiḥ caitanyabījamukhaṃ gatvā suptā // 60tatra tripathamadhye tu sūkṣmībhūtā vyavasthitā // 61ūrṇātantunibhākārā gatā sā nābhimaṇḍalam // 62caturaṅgulamānenāpy aṣṭadhā kuṭilākṛtiḥ // 63sphuritā nābhimadhye tu śākhāśākham anekadhā // 64
+daśanāḍyāśritaṃ cakraṃ nābhimadhye prakīrtitam /
+iḍā ca piṅgalā caiva suṣumnā ca tṛtīyakā // 65
+ūrdhvamārgasthitā hy etā bṛhacchākhāvalambitāḥ // 66jayanty alambusā caikā bṛhacchākhāvalambinī // 67praṇītā sā hy anekais tu brahmāvartena saṃsthitā // 68brahmadaṇḍacakreṇāsau kapālakarparaṃ yāvat tasmin kapālakarpare candramaṇḍalāntargataṃ kapālaliṅgaṃ lampikāsthānordhve 'mṛtadhārām abhisravati mastakamadhye garbhe tiṣṭhati tad evāmṛtaṃ rājadantamaye śaṅkhinī brahmadaṇḍatale damayitvā sravati // 69ekaṃ mukharandhraṃ rājadantāntare etad eva śaṅkhinīmukhaṃ daśamadvāram ity ucyate // 70yatra ca mūlabhagamaṇḍalānte kuṇḍalinī śaktir vinirgatā tatra vāmabhāgodbhavasomanāḍikā dakṣiṇabhāgodbhavasūryanāḍikā candro vāmāṅgavyāpakaḥ sūryo dakṣiṇāṅgavyāpakaḥ candro vāmāṅge vāmanāsāpuṭaṃ sūryo dakṣiṇāṅge dakṣiṇanāsāpuṭam ity evaṃ sūryacandrau vyavasthitau // 71yatra mūlakande pavanodayaḥ manasa udayaḥ tapanodayaḥ jīvodayaḥ śabdodayaḥ mātṛkākṣarodayaś ceti // 72manomadhye nidrāviṣayam icchākāryo nirañjanaḥ paramātmā // 73mūlakandodyato vāyuḥ somasūryapathodbhavaḥ // 74śaktyādhārasthito yāti brahmadaṇḍakabhedakaḥ // 75mūlakande tu yā śaktiḥ kuṇḍalākārarūpiṇī // 76udgamāvartavāto 'yaṃ prāṇa ity ucyate budhaiḥ // 77kandadaṇḍena coddaṇḍair bhrāmitā yā bhujaṅginī // 78mūrchitā sā śivaṃ vetti prāṇair evaṃ vyavasthitā // 79
+janmāvasthānād adho liṅgaḥ sa cādhārakandajātimadhyasthito guhya ūrdhve bhavati tasyordhve liṅgasthānaṃ svādhiṣṭhānaṃ nābhimaṇḍale maṇipūrakasyordhvabhāge 'nalakaḥ tenoddaṇḍakādyaṃ samāgacchati adhaḥpradeśe maṇipūrakasya dakṣiṇapaścimavarti amedhyasthānam madhye nābheḥ kandaḥ tatra padmākṛtiḥ tatra śarīranāḍīnām ādhāraḥ kathyate hṛdaye pṛthivītattvaṃ pītavarṇaṃ madhye kadambagolakākṛti tatra cittaviśrāntisthānaṃ tad eva analacakram kaṇṭhe codakapravāhapūrṇam ātmatattvaṃ tad viśuddhisthānam tālumadhye dīpaśikhākāraḥ sadoddyotaḥ tat tejastattvam kapālakandarāṅkure vāyutattvam nāsāgre ākāśatattvam tasyordhve ājñāsthānam ājñāsthānāntare granthiṣoḍaśāntare amṛtā ṣoḍaśī kalā tadantare vālāgraśatadhāśrayā ante tasyordhve kalānte binduḥ bindubhedād anantaraṃ śṛṃgāṭakākṛtir mastakasyoddeśas tasmin cittalayasthānam cittasya śarīrabandhanādvayopetas trailokyavihāraḥ tasyāśritā jñānaśaktiḥ evaṃ śaktitrayālaṃkṛtaś ciddarpaṇapratibimbaḥ samo vividhabhāvakalākalitaḥ saṃsāraceṣṭāvalokanakuśalaḥ suptāvasthāyāṃ rūpī jalacandravat dṛśyate yaḥ sa paramātmā sarvavyāpī maheśvaraḥ caturdaśavidhabhūtagrāmakartā ca iti so 'yaṃ paramātmā // 80

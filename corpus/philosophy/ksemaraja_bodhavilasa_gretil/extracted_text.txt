@@ -1,0 +1,175 @@
+Kṣemarāja: Bodhavilāsa
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemarAja-bodhavilAsa.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Daniele Cuneo
+## Contribution: Daniele Cuneo
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Pensa, Corrado: Il Bodhavilāsa di Kṣemarāja. Rivista di Studi Orientali 36 (1961): 125-134.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Bodhavilāsa = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from ksembodhv_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Ksemaraja: Bodhavilasa
+Based on Pensa, Corrado: Il Bodhavilāsa di Kṣemarāja.
+Rivista di Studi Orientali 36 (1961): 125-134.
+Input by Daniele Cuneo
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+kṣemarāja: bodhavilāsa
+
+oṃ namo netrāya //
+
+namaḥ śivāya satataṃ pañcakṛtyavidhāyine /
+cidānandaghanasvātmaparamārthāvabhāsine // 1 //
+
+citiḥ svatantrā viśvasya hetur ity abhidhīyate /
+svātantryarūpā jñātā ca siddhīr vā saṃprayacchate // 2 //
+
+sā svabhittau svecchayaiva viśvasyonmīlanāya ca /
+nānānurūpavaicitryād grāhyagrāhakabhedataḥ // 3 //
+
+viśvasya tasya vaicitryaṃ grāhyabhedena saṃsthitam /
+nānāvaicitryayogena cottamādhamasaṅkhyayā // 4 //
+
+citisaṅkocanāc cittaṃ cetano 'pi maheśvaraḥ /
+vaṭadhanikāvat tatra viśvarūpaṃ ca tad viduḥ // 5 //
+
+caitanyam ātmano rūpaṃ śuddham atyantanirmalam /
+tad eva niyamāsaktaṃ cittaṃ cid abhidhīyate // 6 //
+
+arthonmukhatayā saṃvic citte viśrāntim āgatā /
+saṅkocātmapradhānatvāc citiś cittaṃ vidur budhāḥ // 7 //
+
+māyāpramātā cidrūpas tanmayatvena dehinām /
+vartate viṣayāsaktaḥ sadvivekavivarjitaḥ // 8 //
+
+sadaikaḥ pratithaś cittaṃ kalāsattvaguṇādibhiḥ /
+saptapramatṛkatvena ṣaṭtriṃśattattvasaṅkhyayā // 9 //
+
+ekaḥ sarvagataḥ śuddhaḥ sambodhātmā maheśvaraḥ /
+saivāhantāparijñānān muktiḥ karatale sthitā // 10 //
+
+pramātṛsaptakatvena ṣaṭtriṃśattattvasaṅkhyayā /
+bhāvitaḥ sa maheśāno mokṣalakṣmīḥ pravartate // 11 //
+
+tadbhūmikā darśanādyās sarvā eva na saṃśayaḥ /
+bhūmikāḥ kṛtrimā yadvan naṭo gṛhṇāti svecchayā // 12 //
+
+tadvad eva cidānandasvecchocchalitabṛṃhitaḥ /
+ātmā gṛhṇāti vipulā darśanādyā vibhūtayaḥ // 12 //
+
+cidānandasamullāsollasitātmā virājate /
+cidvatsvaśaktisaṅkocāt saṃsāre malināyate // 13 //
+
+apūrṇo 'smīti vividhair malaiḥ sa malinīkṛtaḥ /
+māyīyāṇavakārmākhyair vyāpako 'pi jagadvibhuḥ // 15 //
+
+vyāpī yadvan mahādevaḥ kroti pañcakṛtyatām /
+tadvad evāyam ātmāpi kurute śaktimohitaḥ // 16 //
+
+śakto vikāsāc chaktīśo gīyate tattvavādibhiḥ /
+saṅkocanāt saṅkocitaḥ saṃsārīty abhidhīyate // 17 //
+
+māyā rūpaṃ hi yat kiṃcid ālokayitum udyatā /
+sādhyasṛṣṭiṃ vijānīyād anyā śaktiḥ sthitir matā // 18 //
+
+saṃhārāt saṃhṛtā devī cidaikye 'nugraho mataḥ /
+tadekasārāprathanāt tirodhānābhidhīyate // 19 //
+
+itthaṃ sadā saṃnihitaḥ pañcavāhavidhiḥ kramāt /
+jñātaś cintāmaṇir asāv ajñānāt kāṣṭaloṣṭavat // 20 //
+
+sadvimarśabalenaivaṃ nityaṃ yaḥ pariśīlate /
+sa muktaḥ sarvabandhebhyo nityānandamayo bhavet // 21 //
+
+cidvahnir grasate so 'yaṃ suprabuddho 'sty asau yadā /
+tadāsau vimalo jñeyaś cidvahniḥ sarvabhakṣakaḥ // 22 //
+
+etadbalena saṃyukto yogī nirvāṇalakṣaṇaḥ /
+padaṃ prāpnoti vimalaṃ so 'cirān nātra saṃśayaḥ // 23 //
+
+cidvahnir balalābhe 'pi viśvam ābhāti cinmayam /
+svānandāmṛtakallolam etad ucchalitaṃ bahiḥ // 24 //
+
+tad eva śyānatāṃ yātaṃ bhāvarūpair vibhāvyate /
+svātmā maheśvaro devaḥ krīḍate parameśvaraḥ // 25 //
+
+iti yaḥ satataṃ vetti sa mukto mocayaty api /
+sattvavrātaṃ kṣaṇenaiva ghorāt saṃsārabandhanāt // 26 //
+
+yaḥ kaścit ānandabalaḥ sa svarūpapadasthitaḥ /
+iti yasya samullāsollāsitodayaśālinaḥ // 27 //
+
+tasya svarūpaniṣṭhasya vyutthāne 'pi tad arthyate /
+etat prayatnasāmārthyāj janair evādhigamyate // 28 //
+
+madhyadhāmavikāsāc ca cidānandāt prakāśate /
+tatprakāśād divyadṛṣṭir jñānarūpā vibhāvyate // 29 //
+
+nirmalā suprabhā śuddhā nityānandamayī parā /
+nirdehacchedajālāpi jñānadṛṣṭir vijṛmbhate // 30 //
+
+madhyadhāmavikāse tu upāyo balavatsthitiḥ /
+vikalpakṣayasaṅkocavikāsādyā anekaśaḥ // 31 //
+
+ akiñciccintanād eva vikalpānāṃ kṣayo bhavet /
+cidbodhād vilasacchaktī raktāsau bhāvamaṇḍale // 32 //
+
+tatrānuraktā divyaughaṃ paśyate vimalātmakam /
+śaktisaṅkocam etad dhi procyate brahmavādibhiḥ // 33 //
+
+ādyantakoṭiviśrāmabindunādalayās tathā /
+aśaṅkitabhayakrodhabībhatsādiparigrahāḥ // 34 //
+
+ity etat kathitaṃ devi madhyadhāmavikāsakam /
+tatra śakto dinair evaṃ prapnoti parasampadam // 35 //
+
+yo 'ntaḥsamādhisaṃskāraṃ bhramate vimalatviṣām /
+sa visargabalād eva vimṛśya ca punaḥ punaḥ // 36 //
+
+vyutthāne 'pi yatas tasya svarūpaṃ samprakāśate /
+yogino bodhaniṣṭhasya nityānandarasasya ca // 37 //
+
+tat prakāśānandamayī mantravīryopabṛṃhitā /
+pūṛnāhantācid ity antaḥsamullāsābhiyoginaḥ // 38 //
+
+tatrāsau vilasan yogī mantreśvarapade sthitaḥ /
+tatra śakto vibhur yadvat krīḍate śaktibṛṃhitaḥ // 39 //
+
+evaṃ svatantratā tasya vyāpakasya jagadvibhoḥ /
+nānābhedajuṣaś citrapadasthitasyākhaṇḍitā // 40 //
+
+etad advayam ity uktaṃ jñānāmṛtam anuttamam /
+yaḥ pibec chāmyate tasya saṃsāraviṣamūrchanam // 41 //
+
+bodhollāsavidhāneyaṃ śivaprāpyai mahātmanām /
+rājñaḥ kṣemābhidhānasya śāstram atyantanirmalam // 42 //
+
+iti śrīkṣemarājakṛtaṃ bodhavilāsākhyaṃ yogaśāstram //

@@ -1,0 +1,325 @@
+<?encoding="UTF-8" ?>
+	Title: Tantravaṭadhānikā
+	Author: Abhinavagupta
+
+	Category: Śaiva
+	References: © Sferra 2001; Kaul & Sferra (forthcoming)  
+	Input by: F. Sferra
+	Input: June 11, 2007
+	Revision: 1.0
+
+
+
+praṇamya gurum īśānaṃ sattantravaṭadhānikā |
+mayābhinavaguptena svaśaktyuddīptaye kṛtā || 1 ||
+
+ajñānaṃ bandhane hetur bandhanaṃ hi punarbhavaḥ |
+punarbhavaś ca dehādau vedye svātmatvaniścayāt || 2 ||
+
+ahaṃ sukṛtakārīti svargādau bhoktṛtā mama |
+ityādidehatādātmyāt svargāvīcyādiṣūdbhavaḥ || 3 ||
+
+ato 'nātmani dehādau galite svātmaniścaye |
+ghaṭādivad anātmeti dehādiṃ sthitam apy amum || 4 ||
+
+paśyataḥ pūrvasaṃskārakṣayād dehe kṣayaṃ gate |
+anyocitasvasaṃskārābhāvād dehaḥ kathaṃ bhavet || 5 ||
+
+dehābhāve 'pi vai tasya prāṇadhīśūnyagocare |
+ātmasaṃskārasadbhāve bhavet tadrūpatā param || 6 ||
+
+prāṇādāv api tu dhvaste svātmabhāve parisphuṭam |
+sarvāvacchedahīnaṃ tad ātmatattvaṃ prakāśate || 7 ||
+
+anavacchinnarūpatvād asaṃvedyaṃ tad ucyate |
+avacchedāj jaḍaṃ vedyam anyādhīnaprakāśakam || 8 ||
+
+svaprakāśaikarūpatvād bhāvātmatvena bhāsanāt |
+tathātve 'pi svatantratvāc chaktimān sa śivaḥ smṛtaḥ || 9 ||
+
+sarvātmabhūtaḥ sarvādhvasamuttīrṇaḥ svatantrakaḥ |
+svaśaktyā bhāsitānantaviśvaḥ sa parameśvaraḥ || 10 ||
+
+sa eṣa satyato muktaḥ sarvāvacchedavarjanāt |
+anye na tattvato muktā avacchedāṃśasambhavāt || 11 ||
+
+ato yāvan na sarvasmin vedye vedyatayā gatiḥ |
+tāvad vedyāṃśa ekasmin bhavet svātmatvaniścayaḥ || 12 ||
+
+yadā tu dharaṇītattvāc chivāntaṃ tattvapañjaram |
+avacchinnaṃ bhaved vedyam ananyonyātmakaṃ sphurat || 13 ||
+
+tadā tāvati saṃvedyajāte vedakam asya yat |
+iyatas tad avacchedahīnaṃ bhāti paraṃ śivam || 14 ||
+
+tat prakāśaṃ pramātṛtvān netaran meyabhāvataḥ |
+meyatvam asyāvacchedāt sa hy avacchedake sati || 15 ||
+
+tad evaṃ ca dharātattvāc chivāntaṃ mātṛ netarat |
+amātṛbhāvād evānyad aprakāśātmakaṃ sthitam || 16 ||
+
+aprakāśaṃ ca nāsty eva sattā prākāśyam eva hi |
+tataś caivāprakāśatvāt svayaṃ sattāsya nocitā || 17 ||
+
+parādhīnaiva sattāsya parādhīnaprakāśataḥ |
+paricchedaprakāśas tat so 'pi tattulya eva yat || 18 ||
+
+ataḥ prakāśādhīnā cet sattāsmin sārvakālikī |
+nūnaṃ prakāśa evāsti yo 'vacchedavivarjitaḥ || 19 ||
+
+tatra prakāśe bhānty ete svāvacchedaniyantritāḥ |
+bhāvāḥ prakāśasvātantryād vicitrākārabṛṃhitāḥ || 20 ||
+
+yathā ca te 'vabhāsante tathā taducitāḥ punaḥ |
+teṣāṃ prakāśakā bhānti surāntās tiryagādayaḥ || 21 ||
+
+prakāśakatvāc caiteṣāṃ śivātmatve 'pi susphuṭe |
+vedyāś cānyonyataś cāyam avacchedo 'sti yatnataḥ || 22 ||
+
+aprakāśatvam apy asti tatprakāśaprakāśyatām |
+gatās te paśavo bhānti śivasyaiva svaśaktitaḥ || 23 ||
+
+avacchedāṃśa eteṣāṃ svaprakāśaś ca yaḥ sphuṭaḥ |
+sa vicitrasvabhāvatvād dehaprāṇāditāṃ gataḥ || 24 ||
+
+dehāder api vaicitryād devatiryaṅmanuṣyatā |
+vaicitryāntarato 'trāpi caitramaitrādirūpatā || 25 ||
+
+yathā ca paśavo bhānti tathā kecana tāṃ nijām |
+aprakāśadaśāṃ ghnanti dehaprāṇatadātmatām || 26 ||
+
+te prabuddhāś ca patayo jīvanmuktā maharṣayaḥ |
+teṣāṃ tattāratamyena guruśiṣyāditā sthitā || 27 ||
+
+tad evaṃ bhedabhoktṛtvaṃ sṛṣṭis tatsthiratā sthitiḥ |
+aṃśena nyakkriyā tasya saṃhāro 'nugrahaḥ punaḥ || 28 ||
+
+aprakāśadaśādhvaṃsas tadupāyaikalagnatā |
+hṛdayān nindanaṃ tasya tatsevā tat tirohitiḥ || 29 ||
+
+evaṃ pañcavidhaṃ kṛtyaṃ bhāsayan parameśvaraḥ |
+yadā bhāti tadaivāsya cittvam aiśvaryam ucyate || 30 ||
+
+tathāvidhāprakāśāṃśadhvaṃsaḥ kasyāpy upāyataḥ |
+vinaiva kasyacic citrair upāyaiḥ saṃskriyādibhiḥ || 31 ||
+
+tad evaṃ vedyarūpatvād boddhṛtvaṃ bandhamuktatā |
+iyataḥ sakalasyātmā prakāśo 'bhyadhikas tataḥ || 32 ||
+
+sarvātiriktaḥ sarvātmā svatantraḥ sarvaśaktikaḥ |
+sarvapūrṇo 'navacchinnaprakāśo bhairavaḥ punaḥ || 33 ||
+
+yadrūpatvaṃ parā muktiḥ punarāvṛttivarjitā |
+anyās tu dhīprāṇaśūnyadhiyo janmakṣayocitāḥ || 34 ||
+
+śūnyaṃ dhīḥ prāṇa ity etat sṛjyate kṣīyate 'pi ca |
+sthairyam asya paraṃ dehāpekṣayā na tu tattvataḥ || 35 ||
+
+ataḥ ṣaṭtriṃśadantaḥsthe tattve svātmatvaniścayāt |
+vedyāṃśe muktir asya syād āvṛttiḥ sordhvataḥ param || 36 ||
+
+yadā samastavedyāṃśasamuttīrṇaṃ paraṃ mahaḥ |
+bhāti muktas tadaivāsau bhairavaḥ parameśvaraḥ || 37 ||
+
+	iti śrīmadabhinavaguptācāryaviśeṣaviracitāyāṃ tantravaṭadhānikāyāṃ prathamam āhnikam ||
+
+
+
+upāyair na śivo bhāti bhānti te tatprasādataḥ |
+sa evāhaṃ svaprakāśo bhāse viśvasvarūpakaḥ || 1 ||
+
+ity ākarṇya guror vākyaṃ sakṛt kecana niścitāḥ |
+vinā bhūyo 'nusandhānaṃ bhānti saṃvinmayāḥ sthitāḥ || 2 ||
+
+yathādarśe ghaṭādīnāṃ sthitir miśretarātmikā |
+cidātmani tathāmīṣāṃ bhāvānāṃ citrarūpiṇī || 3 ||
+
+ādarśas tu jaḍatvān na svatantro bhāsate yathā |
+ahaṃprakāśarūpatvāt svatantro bhāsate tathā || 4 ||
+
+ity evaṃ gurutaḥ śrutvā vākyaṃ tadbhāvanākramāt |
+bhūyo bhūyo 'nusandhānāt ko 'pi yāti śivātmatām || 5 ||
+
+nāhaṃ dehātmako nāhaṃ karmādhīno na me malaḥ |
+nānyena prerito 'smīti kiṃ tv etadviparītakam || 6 ||
+
+itthaṃ vikalpaṃ saṃskṛtya spaṣṭavidyātmatāṃ nayan |
+kaścid yāti samāveśaṃ dhanyaḥ śrīguruvākyataḥ || 7 ||
+
+svaprakāśaṃ samastātmatattvaṃ mātrādikaṃ trayam |
+antaḥkṛtya sthitaṃ dhyāyed dhṛdayānandadhāmani || 8 ||
+
+taddvādaśamahāśaktiraśmicakreśvaraṃ vibhum |
+vyomabhir niḥsarad bāhye dhyāyet sṛṣṭiṃ sthitiṃ dadhat || 9 ||
+
+paścād grastasabāhyāntarbhāvamaṇḍalam ātmani |
+viśrāmyet punar apy evaṃ dhyānābhyāsāt prathātmanaḥ || 10 ||
+
+prāṇo bodhamayaḥ pūrvaṃ tata ullasati sphuṭam |
+meyaṃ pūrayate tena sa kramaikyaṃ prapadyate || 11 ||
+
+tad eva sañjihīrṣeta saṃhṛtyāpūrṇatāṃ nayet |
+etāvad anusandhatte sapta viśrāntayas tv imāḥ || 12 ||
+
+unmiṣattonmiṣitatāsaṅghaṭṭair ekaviṃśatiḥ |
+ānanda udbhavaḥ kampo nidrā ghūrṇiś ca pañcakam || 13 ||
+
+tatrottarottarāveśabhedāt pañcottaraṃ śatam |
+yoginīhṛdayānandavyomabhūsampradāyataḥ || 14 ||
+
+avyaktetarayugmātmaliṅgatādātmyayogataḥ |
+tatrāpi tritayaṃ mukhyaṃ sṛṣṭisaṃhārabījakam || 15 ||
+
+śrīmadācāryavaktrasthaṃ mantravīryaṃ tad uttamam |
+aṣṭottaraśatāviṣṭaṃ mantrāḥ prāṇapathe yataḥ || 16 ||
+
+evaṃ dhīprāṇasaṅghaṭṭadvāreṇāntaḥsamāviśan |
+śāmbhavīṃ paramāṃ dhārām āṇavena prapadyate || 17 ||
+
+tad evaṃ trividhaṃ prāpya guror āveśam uttamam |
+gurum abhyarcayed dhīmān dehasarvasvadānataḥ || 18 ||
+
+nainaṃ prakopayen nāsya vākyaṃ kiñcana laṅghayet |
+avicāritam asyājñāṃ kuryāj jñānaṃ sthiraṃ tathā || 19 ||
+
+	iti śrīmadabhinavaguptācāryaviśeṣaviracitāyāṃ tantravaṭadhānikāyāṃ dvitīyam āhnikam ||
+
+
+
+
+evam ābhyantarī sattā śivatādātmyadāyinī |
+yathā bhavet tathā proktaṃ bāhyedānīṃ nigadyate || 1 ||
+
+bāhyo bhedo dvidhā dṛṣṭaḥ kriyāto rūpatas tathā |
+ekasminn api kālātmā tatrādyo deśataḥ paraḥ || 2 ||
+
+kriyā svātmaparispandas tataḥ prāṇo 'tha tatkṛtam |
+kālavaicitryam ity evaṃ saṃvitspandādhikaṃ na hi || 3 ||
+
+yathā saṃvid ghaṭātmāsau cidātmeti taraṅgitā |
+śaktis tathā vicitro 'yaṃ sṛṣṭisaṃhāravibhramaḥ || 4 ||
+
+svapnasaṅkalpamāyāṃśakriyāvaicitryacitritaḥ |
+vicitraḥ kāla eko 'yaṃ saṃsāraspanda īdṛśaḥ || 5 ||
+
+pārthivaṃ prākṛtaṃ vaiśvaṃ śāktaṃ cāṇḍacatuṣṭayam |
+vicitradeśabhuvanatattvātmakam idaṃ sphuret || 6 ||
+
+mamaivāntarataḥ sarvadeśakālātmikāṃ bhidām |
+antaḥkṛtyāham evaika iti jñānād vimuktatā || 7 ||
+
+yāvad vicitraṃ bāhyaṃ hi tan na ṣaṭtriṃśataḥ param |
+sā na saṃvittiviśrāntyā vinā saṃvinmayaṃ yataḥ || 8 ||
+
+kaṭhinaṃ dravam atyuṣṇaṃ sparśanaṃ sāvakāśatā |
+pañca bhūtāni citrāṇi tanmātrāṇi tu tadguṇāḥ || 9 ||
+
+gandho raso rūpam atha sparśaḥ śabdo 'viśeṣataḥ |
+eteṣāṃ grāhakaṃ cākṣaṃ pañcadhā jñānaśaktijam || 10 ||
+
+kriyāśaktyuttham anyac ca tat karmendriyapañcakam |
+saṅkalpaniścayau mānas tad antaḥkaraṇatrayam || 11 ||
+
+iyato vedyajātasya yad abhinnaṃ vapuḥ purā |
+tat pradhānam iyad vedyaṃ jaḍaṃ tadvedakaḥ pumān || 12 ||
+
+so 'prakāśaprakāśātmā ṣaṭkañcukapariṣkṛtaḥ |
+kiñcit karoti jānāti tac cedaṃ raktimān iha || 13 ||
+
+yato 'smin so 'dhunaivaite kalāvidyamaraktayaḥ |
+kālaś ca sarvatattvānāṃ pūrṇabhūmir niśā smṛtā || 14 ||
+
+aprakāśāṃśagalanaṃ prakāśasya sphuṭā sthitiḥ |
+prakāśadarpaṇe bhāvadarśanaṃ tad abhedataḥ || 15 ||
+
+bhāvānāṃ bhāsanaṃ śuddhaḥ prakāśa iti pañcadhā |
+vidyātattvād ā śivāntaṃ tadabhinnaḥ paraḥ śivaḥ || 16 ||
+
+upadeśyatayā so 'pi syād avacchedabhāgataḥ |
+aṣṭātriṃśaṃ paraṃ dhāma yatredaṃ viśvakaṃ sphuret || 17 ||
+
+pratyekam api bhāvasya yo bhedo jñātṛbhedataḥ |
+yathā ghaṭaṃ vedmi tathā mayā jñātaṃ śivena vā || 18 ||
+
+ity evaṃ svātmanaḥ sarvam antaḥ paśyan svasaṃvidā |
+galitāśeṣabhedāṃśo bhairavībhāvam aśnute || 19 ||
+
+iyad yad uktaṃ tat ko 'pi svayam evāvabudhyate |kaścid
+gurūpadeśena śāstrād vātha dvayāt trayāt || 20 ||
+
+guros tv abhyastavijñāno dīkṣayā sa vimucyate |
+dīkṣā ca sāmayī nāma mantratādātmyadāyinī || 21 ||
+
+caryākrameṇa dehānte samyaksamayapālanāt |
+sā ca sarvādhvasampūrṇamāntrasaṃvidabhedinā || 22 || 
+
+guruṇānugrahadhiyā śiṣye yad avalokanam |
+pautrikī sā punaś caryāmātreṇa prāyaṇe yayā || 23 ||
+
+paraṃ śivatvam abhyeti vināpi jñānayogataḥ |
+sā ca kramāt kramaṃ śiṣyaciteḥ śivaniyojanam || 24 ||
+
+atikramya tu ṣaṭtriṃśadantam adhvānam ādarāt |
+sāsvasthe prāptamṛtyau vā mṛte dūrastha eva vā || 25 ||
+
+gurvantevāsitadbandhumukhotthāc chaktipātataḥ |
+sthāvareṣv atha dīkṣā hi paśuṣv api nirūpitā || 26 ||
+
+te tu na jñānahīnatvāt sādhakā guravo 'pi vā |
+samastajñānasambhārapūrṇasvātmavikāsataḥ || 27 ||
+
+vāñchan sādhakatāṃ neyo niṣkāmas tu gurūttamaḥ |
+sarvasampūrṇakṛtyasya svātmārthe 'nabhilāṣiṇaḥ || 28 ||
+
+pāriśeṣyāt parārthaiva hy anapāyā kriyeśavat |
+nityaṃ naimittikaṃ caiva guruḥ samayiputrake || 29 ||
+
+dvaye 'py upadiśed ādyaḥ svayaṃ nityam upācaret |
+naimittikaṃ guruḥ kuryāt tac ca parvadinārcanam || 30 ||
+
+yatra siddhāś ca khecaryaḥ saṅketaṃ cakrire purā |
+śaktitadvadabhedena svānandātmakavastuni || 31 ||
+
+tadrasāsāradhātūtthā kriyā mukhyo vidhis tv ayam |
+pavitrakavidhiś cānyo yaḥ samagraṃ prapūrayet || 32 ||
+
+naimittikaṃ mukhyakalpaṃ sarvathā samupācaret |
+māsi māsy atha varṣe vā janmamadhye 'tha vā punaḥ || 33 ||
+
+mukhyena vidhināvṛttes tarhi caryā na pūritā |
+apūrṇacaryāyogena caryāpāyaikabhuktikaḥ || 34 ||
+
+muktau vighnaṃ vrajet tasmāt sarvathā pūrayed vidhim |
+kaścid īśecchayā samyaganāśvasto 'pi cetasā || 35 ||
+
+nindann eva bhajec caryāṃ sa tirohita ucyate |
+nindyamānamahāmantravidyācaryādikopajam || 36 ||
+
+pāpma taṃ pātayed ghore yātanādhāmni sarvathā |
+kasyāpi tu tirobhūtavṛtter api punar nijam || 37 ||
+
+hṛdayaṃ samyagāśvāsād avighnaṃ śivatāṃ vrajet |
+evaṃ dhīprāṇasambandhād āntarād bāhyato 'pi ca || 38 ||
+
+caryayā yaḥ samāveśaḥ sa ihāṇava ucyate |
+tasmin rūḍhaḥ samabhyeti śāktam asmāc ca śāmbhavam || 39 ||
+
+tataḥ paraṃ pūrṇasattāṃ pararūḍhas tu na tyajet |
+ulkāhasto yathā kaścit prāpyam ādāya tāṃ tyajet || 40 ||
+
+jñānena jñeyam ālokya tathā jñānaṃ tyajed iti |
+
+uktaṃ śrīkālapādādau jñāne naṣṭe na tat sadā |
+jñaptisādhanam evoktaṃ na jñeyaṃ paramaṃ padam || 41 ||
+
+eṣābhinavaguptena racitā tantradhānikā |
+hṛdbhūmau yasya rūḍhā sa śivakalpamahīruhaḥ || 42 ||
+
+	iti śrīmadabhinavaguptācāryaviśeṣaviracitāyāṃ tantravaṭadhānikāyāṃ tṛtīyam āhnikam ||
+
+
+samāptā ceyaṃ tantravaṭadhānikā ||
+
+
+
+

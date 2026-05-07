@@ -1,0 +1,1239 @@
+Gheraṇḍasaṃhitā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gheraNDasaMhitA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Peter Thomi
+## Contribution: Peter Thomi
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Gherandasamhita : Sanskrit-deutsch. Ed. Peter Thomi. Wichtrach: Institut fuer Indologie, 1993 (ISBN 3 7187 0013 1).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Gheraṇḍasaṃhitā = GhS,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from ghers_bu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Gheranda-Samhita
+Electronic text based on the edition:
+Gherandasamhita : Sanskrit-deutsch. Ed. Peter Thomi.
+Wichtrach: Institut fuer Indologie, 1993 (ISBN 3 7187 0013 1).
+Input by Peter Thomi, edited by Peter Schreiner
+Analytic text, BHELA conventions
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ādīśvarāya praṇanāmi tasmai $
+yenopadiṣṭā haṭhayogavidyā &
+virājate pronnatarājayogam %
+āroḍhum icchor adhirohiṇīva // GhS_1.0
+
+ekadā caṇḍakāpālir gatvā gheraṇḍakuṭṭiram 
+praṇamya vinayād bhaktyā gheraṇḍaṃ paripṛcchhati // GhS_1.1
+
+ghaṭasthayogaṃ yogeśa tattvajñānasya kāraṇam 
+idānīṃ śrotum icchāmi yogeśvara vada prabho // GhS_1.2
+
+sādhu sādhu mahābāho yan māṃ tvaṃ paripṛcchasi 
+kathayāmi hi te tattvaṃ sāvadhāno 'vadhāraya // GhS_1.3
+
+nāsti māyāsamaḥ pāśo nāsti yogāt paraṃ balam 
+na hi jñānāt paro bandhur nāhaṃkārāt paro ripuḥ // GhS_1.4
+
+abhyāsāt kādivarṇāder yathā śāstrāṇi bodhayet 
+tathā yogaṃ samāsādya tattvajñānaṃ ca labhyate // GhS_1.5
+
+sukṛtair duṣkṛtaiḥ kāryair jāyate prāṇināṃ ghaṭaḥ 
+ghaṭād utpadyate karma ghaṭayantraṃ yathā bhramet // GhS_1.6
+
+ūrdhvādho bhramate yadvad ghaṭayantraṃ gavāṃ vaśāt 
+tadvat karmavaśāj jīvo bhramate janmamṛtyunā // GhS_1.7
+
+āmakumbha ivāmbhaḥstho jīryamāṇaḥ sadā ghaṭaḥ 
+yogānalena saṃdahya ghaṭaśuddhiṃ samācaret // GhS_1.8
+
+śodhanaṃ dṛḍhatā caiva sthairyaṃ dhairyaṃ ca lāghavam 
+pratyakṣaṃ ca nirliptaṃ ca ghatasthaṃ saptasādhanam // GhS_1.9
+
+ṣaṭkarmaṇā śodhanaṃ ca āsanena bhaved dṛḍham 
+mudrayā sthiratā caiva pratyāhāreṇa dhairyatā // GhS_1.10
+
+prāṇāyāmāl lāghavaṃ ca dhyānāt pratyakṣam ātmani 
+samādhinā nirliptaṃ ca muktir eva na saṃśayaḥ // GhS_1.11
+
+dhautir vastis tathā netir laulikī trāṭakaṃ tathā 
+kapālabhātiś caitāni ṣaṭkarmāṇi samācaret // GhS_1.12
+
+antardhautir dantadhautir hṛddhautir mūlaśodhanam 
+dhautyaś caturvidhā proktā ghaṭaṃ kurvanti nirmalam // GhS_1.13
+
+vātasāraṃ vārisāraṃ vahnisāraṃ bahiṣkṛtam 
+ghaṭasya nirmalārthāya hy antardhautiś caturvidhā // GhS_1.14
+
+kākacañcūvad āsyena pibed vāyuṃ śanaiḥ śanaiḥ 
+cālayed udaraṃ paścād vartmanā recayec chanaiḥ // GhS_1.15
+
+vātasāraṃ paraṃ gopyaṃ dehanirmalakārakam 
+sarvarogakṣayakaraṃ dehānalavivardhakam // GhS_1.16
+
+ākaṇṭhaṃ pūrayed vāri vaktreṇa ca pibec chanaiḥ 
+cālayed udareṇaiva codarād recayed adhaḥ // GhS_1.17
+
+vārisāraṃ paraṃ gopyaṃ dehanirmalakārakam 
+sādhayed yaḥ prayatnena devadehaṃ prapadyate // GhS_1.18
+
+vārisāraṃ parāṃ dhautiṃ sādhayed yaḥ prayatnataḥ 
+maladehaṃ śodhayitvā devadehaṃ prapadyate // GhS_1.19
+
+nābhigranthiṃ merupṛṣṭhe śatavāraṃ ca kārayet 
+udarāmayajaṃ tyaktvā jāṭharāgniṃ vivardhayet 
+vahnisāram iyaṃ dhautir yogināṃ yogasiddhidā // GhS_1.20
+
+eṣā dhautiḥ parā gopyā na prakāśyā kadācana 
+kevalaṃ dhautimātreṇa devadeho bhaved dhruvam // GhS_1.21
+
+kākīmudrāṃ sādhayitvā pūrayed udaraṃ mahat 
+dhārayed ardhayāmaṃ tu cālayed adhavartmanā 
+eṣā dhautiḥ parā gopyā na prakāśyā kadācana // GhS_1.22
+
+nābhimagnajale sthitvā śaktināḍīṃ vimarjayet 
+kārābhyāṃ kṣālayen nāḍīṃ yāvan malavisarjanam // GhS_1.23
+
+tāvat prakṣālya nāḍīṃ ca udare veśayet punaḥ 
+idaṃ prakṣālanaṃ gopyaṃ devānām api durlabham 
+kevalaṃ dhautimātreṇa devadeho bhaved dhruvam // GhS_1.24
+
+yām ārdhadhāraṇāśaktiṃ yāvan na sādhayen naraḥ 
+bahiṣkṛtaṃ mahādhautī tāvan naiva tu jāyate // GhS_1.25
+
+dantamūlaṃ jihvāmūlaṃ randhraṃ ca karṇayugmayoḥ 
+kapālarandhraṃ pañceti dantadhautirvidhīyate // GhS_1.26
+
+khadireṇa rasenātha mṛttikayā ca śuddhayā 
+mārjayed dantamūlaṃ ca yāvat kilbiṣam āharet // GhS_1.27
+
+dantamūlaṃ parā dhautir yogināṃ yogasādhane 
+nityaṃ kuryāt prabhāte ca dantarakṣāya yogavit 
+dantamūlaṃ dhāraṇādikāryeṣu yogināṃ yataḥ // GhS_1.28
+
+athātaḥ saṃpravakṣyāmi jihvāśodhanakāraṇam 
+jarāmaraṇarogādīn nāśayed dīrghalambikā // GhS_1.29
+
+tarjanīmadhyamānāmā aṅgulitrayayogataḥ 
+veśayed galamadhye tu mārjayel lambikāmalam 
+śanaiḥ śanair mārjayitvā kaphadoṣaṃ nivārayet // GhS_1.30
+
+mārjayen navanītena dohayec ca punaḥ punaḥ 
+tadagraṃ lauhayantreṇa karṣayitvā punaḥ punaḥ // GhS_1.31
+
+nityaṃ kuryāt prayatnena raver udayake 'stake 
+evaṃ kṛte tu nitye ca lambikā dīrghatāṃ gatā // GhS_1.32
+
+tarjanyaṅgulyagrayogān mārjayet karṇarandhrayoḥ 
+nityam abhyāsayogena nādāntaraṃ prakāśanam // GhS_1.33
+
+vṛddhāṅguṣṭhena dakṣeṇa mardayed bhālarandhrakam 
+evam abhyāsayogena kaphadoṣaṃ nivārayet // GhS_1.34
+
+nāḍī nirmalatāṃ yāti divyadṛṣṭiḥ prajāyate 
+nidrānte bhojanānte ca divānte ca dine dine // GhS_1.35
+
+hṛddhautiṃ trividhāṃ kuryād daṇḍavamanavāsasā // GhS_1.36
+
+rambhādaṇḍaṃ hariddaṇḍaṃ vetradaṇḍaṃ tathaiva ca 
+hṛnmadhye cālayitvā tu punaḥ pratyāharec chanaiḥ // GhS_1.37
+
+kaphapittaṃ tathā kledaṃ recayed ūrdhvavartmanā 
+daṇḍadhautividhānena hṛdrogaṃ nāśayed dhruvam // GhS_1.38
+
+bhojanānte pibed vāri ākarṇapūritaṃ sudhīḥ 
+ūrdhvadṛṣṭiṃ kṣaṇaṃ kṛtvā taj jalaṃ vamayet punaḥ 
+nityam abhyāsayogena kaphapittaṃ nivārayet // GhS_1.39
+
+ekonaviṃśatiḥ hastaḥ pañcaviṃśati vai tathā 
+caturaṅgulavistāraṃ sūkṣmavastraṃ śanair graset 
+punaḥ pratyāhared etat procyate dhautikarmakam // GhS_1.40
+
+gulmajvaraplīhākuṣṭhakaphapittaṃ vinaśyati 
+ārogyaṃ balapuṣṭiś ca bhavet tasya dine dine // GhS_1.41
+
+apānakrūratā tāvad yāvanmūlaṃ na śodhayet 
+tasmāt sarvaprayatnena mūlaśodhanam ācaret // GhS_1.42
+
+pītamūlasya daṇḍena madhyamāṅgulināpi vā 
+yatnena kṣālayed guhyaṃ vāriṇā ca punaḥ punaḥ // GhS_1.43
+
+vārayet koṣṭhakāṭhinyam āmājīrṇaṃ nivārayet 
+kāraṇaṃ kāntipuṣṭyoś ca dīpanaṃ vahnimaṇḍalam // GhS_1.44
+
+jalavastiḥ śuṣkavastir vastī ca dvividhau smṛtau 
+jalavastiṃ jale kuryāc chuṣkavastiṃ kṣitau sadā // GhS_1.45
+
+nābhimagnajale pāyunyastanālotkaṭāsanaḥ 
+ākuñcanaṃ prakāśaṃ ca jalavastiṃ samācaret // GhS_1.46
+
+pramehaṃ ca gudāvartaṃ krūravāyuṃ nivārayet 
+bhavet svacchandadehaś ca kāmadevasamo bhavet // GhS_1.47
+
+vastiṃ paścimatānena cālayitvā śanaiḥ śanaiḥ 
+aśvinīmudrayā pāyum ākuñcayet prakāśayet // GhS_1.48
+
+evam abhyāsayogena koṣṭhadoṣo na vidyate 
+vivardhayej jāṭharāgnim āmavātaṃ vināśayet // GhS_1.49
+
+vitastimānaṃ sūkṣmasūtraṃ nāsānāle praveśayet 
+mukhān nirgamayet paścāt procyate netikarmakam // GhS_1.50
+
+sādhanān netikarmāpi khecarīsiddhim āpnuyāt 
+kaphadoṣā vinaśyanti divyadṛṣṭiḥ prajāyate // GhS_1.51
+
+amandavegaṃ tundaṃ ca bhrāmayed ubhapārśvayoḥ 
+sarvarogān nihantīha dehānalavivardhanam // GhS_1.52
+
+nimeṣonmeṣakaṃ tyaktvā sūkṣmalakṣyaṃ nirīkṣayet 
+yāvad aśrū nipatate trāṭakaṃ procyate budhaiḥ // GhS_1.53
+
+evam abhyāsayogena śāṃbhavī jāyate dhruvam 
+na jāyate netrarogaḥ divyadṛṣṭipradāyakam // GhS_1.54
+
+vāmakrameṇa vyutkrameṇa śītkrameṇa viśeṣataḥ 
+bhālabhātiṃ tridhā kuryāt kaphadoṣaṃ nivārayet // GhS_1.55
+
+iḍayā pūrayed vāyuṃ recayet piṅgalā punaḥ 
+piṅgalayā pūrayitvā punaś candreṇa recayet // GhS_1.56
+
+pūrakaṃ recakaṃ kṛtvā vegena na tu cālayet 
+evam abhyāsayogena kaphadoṣaṃ nivārayet // GhS_1.57
+
+nāsābhyāṃ jalam ākṛṣya punar vaktreṇa recayet 
+pāyaṃ pāyaṃ prakurvaṃś cec chleṣmadoṣaṃ nivārayet // GhS_1.58
+
+śītkṛtya pītvā vaktreṇa nāsānalair virecayet 
+evam abhyāsayogena kāmadevasamo bhavet // GhS_1.59
+
+na jāyate vārddhakaṃ ca jvaro naiva prajāyate 
+bhavet svacchandadehaś ca kaphadoṣaṃ nivārayet // GhS_1.60
+
+[[iti śrī-gheraṇḍa-saṃhitāyāṃ gheraṇḍa-caṇḍa-saṃvāde ghaṭa-stha-yoge ṣaṭ-karma-sādhanaṃ nāma prathamo1padeśaḥ //1// ]]
+
+āsanāni samastāni yāvanto jīvajantavaḥ 
+caturaśīti lakṣāṇi śivena kathitaṃ purā // GhS_2.1
+
+teṣāṃ madhye viśiṣṭāni ṣoḍaśonaṃ śataṃ kṛtam 
+teṣāṃ madhye martyaloke dvātriṃśad āsanaṃ śubham // GhS_2.2
+
+siddhaṃ padmaṃ tathā bhadraṃ muktaṃ vajraṃ ca svastikam 
+siṃhaṃ ca gomukhaṃ vīraṃ dhanurāsanam eva ca // GhS_2.3
+
+mṛtaṃ guptaṃ tathā mātsyaṃ matsyendrāsanam eva ca 
+gorakṣaṃ paścimottānam utkaṭaṃ saṃkaṭaṃ tathā // GhS_2.4
+
+mayūraṃ kukkuṭaṃ kūrmaṃ tathā uttānakūrmakam 
+uttānamaṇḍukaṃ vṛkṣaṃ maṇḍūkaṃ garuḍaṃ vṛṣam // GhS_2.5
+
+śalabhaṃ makaraṃ coṣṭraṃ bhujaṃgaṃ ca yogāsanam 
+dvātriṃśad āsanāny eva martyaloke ca siddhidā // GhS_2.6
+
+yonisthānakam aṅghrimūlaghaṭitaṃ saṃpīḍya gulphetaraṃ $
+meḍhropary atha saṃnidhāya cibukaṃ kṛtvā hṛdi sthāpitam &
+sthāṇuḥ saṃyamitendriyo 'caladṛśā paśyan bhruvor antare %
+etan mokṣakapāṭabhedanakaraṃ siddhāsanaṃ procyate // GhS_2.7
+
+vāmor ūpari dakṣiṇaṃ hi caraṇaṃ saṃsthāpya vāmaṃ tathā $
+dakṣor ūpari paścimena vidhinā kṛtvā karābhyāṃ dṛḍham &
+aṅguṣṭhau hṛdaye nidhāya cibukaṃ nāsāgram ālokayed %
+etad vyādhivikāranāśanakaraṃ padmāsanaṃ procyate // GhS_2.8
+
+gulphau ca vṛṣaṇasyādho vyutkrameṇa samāhitau 
+pādāṅguṣṭhau karābhyāṃ ca dhṛtvā ca pṛṣṭhadeśataḥ // GhS_2.9
+
+jālaṃdharaṃ samāsādya nāsāgram avalokayet 
+bhadrāsanaṃ bhaved etat sarvavyādhivināśakam // GhS_2.10
+
+pāyumūle vāmagulphaṃ dakṣagulphaṃ tathopari 
+śirogrīvāsame kāye muktāsanaṃ tu siddhidam // GhS_2.11
+
+jaṅghayor vajravat kṛtvā gudapārśve padāv ubhau 
+vajrāsanaṃ bhaved etad yogināṃ siddhidāyakam // GhS_2.12
+
+jānūrvor antare kṛtvā yogī pādatale ubhe 
+ṛjukāyaḥ samāsīnaḥ svastikaṃ tat pracakṣate // GhS_2.13
+
+gulphau ca vṛṣaṇasyādho vyutkrameṇordhvatāṃ gatau 
+citimūlau bhūmisaṃsthau karau ca jānunopari // GhS_2.14
+
+vyāttavaktro jalaṃdhreṇa nāsāgram avalokayet 
+siṃhāsanaṃ bhaved etat sarvavyādhivināśakam // GhS_2.15
+
+pādau bhūmau ca saṃsthāpya pṛṣṭhapārśve niveśayet 
+sthirakāyaṃ samāsādya gomukhaṃ gomukhākṛti // GhS_2.16
+
+ekapādam athaikasmin vinyased ūrusaṃsthitam 
+itarasmiṃs tathā paścād vīrāsanam itīritam // GhS_2.17
+
+prasārya pādau bhuvi daṇḍarūpau $
+karau ca pṛṣṭhaṃ dhṛtapādayugmam &
+kṛtvā dhanustulyavivartitāṅgaṃ %
+nigadyate vai dhanurāsanaṃ tat // GhS_2.18
+
+uttānaṃ śavavad bhūmau śayānaṃ tu śavāsanam 
+śavāsanaṃ śramaharaṃ cittaviśrāntikāraṇam // GhS_2.19
+
+jānūrvor antare pādau kṛtvā pādau ca gopayet 
+pādaupari ca saṃsthāpya gudaṃ guptāsanaṃ viduḥ // GhS_2.20
+
+muktapadmāsanaṃ kṛtvā uttānaśayanaṃ caret 
+kūrparābhyāṃ śiro veṣṭya matsyāsanaṃ tu rogahā // GhS_2.21
+
+udare paścimaṃ tānaṃ kṛtvā tiṣṭhati yatnataḥ 
+namrāṅgaṃ vāmapadaṃ hi dakṣajānūpari nyaset // GhS_2.22
+
+tatra yāmyaṃ kūrparaṃ ca yāmyakare ca vaktrakam 
+bhruvor madhye gatā dṛṣṭiḥ pīṭhaṃ matsyendram ucyate // GhS_2.23
+
+jānūrvor antare pādau uttānau vyaktasaṃsthitau 
+gulphau cācchādya hastābhyām uttānābhyaṃ prayatnataḥ // GhS_2.24
+
+kaṇṭhasaṃkocanaṃ kṛtvā nāsāgram avalokayet 
+gorakṣāsanam ity āhur yogināṃ siddhikāraṇam // GhS_2.25
+
+prasārya pādau bhuvi daṇḍarūpau $
+saṃnyastabhālaṃ citiyugmamadhye &
+yatnena pādau ca dhṛtau karābhyāṃ %
+yogendrapīṭhaṃ paścimatānam āhuḥ // GhS_2.26
+
+aṅguṣṭhābhyām avaṣṭabhya dharāṃ gulphau ca khe gatau 
+tatropari gudaṃ nyased vijñeyam utkaṭāsanam // GhS_2.27
+
+vāmapādaciter mūlaṃ saṃnyasya dharaṇītale 
+pādadaṇḍena yāmyena veṣṭayed vāmapādakam 
+jānuyugme karayugmam etat saṃkaṭam āsanam // GhS_2.28
+
+dharām avaṣṭabhya karadvayābhyāṃ $
+tat kūrpare sthāpitanābhipārśvam &
+uccāsane daṇḍavad utthitaḥ khe %
+mayūram etat pravadanti pīṭham // GhS_2.29
+
+bahukadaśanabhuktaṃ bhasma kuryād aśeṣaṃ $
+janayati jaṭharāgniṃ jārayet kālakūṭam &
+harati sakalarogān āśu gulmajvarādīn %
+bhavati vigatadoṣaṃ hy āsanaṃ śrīmayūram // GhS_2.30
+
+padmāsanaṃ samāsādya jānūrvor antare karau 
+kūrparābhyāṃ samāsīno mañcasthaḥ kukkuṭāsanam // GhS_2.31
+
+gulphau ca vṛṣaṇasyādho vyutkrameṇa samāhitau 
+ṛjukāyaśirogrīvaṃ kūrmāsanam itīritam // GhS_2.32
+
+kukkuṭāsanabandhasthaṃ karābhyāṃ dhṛtakandharam 
+khagakūrmavad uttānam etad uttānakūrmakam // GhS_2.33
+
+pādatalau pṛṣṭhadeśe aṅguṣṭhau dvau ca saṃspṛśet 
+jānuyugmaṃ puraskṛtya sādhayen maṇḍukāsanam // GhS_2.34
+
+maṇḍūkāsanabandhasthaṃ kūrparābhyāṃ dhṛtaṃ śiraḥ 
+etad bhekavad uttānam etad uttānamaṇḍukam // GhS_2.35
+
+vāmorumūladeśe ca yāmyaṃ pādaṃ nidhāya tu 
+tiṣṭhati vṛkṣavad bhūmau vṛkṣāsanam idaṃ viduḥ // GhS_2.36
+
+jaṅghorubhyāṃ dharāṃ pīḍya sthirakāyo dvijānunā 
+jānūpari karayugmaṃ garuḍāsanam ucyate // GhS_2.37
+
+yāmyagulphe pāyumūlaṃ vāmabhāge padetaram 
+viparītaṃ spṛśed bhūmiṃ vṛṣāsanam idaṃ bhavet // GhS_2.38
+
+adhyāsya śete padayugmavakṣe $
+bhūmim avaṣṭabhya karadvayābhyām &
+pādau ca śūnye ca vitasti cordhvaṃ %
+vadanti pīṭhaṃ śalabhaṃ munīndrāḥ // GhS_2.39
+
+adhyāsya śete hṛdayaṃ nidhāya $
+bhūmau ca pādau pravisāryamāṇau &
+śiraś ca dhṛtvā karadaṇḍayugme %
+dehāgnikāraṃ makarāsanaṃ tat // GhS_2.40
+
+adhyāsya śete padayugmam astaṃ $
+pṛṣṭhe nidhāyāpi dhṛtaṃ karābhyām &
+ākuñcya samyag ghy udarāsyagaṇḍam %
+uṣṭraṃ ca pīṭhaṃ yatayo vadanti // GhS_2.41
+
+aṅguṣṭhanābhiparyantam adho bhūmau ca vinyaset 
+karatalābhyāṃ dharāṃ dhṛtvā ūrdhvaṃ śīrṣaṃ phaṇīva hi // GhS_2.42
+
+dehāgnir vardhate nityaṃ sarvarogavināśanam 
+jāgarti bhujagī devī sādhanād bhujaṃgāsanam // GhS_2.43
+
+uttānau caraṇau kṛtvā saṃsthāpya jānunopari 
+āsanopari saṃsthāpya uttānaṃ karayugmakam // GhS_2.44
+
+pūrakair vāyum ākṛṣya nāsāgram avalokayet 
+yogāsanaṃ bhaved etad yogināṃ yogasādhane // GhS_2.45
+
+[[iti śrī-gheraṇḍa-saṃhitāyāṃ gheraṇḍa-caṇḍa-saṃvāde ghata-stha-yogae āsana-prayogo nāma dvitīyo1padeśaḥ //2// ]]
+
+mahāmudrā nabhomudrā uḍḍīyānaṃ jalaṃdharam 
+mūlabandhaṃ mahābandhaṃ mahāvedhaś ca khecarī // GhS_3.1
+
+viparītakaraṇī yonir vajrolī śakticālanī 
+taḍāgī māṇḍukī mudrā śāṃbhavī pañcadhāraṇā // GhS_3.2
+
+aśvinī pāśinī kākī mātaṅgī ca bhujaṃginī 
+pañcaviṃśatimudrāś ca siddhidā iha yoginām // GhS_3.3
+
+mudrāṇāṃ paṭalaṃ devi kathitaṃ tava saṃnidhau 
+yena vijñātamātreṇa sarvasiddhiḥ prajāyate // GhS_3.4
+
+gopanīyaṃ prayatnena na deyaṃ yasya kasyacit 
+prītidaṃ yogināṃ caiva durlabhaṃ marutām api // GhS_3.5
+
+pāyumūlaṃ vāmagulphe saṃpīḍya dṛḍhayatnataḥ 
+yāmyapādaṃ prasāryātha karābhyāṃ dhṛtapadāṅguliḥ // GhS_3.6
+
+kaṇṭhasaṃkocanaṃ kṛtvā bhruvor madhye nirīkṣayet 
+pūrakair vāyuṃ saṃpūrya mahāmudrā nigadyate // GhS_3.7
+
+valitaṃ palitaṃ caiva jarāṃ mṛtyuṃ nivārayet 
+kṣayakāsaṃ gudāvartaṃ plīhājīrṇaṃ jvaraṃ tathā 
+nāśayet sarvarogāṃś ca mahāmudrābhisevanāt // GhS_3.8
+
+yatra yatra sthito yogī sarvakāryeṣu sarvadā 
+ūrdhvajihvaḥ sthiro bhūtvā dhārayet pavanaṃ sadā 
+nabhomudrā bhaved eṣā yogināṃ roganāśinī // GhS_3.9
+
+udare paścimaṃ tānaṃ nābher ūrdhvaṃ tu kārayet 
+uḍḍīnaṃ kurute yasmād aviśrāntaṃ mahākhagaḥ 
+uḍḍīyānaṃ tv asau bandho mṛtyumātaṃgakesarī // GhS_3.10
+
+samagrād bandhanād dhy etad uḍḍīyānaṃ viśiṣyate 
+uḍḍīyāne samabhyaste muktiḥ svābhāvikī bhavet // GhS_3.11
+
+kaṇṭhasaṃkocanaṃ kṛtvā cibukaṃ hṛdaye nyaset 
+jālaṃdhare kṛte bandhe ṣoḍaśādhārabandhanam 
+jālaṃdharamahāmudrā mṛtyoś ca kṣayakāriṇī // GhS_3.12
+
+siddhaṃ jālaṃdharaṃ bandhaṃ yogināṃ siddhidāyakam 
+ṣaṇmāsam abhyased yo hi sa siddho nātra saṃśayaḥ // GhS_3.13
+
+pārṣṇinā vāmapādasya yonim ākuñcayet tataḥ 
+nābhigranthiṃ merudaṇḍe saṃpīḍya yatnataḥ sudhīḥ // GhS_3.14
+
+meḍhraṃ dakṣiṇagulphena dṛḍhabandhaṃ samācaret 
+nābher ūrdhvam adhaś cāpi tānaṃ kuryāt prayatnataḥ 
+jarāvināśinī mudrā mūlabandho nigadyate // GhS_3.15
+
+saṃsārasāgaraṃ tartum abhilaṣati yaḥ pumān 
+virale sugupto bhūtvā mudrām etāṃ samabhyaset // GhS_3.16
+
+abhyāsād bandhanasyāsya marutsiddhir bhaved dhruvam 
+sādhayed yatnatas tarhi maunī tu vijitālasaḥ // GhS_3.17
+
+vāmapādasya gulphena pāyumūlaṃ nirodhayet 
+dakṣapādena tad gulphaṃ saṃpīḍya yatnataḥ sudhīḥ // GhS_3.18
+
+śanaiḥ śanaiś cālayet pārṣṇiṃ yonim ākuñcayec chanaiḥ 
+jālaṃdhare dhārayet prāṇaṃ mahābandho nigadyate // GhS_3.19
+
+mahābandhaḥ paro bandho jarāmaraṇanāśanaḥ 
+prasādād asya bandhasya sādhayet sarvavāñchitam // GhS_3.20
+
+rūpayauvanalāvaṇyaṃ nārīṇāṃ puruṣaṃ vinā 
+mūlabandhamahābandhau mahāvedhaṃ vinā tathā // GhS_3.21
+
+mahābandhaṃ samāsādya uḍḍānakumbhakaṃ caret 
+mahāvedhaḥ samākhyāto yogināṃ siddhidāyakaḥ // GhS_3.22
+
+mahābandhamūlabandhau mahāvedhasamanvitau 
+pratyahaṃ kurute yas tu sa yogī yogavittamaḥ // GhS_3.23
+
+na mṛtyuto bhayaṃ tasya na jarā tasya vidyate 
+gopanīyaḥ prayatnena vedho yaṃ yogipuṃgavaiḥ // GhS_3.24
+
+jihvādho nāḍīṃ saṃchitya rasanāṃ cālayet sadā 
+dohayen navanītena lauhayantreṇa karṣayet // GhS_3.25
+
+evaṃ nityaṃ samabhyāsāl lambikā dīrghatāṃ vrajet 
+yāvad gacched bhruvor madhye tadā sidhyati khecarī // GhS_3.26
+
+rasanāṃ tālumadhye tu śanaiḥ śanaiḥ praveśayet 
+kapālakuhare jihvā praviṣṭā viparītagā 
+bhruvor madhye gatā dṛṣṭir mudrā bhavati khecarī // GhS_3.27
+
+na ca mūrcchā kṣudhā tṛṣṇā naivālasyaṃ prajāyate 
+na ca rogo jarā mṛtyur devadehaṃ prapadyate // GhS_3.28
+
+na cāgnir dahate gātraṃ na śoṣayati mārutaḥ 
+na dehaṃ kledayanty āpo daṃśayen na bhujaṃgamaḥ // GhS_3.29
+
+lāvaṇyaṃ ca bhaved gātre samādhir jāyate dhruvam 
+kapālavaktrasaṃyoge rasanā rasam āpnuyāt // GhS_3.30
+
+nānāvidhisamudbhūtam ānandaṃ ca dine dine 
+ādau lavaṇakṣāraṃ ca tatas tiktakaṣāyakam // GhS_3.31
+
+navanītaṃ ghṛtaṃ kṣīraṃ dadhitakramadhūni ca 
+drākṣārasaṃ ca pīyūṣaṃ jāyate rasanodakam // GhS_3.32
+
+nābhimūle vaset sūryas tālumūle ca candramāḥ 
+amṛtaṃ grasate sūryas tato mṛtyuvaśo naraḥ // GhS_3.33
+
+ūrdhvaṃ ca yojayet sūryaṃ candraṃ ca adha ānayet 
+viparītakarī mudrā sarvatantreṣu gopitā // GhS_3.34
+
+bhūmau śiraś ca saṃsthāpya karayugmaṃ samāhitaḥ 
+ūrdhvapādaḥ sthiro bhūtvā viparītakarī matā // GhS_3.35
+
+mudreyaṃ sādhayen nityaṃ jarāṃ mṛtyuṃ ca nāśayet 
+sa siddhaḥ sarvalokeṣu pralaye 'pi na sīdati // GhS_3.36
+
+siddhāsanaṃ samāsādya karṇākṣināsikāmukham 
+aṅguṣṭhatarjanīmadhyānāmādibhiś ca dhārayet // GhS_3.37
+
+kākībhiḥ prāṇaṃ saṃkṛṣya apāne yojayet tataḥ 
+ṣaṭ cakrāṇi kramād dhṛtvā huṃhaṃsamanunā sudhīḥ // GhS_3.38
+
+caitanyam ānayed devīṃ nidritā yā bhujaṃginī 
+jīvena sahitāṃ śaktiṃ samutthāpya parāmbuje // GhS_3.39
+
+śaktimayaṃ svayaṃ bhūtvā paraṃ śivena saṃgamam 
+nānāsukhaṃ vihāraṃ ca cintayet paramaṃ sukham // GhS_3.40
+
+śivaśaktisamāyogād ekāntaṃ bhuvi bhāvayet 
+ānandamānaso bhūtvā ahaṃ brahmeti saṃbhavet // GhS_3.41
+
+yonimudrā parā gopyā devānām api durlabhā 
+sakṛttadbhāvasaṃsiddhaḥ samādhisthaḥ sa eva hi // GhS_3.42
+
+brahmahā bhrūṇahā caiva surāpo gurutalpagaḥ 
+etaiḥ pāpair na lipyate yonimudrānibandhanāt // GhS_3.43
+
+yāni pāpāni ghorāṇi upapāpāni yāni ca 
+tāni sarvāṇi naśyanti yonimudrānibandhanāt 
+tasmād abhyasanaṃ kuryād yadi muktiṃ samicchati // GhS_3.44
+
+dharām avaṣṭabhya karadvayābhyām $
+ūrdhvaṃ kṣipet pādayugaṃ śiraḥ khe &
+śaktiprabodhāya cirajīvanāya %
+vajrolimudrāṃ munayo vadanti // GhS_3.45
+
+ayaṃ yogo yogaśreṣṭho yogināṃ muktikāraṇam 
+ayaṃ hitaprado yogo yogināṃ siddhidāyakaḥ // GhS_3.46
+
+etad yogaprasādena bindusiddhir bhaved dhruvam 
+siddhe bindau mahāyatne kiṃ na sidhyati bhūtale // GhS_3.47
+
+bhogena mahatā yukto yadi mudrāṃ samācaret 
+tathāpi sakalā siddhis tasya bhavati niścitam // GhS_3.48
+
+mūlādhāre ātmaśaktiḥ kuṇḍalī paradevatā 
+śayitā bhujagākārā sārdhatrivalayānvitā // GhS_3.49
+
+yāvat sā nidritā dehe tāvaj jīvaḥ paśur yathā 
+jñānaṃ na jāyate tāvat koṭiyogaṃ samabhyaset // GhS_3.50
+
+udghāṭayet kavāṭaṃ ca yathā kuñcikayā haṭhāt 
+kuṇḍalinyāḥ prabodhena brahmadvāraṃ vibhedayet // GhS_3.51
+
+nābhiṃ bṛhadveṣṭanaṃ ca na ca nagnaṃ bahiḥ sthitam 
+gopanīyagṛhe sthitvā śakticālanam abhyaset // GhS_3.52
+
+vitastipramitaṃ dīrghaṃ vistāre caturaṅgulam 
+mṛdulaṃ dhavalaṃ sūkṣmaveṣṭanāmbaralakṣaṇam 
+evam ambaram uktaṃ ca kaṭisūtreṇa yojayet // GhS_3.53
+
+bhāsmanā gātrasaṃliptaṃ siddhāsanaṃ samācaret 
+nāsābhyāṃ prāṇam ākṛṣya apāne yojayed balāt // GhS_3.54
+
+tāvad ākuñcayed guhyaṃ śanair aśvinimudrayā 
+yāvad gacchet suṣumṇāyāṃ vāyuḥ prakāśayed dhaṭhāt // GhS_3.55
+
+tāvad vāyuprabhedena kumbhikā ca bhujaṃginī 
+baddhaśvāsas tato bhūtvā ca ūrdhvamātraṃ prapadyate 
+śabdadvayaṃ phalaikaṃ tu yonimudrāṃ ca cālayet // GhS_3.56
+
+vinā śakticālanena yonimudrā na sidhyati 
+ādau cālanam abhyasya yonimudrāṃ samabhyaset // GhS_3.57
+
+iti te kathitaṃ caṇḍa prakāraṃ śakticālanam 
+gopanīyaṃ prayatnena dine dine samabhyaset // GhS_3.58
+
+mudreyaṃ paramā gopyā jarāmaraṇanāśinī 
+tasmād abhyasanaṃ kāryaṃ yogibhiḥ siddhikāṅkṣibhiḥ // GhS_3.59
+
+nityaṃ yo 'bhyasate yogī siddhis tasya kare sthitā 
+tasya vigrahasiddhiḥ syād rogāṇāṃ saṃkṣayo bhavet // GhS_3.60
+
+udare paścimaṃ tānaṃ kṛtvā ca taḍāgākṛti 
+taḍāgī sā parā mudrā jarāmṛtyuvināśinī // GhS_3.61
+
+mukhaṃ saṃmudritaṃ kṛtvā jihvāmūlaṃ pracālayet 
+śanair grased amṛtaṃ tan māṇḍukīṃ mudrikāṃ viduḥ // GhS_3.62
+
+valitaṃ palitaṃ naiva jāyate nityayauvanam 
+na keśe jāyate pāko yaḥ kuryān nitya māṇḍukīm // GhS_3.63
+
+netrāñjanaṃ samālokya ātmārāmaṃ nirīkṣayet 
+sā bhavec chāṃbhavī mudrā sarvatantreṣu gopitā // GhS_3.64
+
+vedaśāstrapurāṇāni sāmānyagaṇikā iva 
+iyaṃ tu śāṃbhavī mudrā guptā kulavadhūr iva // GhS_3.65
+
+sa eva ādināthaś ca sa ca nārāyaṇaḥ svayam 
+sa ca brahmā sṛṣṭikārī yo mudrāṃ vetti śāṃbhavīm // GhS_3.66
+
+satyaṃ satyaṃ punaḥ satyaṃ satyam uktaṃ maheśvara 
+śāṃbhavīṃ yo vijānīyāt sa ca brahma na cānyathā // GhS_3.67
+
+kathitā śāṃbhavī mudrā śṛṇuṣva pañcadhāraṇām 
+dhāraṇāni samāsādya kiṃ na sidhyati bhūtale // GhS_3.68
+
+anena naradehena svargeṣu gamanāgamam 
+manogatir bhavet tasya khecaratvaṃ na cānyathā // GhS_3.69
+
+yat tattvaṃ haritāladeśaracitaṃ bhaumaṃ lakārānvitaṃ $
+vedāsraṃ kamalāsanena sahitaṃ kṛtvā hṛdi sthāyinam &
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed %
+eṣā stambhakarī sadā kṣitijayaṃ kuryād adhodhāraṇā // GhS_3.70
+
+pārthivīdhāraṇāmudrāṃ yaḥ karoti ca nityaśaḥ 
+mṛtyuṃjayaḥ svayaṃ so 'pi sa siddho vicared bhuvi // GhS_3.71
+
+śaṅkhendupratimaṃ ca kundadhavalaṃ tattvaṃ kilālaṃ śubhaṃ $
+tat pīyūṣavakārabījasahitaṃ yuktaṃ sadā viṣṇunā &
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed %
+eṣā duḥsahatāpapāpahariṇī syād āmbhasī dhāraṇā // GhS_3.72
+
+āmbhasīṃ paramāṃ mudrāṃ yo jānāti sa yogavit 
+jale ca gabhīre ghore maraṇaṃ tasya no bhavet // GhS_3.73
+
+iyaṃ tu paramā mudrā gopanīyā prayatnataḥ 
+prakāśāt siddhihāniḥ syāt satyaṃ vacmi ca tattvataḥ // GhS_3.74
+
+yan nābhisthitam indra=gopasadṛśaṃ bījatrikoṇānvitaṃ $
+tattvaṃ tejamayaṃ pradīptam aruṇaṃ rudreṇa yat siddhidam &
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed %
+eṣā kālagabhīrabhītiharaṇī vaiśvānarī dhāraṇā // GhS_3.75
+
+pradīpte jvalite vahnau yadi patati sādhakaḥ 
+etanmudrāprasādena sa jīvati na mṛtyubhāk // GhS_3.76
+
+yad bhinnāñjanapuñjasaṃnibham idaṃ dhūmrāvabhāsaṃ paraṃ $
+tattvaṃ sattvamayaṃ yakārasahitaṃ yatreśvaro devatā &
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed %
+eṣā khe gamanaṃ karoti yamināṃ syād vāyavī dhāraṇā // GhS_3.77
+
+iyaṃ tu paramā mudrā jarāmṛtyuvināśinī 
+vāyunā mriyate nāpi khe ca gatipradāyinī // GhS_3.78
+
+śaṭhāya bhaktihīnāya na deyā yasya kasyacit 
+datte ca siddhihāniḥ syāt satyaṃ vacmi ca caṇḍa te // GhS_3.79
+
+yat sindhau varaśuddhavārisadṛśaṃ vyomaṃ paraṃ bhāsitaṃ $
+tattvaṃ devasadāśivena sahitaṃ bījaṃ hakārānvitam &
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed %
+eṣā mokṣakavāṭabhedanakarī tu syān nabhodhāraṇā // GhS_3.80
+
+ākāśīdhāraṇāṃ mudrāṃ yo vetti sa ca yogavit 
+na mṛtyur jāyate tasya pralaye nāvasīdati // GhS_3.81
+
+ākuñcayed gudadvāraṃ prakāśayet punaḥ punaḥ 
+sā bhaved aśvinī mudrā śaktiprabodhakāriṇī // GhS_3.82
+
+aśvinī paramā mudrā guhyarogavināśinī 
+balapuṣṭikarī caiva akālamaraṇaṃ haret // GhS_3.83
+
+kaṇṭhapṛṣṭe kṣipet pādau pāśavad dṛḍhabandhanam 
+sā eva pāśinī mudrā śaktiprabodhakāriṇī // GhS_3.84
+
+pāśinī mahatī mudrā balapuṣṭividhāyinī 
+sādhanīyā prayatnena sādhakaiḥ siddhikāṅkṣibhiḥ // GhS_3.85
+
+kākacañcuvad āsyena pibed vāyuṃ śanaiḥ śanaiḥ 
+kākī mudrā bhaved eṣā sarvarogavināśinī // GhS_3.86
+
+kākīmudrā parā mudrā sarvatantreṣu gopitā 
+asyāḥ prasādamātreṇa na rogī kākavad bhavet // GhS_3.87
+
+kaṇṭhamagnajale sthitvā nāsābhyāṃ jalam āharet 
+mukhān nirgamayet paścāt punar vaktreṇa cāharet // GhS_3.88
+
+nāsābhyāṃ recayet paścāt kuryād evaṃ punaḥ punaḥ 
+mātaṅginī parā mudrā jarāmṛtyuvināśinī // GhS_3.89
+
+virale nirjane deśe sthitvā caikāgramānasaḥ 
+kuryān mātaṅginīṃ mudrāṃ mātaṅga iva jāyate // GhS_3.90
+
+yatra yatra sthito yogī sukham atyantam aśnute 
+tasmāt sarvaprayatnena sādhayen mudrikāṃ parām // GhS_3.91
+
+vaktraṃ kiṃcitsuprasārya cālinaṃ galayā pibet 
+sā bhaved bhujagī mudrā jarāmṛtyuvināśinī // GhS_3.92
+
+yāvac ca udare rogam ajīrṇādi viśeṣataḥ 
+tat sarvaṃ nāśayed āśu yatra mudrā bhujaṃginī // GhS_3.93
+
+idaṃ tu mudrāpaṭalaṃ kathitaṃ caṇḍa te śubham 
+vallabhaṃ sarvasiddhānāṃ jarāmaraṇanāśanam // GhS_3.94
+
+śaṭhāya bhaktihīnāya na deyaṃ yasya kasyacit 
+gopanīyaṃ prayatnena durlabhaṃ marutām api // GhS_3.95
+
+ṛjave śāntacittāya gurubhaktiparāya ca 
+kulīnāya pradātavyaṃ bhogamuktipradāyakam // GhS_3.96
+
+mudrāṇāṃ paṭalaṃ hy etat sarvavyādhivināśanam 
+nityam abhyāsaśīlasya jaṭharāgnivivardhanam // GhS_3.97
+
+na tasya jāyate mṛtyur nāsya jarādikaṃ tathā 
+nāgnijalabhayaṃ tasya vāyor api kuto bhayam // GhS_3.98
+
+kāsaḥ śvāsaḥ plīhā kuṣṭhaṃ śleṣmarogāś ca viṃśatiḥ 
+mudrāṇāṃ sādhanāc caiva vinaśyanti na saṃśayaḥ // GhS_3.99
+
+bahunā kim ihoktena sāraṃ vacmi ca caṇḍa te 
+nāsti mudrāsamaṃ kiṃcit siddhidaṃ kṣitimaṇḍale // GhS_3.100
+
+[[iti śrī-gheraṇḍa-saṃhitāyāṃ gheraṇḍa-caṇḍa-saṃvāde ghaṭa-stha-yoga-prakaraṇe mudrā-prayogo nāma tṛtīyo1padeśaḥ //3// ]]
+
+athātaḥ saṃpravakṣyāmi pratyāhārakam uttamam 
+yasya vijñānamātreṇa kāmādiripunāśanam // GhS_4.1
+
+yato yato niścarati manaś cañcalam asthiram 
+tatas tato niyamyaitad ātmany eva vaśaṃ nayet // GhS_4.2
+
+yatra yatra gatā dṛṣṭir manas tatra pragacchati 
+tataḥ pratyāhared etad ātmany eva vaśaṃ nayet // GhS_4.3
+
+puraskāraṃ tiraskāraṃ suśrāvyaṃ vā bhayānakam 
+manas tasmān niyamyaitad ātmany eva vaśaṃ nayet // GhS_4.4
+
+śītaṃ vāpi tathā coṣṇaṃ yan manaḥsparśayogataḥ 
+tasmāt pratyāhared etad ātmany eva vaśaṃ nayet // GhS_4.5
+
+sugandhe vāpi durgandhe ghrāṇeṣu jāyate manaḥ 
+tasmāt pratyāhared etad ātmany eva vaśaṃ nayet // GhS_4.6
+
+madhurāmlakatiktādirasaṃ gataṃ yadā manaḥ 
+tasmāt pratyāhared etad ātmany eva vaśaṃ nayet // GhS_4.7
+
+śabdādiṣv anuraktāni nigṛhyākṣāṇi yogavit 
+kuryāc cittānucārīṇi pratyāhāraparāyaṇaḥ // GhS_4.8
+
+vaśyatā paramā tena jāyate 'ticalātmanām 
+indriyāṇām avaśyais tair na yogī yogasādhakaḥ // GhS_4.9
+
+prāṇāyāmair dahed doṣān dhāraṇābhiś ca kilbiṣam 
+pratyāhāreṇa viṣayān dhyānenānīśvarān guṇān // GhS_4.10
+
+yathā parvatadhātūnāṃ doṣā dahyanti dhāmyatām 
+tathendriyakṛtā doṣā dahyante prāṇanigrahāt // GhS_4.11
+
+samaḥ samāsano bhūtvā saṃhṛtya caraṇāv ubhau 
+saṃvṛtāsyas tathaivorū samyag viṣṭabhya cāgrataḥ // GhS_4.12
+
+pārṣṇibhyāṃ liṅgavṛṣaṇāv aspṛśan prayataḥ sthitaḥ 
+kiṃcidunnāmitaśirā dantair dantān na saṃspṛśet 
+saṃpaśyan nāsikāgraṃ svaṃ diśaś cānavalokayan // GhS_4.13
+
+rajasā tamaso vṛttiṃ sattvena rajasas tathā 
+saṃchādya nirmale sattve sthito yuñjīta yogavit // GhS_4.14
+
+indriyāṇīndriyārthebhyaḥ prāṇādīn mana eva ca 
+nigṛhya samavāyena pratyāhāram upakramet // GhS_4.15
+
+yas tu pratyāharet kāmān sarvāṅgān īva kacchapaḥ 
+sadātmaratir ekasthaḥ paśyaty ātmānam ātmani // GhS_4.16
+
+sa bāhyābhyantaraṃ śaucaṃ niṣpādyākaṇṭhanābhitaḥ 
+pūrayitvā budho dehaṃ pratyāhāram upakramet // GhS_4.17
+
+tathā vai yogayuktasya yogino niyatātmanaḥ 
+(sarve doṣāḥ praṇaśyanti svasthaś caivopajāyate) // GhS_4.18
+
+[[iti śrī-gheraṇḍa-saṃhitāyāṃ gheraṇḍa-caṇḍa-saṃvāde ghaṭa-stha-yoge pratyāhāra-prayogo nāma caturtho1padeśaḥ //4// ]]
+
+athātaḥ saṃpravakṣyāmi prāṇāyāmasya yadvidhim 
+yasya sādhanamātreṇa devatulyo bhaven naraḥ // GhS_5.1
+
+ādau sthānaṃ tathā kālaṃ mitāhāraṃ tathāparam 
+nāḍīśuddhiṃ tataḥ paścāt prāṇāyāmaṃ ca sādhayet // GhS_5.2
+
+dūradeśe tathāraṇye rājadhānyāṃ janāntike 
+yogārambhaṃ na kurvīta kṛtaś cet siddhihā bhavet // GhS_5.3
+
+aviśvāsaṃ dūradeśe araṇye bhakṣavarjitam 
+lokāraṇye prakāśaś ca tasmāt trīṇi vivarjayet // GhS_5.4
+
+sudeśe dhārmike rājye subhikṣe nirupadrave 
+tatraikaṃ kuṭiraṃ kṛtvā prācīraiḥ pariveṣṭayet // GhS_5.5
+
+vāpīkūpataḍāgaṃ ca prācīramadhyavarti ca 
+nātyuccaṃ nātinīcaṃ vā kuṭiraṃ kīṭavarjitam // GhS_5.6
+
+samyaggomayaliptaṃ ca kuṭiraṃ randhravarjitam 
+evaṃ sthāne hi gupte ca prāṇāyāmaṃ samabhyaset // GhS_5.7
+
+hemante śiśire grīṣme varṣāyāṃ ca ṛtau tathā 
+yogārambhaṃ na kurvīta kṛte yogo hi rogadaḥ // GhS_5.8
+
+vasante śaradi proktaṃ yogārambhaṃ samācaret 
+tadā yogo bhavet siddho rogān mukto bhaved dhruvam // GhS_5.9
+
+caitrādiphālgunānte ca māghādiphālgunāntike 
+dvau dvau māsau ṛtubhāgau anubhāvaś catuś catuḥ // GhS_5.10
+
+vasantaś caitravaiśākhau jyeṣṭhāṣāḍhau ca grīṣmakau 
+varṣā śrāvaṇabhādrābhyāṃ śarad āśvinakārtikau 
+mārgapauṣau ca hemantaḥ śiśiro māghaphālgunau // GhS_5.11
+
+anubhāvaṃ pravakṣyāmi ṛtūnāṃ ca yathoditam 
+māghādimādhavānte hi vasantānubhavaś catuḥ // GhS_5.12
+
+caitrādi cāṣāḍhāntaṃ ca grīṣmaś cānubhavaś catuḥ 
+āṣāḍhādi cāśvināntaṃ varṣā cānubhavaś catuḥ // GhS_5.13
+
+bhādrādi mārgaśīrṣāntaṃ śarado 'nubhavaś catuḥ 
+kārtikādimāghamāsāntaṃ hemantānubhavaś catuḥ 
+mārgādīṃś caturo māsāñ śiśirānubhavaṃ viduḥ // GhS_5.14
+
+vasante vāpi śaradi yogārambhaṃ tu samācaret 
+tadā yogo bhavet siddho vināyāsena kathyate // GhS_5.15
+
+mitāhāraṃ vinā yas tu yogārambhaṃ tu kārayet 
+nānārogo bhavet tasya kiṃcid yogo na sidhyati // GhS_5.16
+
+śālyannaṃ yavapiṇḍaṃ vā godhūmapiṇḍakaṃ tathā 
+mudgaṃ māṣacaṇakādi śubhraṃ ca tuṣavarjitam // GhS_5.17
+
+paṭolaṃ panasaṃ mānaṃ kakkolaṃ ca śukāśakam 
+drāḍhikāṃ karkaṭīṃ rambhāṃ ḍumbarīṃ kaṇṭakaṇṭakam // GhS_5.18
+
+āmarambhāṃ bālarambhāṃ rambhādaṇḍaṃ ca mūlakam 
+vārtākīṃ mūlakam ṛddhiṃ yogī bhakṣaṇam ācaret // GhS_5.19
+
+bālaśākaṃ kāla śākaṃ tathā paṭolapatrakam 
+pañcaśākaṃ praśaṃsīyād vāstūkaṃ hilamocikāṃ // GhS_5.20
+
+śuddhaṃ sumadhuraṃ snigdham udarārdhavivarjitam 
+bhujyate surasaṃprītyā [surasaṃ prityā] mitāhāram imaṃ viduḥ // GhS_5.21
+
+annena pūrayed ardhaṃ toyena tu tṛtīyakam 
+udarasya turīyāṃśaṃ saṃrakṣed vāyucāraṇe // GhS_5.22
+
+kaṭv amlaṃ lavaṇaṃ tiktaṃ bhṛṣṭaṃ ca dadhi takrakam 
+śākotkaṭaṃ tathā madyaṃ tālaṃ ca panasaṃ tathā // GhS_5.23
+
+kulatthaṃ masūraṃ pāṇḍuṃ kūṣmāṇḍaṃ śākadaṇḍakam 
+tumbīkolakapitthaṃ ca kaṇṭabilvaṃ palāśakam // GhS_5.24
+
+kadambaṃ jambīraṃ bimbaṃ lakucaṃ laśunaṃ viṣam 
+kāmaraṅgaṃ piyālaṃ ca hiṅguśālmalikemukam // GhS_5.25
+
+yogārambhe varjayec ca pathastrīvahnisevanam // GhS_5.26
+
+navanītaṃ ghṛtaṃ kṣīraṃ guḍaṃ śarkarādi cekṣavaṃ 
+pakvarambhāṃ nārikelaṃ dāḍimbam aśivāsavam 
+drākṣāṃ tu lavalīṃ dhātrīṃ rasam amlavivarjitam // GhS_5.27
+
+elājātilavaṅgaṃ ca pauruṣaṃ jambujāmbalam 
+harītakīṃ kharjūraṃ ca yogī bhakṣaṇam ācaret // GhS_5.28
+
+laghupākaṃ priyaṃ snigdhaṃ tathā dhātuprapoṣaṇam 
+manoabhilaṣitaṃ yogyaṃ yogī bhojanam ācaret // GhS_5.29
+
+kāṭhinyaṃ duritaṃ pūtim uṣṇaṃ paryuṣitaṃ tathā 
+atiśītaṃ cāti coṣṇaṃ bhakṣyaṃ yogī vivarjayet // GhS_5.30
+
+prātaḥsnānopavāsādikāyakleśavidhiṃ tathā 
+ekāhāraṃ nirāhāraṃ yāmānte ca na kārayet // GhS_5.31
+
+evaṃvidhividhānena prāṇāyāmaṃ samācaret 
+ārambhe prathame kuryāt kṣīrādyaṃ nityabhojanam 
+madhyāhne caiva sāyāhne bhojanadvayam ācaret // GhS_5.32
+
+kuśāsane mṛgājine vyāghrājine ca kambale 
+sthūlāsane samāsīnaḥ prāṅmukho vāpyudaṅmukhaḥ 
+nāḍīśuddhiṃ samāsādya prāṇāyāmaṃ samabhyaset // GhS_5.33
+
+nāḍīśuddhiṃ kathaṃ kuryān nāḍīśuddhis tu kīdṛśī 
+tat sarvaṃ śrotum icchāmi tad vadasva dayānidhe // GhS_5.34
+
+malākulāsu nāḍīṣu māruto naiva gacchati 
+prāṇāyāmaḥ kathaṃ sidhyet tattvajñānaṃ kathaṃ bhavet 
+tasmād ādau naḍīśuddhiṃ prāṇāyāmaṃ tato 'bhyaset // GhS_5.35
+
+nāḍīśuddhir dvidhā proktā samanur nirmanus tathā 
+bījena samanuṃ kuryān nirmanuṃ dhautikarmaṇi // GhS_5.36
+
+dhautikarma purā proktaṃ ṣaṭkarmasādhane yathā 
+śṛṇuṣva samanuṃ caṇḍa nāḍīśuddhir yathā bhavet // GhS_5.37
+
+upaviśyāsane yogī padmāsanaṃ samācaret 
+gurvādinyāsanaṃ kṛtvā yathaiva gurubhāṣitam 
+nāḍīśuddhiṃ prakurvīta prāṇāyāmaviśuddhaye // GhS_5.38
+
+vāyubījaṃ tato dhyātvā dhūmravarṇaṃ satejasam 
+candreṇa pūrayed vāyuṃ bījaṃ ṣoḍaśakaiḥ sudhīḥ // GhS_5.39
+
+catuḥṣaṣṭyā mātrayā ca kumbhakenaiva dhārayet 
+dvātriṃśanmātrayā vāyuṃ sūryanāḍyā ca recayet // GhS_5.40
+
+nābhimūlād vahnim utthāpya dhyāyet tejo vanīyutam 
+vahnibījaṃ ṣoḍaśena sūryanāḍyā ca pūrayet // GhS_5.41
+
+catuḥṣaṣṭyā mātrayā ca kumbhakenaiva dhārayet 
+dvātriṃśanmātrayā vāyuṃ śaśināḍyā ca recayet // GhS_5.42
+
+nāsāgre śaśadhṛg bimbaṃ dhyātvā jyotsnāsamanvitam 
+ṭhaṃ bījaṃ ṣoḍaśenaiva iḍayā pūrayen marut // GhS_5.43
+
+catuḥṣaṣṭyā mātrayā ca [kumbhakenaiva] dhārayet 
+amṛtaplāvitaṃ dhyātvā prāṇāyāmaṃ samabhyaset // GhS_5.44
+
+[vaṃ bījaṃ śoḍaśenaiva sūryanāḍyā ca pūrayet] 
+dvātriṃśena lakāreṇa dṛḍhaṃ bhāvyaṃ virecayet // GhS_5.45
+
+evaṃvidhāṃ nāḍīśuddhiṃ kṛtvā nāḍīṃ viśodhayet 
+dṛḍho bhūtvāsanaṃ kṛtvā prāṇāyāmaṃ samācaret // GhS_5.46
+
+sahitaḥ sūryabhedaś ca ujjāyī śītalī tathā 
+bhastrikā bhrāmarī mūrcchā kevalī cāṣṭa kumbhikāḥ // GhS_5.47
+
+sahitau dvividhau proktau prāṇāyāmaṃ samācaret 
+sagarbho bījam uccārya nirgarbho bījavarjitaḥ 
+prāṇāyāmaṃ sagarbhaṃ ca prathamaṃ kathayāmi te // GhS_5.48
+
+sukhāsane copaviśya prāṅmukho vāpy udaṅmukhaḥ 
+dhyāyed vidhiṃ rajoguṇaṃ raktavarṇam avarṇakam // GhS_5.49
+
+iḍayā pūrayed vāyuṃ mātrayā ṣoḍaśaiḥ sudhīḥ 
+pūrakānte kumbhakādye kartavyas tūḍḍiyānakaḥ // GhS_5.50
+
+sattvamayaṃ hariṃ dhyātvā ukāraiḥ śuklavarṇakaiḥ 
+catuḥṣaṣṭyā ca mātrayā anilaṃ kumbhakaṃ caret 
+kumbhakānte recakādye kartavyaṃ ca jālaṃdharam // GhS_5.51
+
+rudraṃ tamoguṇaṃ dhyātvā makāraiḥ kṛṣṇavarṇakaiḥ 
+dvātriṃśanmātrayā caiva recayed vidhinā punaḥ // GhS_5.52
+
+punaḥ piṅgalayāpūrya kumbhakenaiva dhārayet 
+iḍayā recayet paścāt tadbījena krameṇa tu // GhS_5.53
+
+anulomavilomena vāraṃ vāraṃ ca sādhayet 
+pūrakānte kumbhakādye dhṛtaṃ nāsāpuṭadvayam 
+kaniṣṭhānāmikāṅguṣṭhais tarjanīmadhyame vinā // GhS_5.54
+
+prāṇāyāmaṃ nigarbhaṃ tu vinā bījena jāyate 
+vāmajānūpari nyastavāmapāṇitalaṃ bhramet 
+mātrādiśataparyantaṃ pūrakumbhakarecanam // GhS_5.55
+
+uttamā viṃśatir mātrā madhyamā ṣoḍaśī smṛtā 
+adhamā dvādaśī mātrā prāṇāyāmās tridhā smṛtāḥ // GhS_5.56
+
+adhamāj jāyate gharmo merukampaś ca madhyamāt 
+uttamāc ca bhūmityāgas trividhaṃ siddhilakṣaṇam // GhS_5.57
+
+prāṇāyāmāt khecaratvaṃ prāṇāyāmād roganāśanam 
+prāṇāyāmād bodhayec chaktiṃ prāṇāyāmān manonmanī 
+ānando jāyate citte prāṇāyāmī sukhī bhavet // GhS_5.58
+
+kathitaṃ sahitaṃ kumbhaṃ sūryabhedanakaṃ śṛṇu 
+pūrayet sūryanāḍyā ca yathāśakti bahirmarut // GhS_5.59
+
+dhārayed bahuyatnena kumbhakena jalaṃdharaiḥ 
+yāvat svedaṃ nakhakeśābhyāṃ tāvat kurvantu kumbhakam // GhS_5.60
+
+prāṇo 'pānaḥ samānaś caudānavyānau ca vāyavaḥ 
+nāgaḥ kūrmaś ca kṛkaro devadatto dhanaṃjayaḥ // GhS_5.61
+
+hṛdi prāṇo vahen nityam apāno gudamaṇḍale 
+samāno nābhideśe tu udānaḥ kaṇṭhamadhyagaḥ 
+vyāno vyāpya śarīre tu pradhānāḥ pañca vāyavaḥ // GhS_5.62
+
+prāṇādyāḥ pañca vikhyātā nāgādyāḥ pañca vāyavaḥ 
+teṣām api ca pañcānāṃ sthānāni ca vadāmy aham // GhS_5.63
+
+udgāre nāga ākhyātaḥ kūrmas tūnmīlane smṛtaḥ 
+kṛkaraḥ kṣuttṛṣe jñeyo devadatto vijṛmbhaṇe 
+na jahāti mṛte kvāpi sarvavyāpī dhanaṃjayaḥ // GhS_5.64
+
+nāgo gṛhṇāti caitanyaṃ kūrmaś caiva nimeṣaṇam 
+kṣuttṛṣaṃ kṛkaraś caiva jṛmbhaṇaṃ caturthena tu 
+bhaved dhanaṃjayāc chabdaṃ kṣaṇamātraṃ na niḥsaret // GhS_5.65
+
+sarvaṃ ca sūryakaṃ bhitvā nābhimūlāt samuddharet // GhS_5.66
+
+iḍayā recayet paścād dhairyeṇākhaṇḍavegataḥ 
+punaḥ sūryeṇa cākṛṣya kumbhayitvā yathāvidhi // GhS_5.67
+
+recayitvā sādhayet tu krameṇa ca punaḥ punaḥ 
+kumbhakaḥ sūryabhedas tu jarāmṛtyuvināśakaḥ // GhS_5.68
+
+bodhayet kuṇḍalīṃ śaktiṃ dehānalavivardhanam 
+iti te kathitaṃ caṇḍa sūryabhedanam uttamam // GhS_5.69
+
+nāsābhyāṃ vāyum ākṛṣya mukhamadhye ca dhārayet 
+hṛdgalābhyāṃ samākṛṣya vāyuṃ vaktreṇa dhārayet // GhS_5.70
+
+mukhaṃ praphullaṃ saṃrakṣya kuryāj jālaṃdharaṃ tataḥ 
+āśakti kumbhakaṃ kṛtvā dhārayed avirodhataḥ // GhS_5.71
+
+ujjāyīkumbhakaṃ kṛtvā sarvakāryāṇi sādhayet 
+na bhavet kapharogaś ca krūravāyur ajīrṇakam // GhS_5.72
+
+āmavātaḥ kṣayaḥ kāso jvaraplīhā na jāyate 
+jarāmṛtyuvināśāya cojjāyīṃ sādhayen naraḥ // GhS_5.73
+
+jihvayā vāyum ākṛṣya udare pūrayec chanaiḥ 
+kṣaṇaṃ ca kumbhakaṃ kṛtvā nāsābhyāṃ recayet punaḥ // GhS_5.74
+
+sarvadā sādhayed yogī śītalīkumbhakaṃ śubham 
+ajīrṇaṃ kaphapittaṃ ca naiva tasya prajāyate // GhS_5.75
+
+bhastreva lohakārāṇāṃ yathākrameṇa saṃbhramet 
+tato vāyuṃ ca nāsābhyām ubhābhyāṃ cālayec chanaiḥ // GhS_5.76
+
+evaṃ viṃśativāraṃ ca kṛtvā kuryāc ca kumbhakam 
+tadante cālayed vāyuṃ pūrvoktaṃ ca yathāvidhi // GhS_5.77
+
+trivāraṃ sādhayed enaṃ bhastrikākumbhakaṃ sudhīḥ 
+na ca rogo na ca kleśa ārogyaṃ ca dine dine // GhS_5.78
+
+ardharātre gate yogī jantūnāṃ śabdavarjite 
+karṇau nidhāya hastābhyāṃ kuryāt pūrakam uttamam // GhS_5.79
+
+śṛṇuyād dakṣiṇe karṇe nādam antargataṃ sudhīḥ 
+prathamaṃ jhiṃjhīnādaṃ ca vaṃśīnādaṃ tataḥ param 
+meghaghargharabhrāmarī ca ghaṇṭākāṃsyaṃ tataḥ param // GhS_5.80
+
+turībherīmṛdaṅgādivīṇānādakadundubhiḥ 
+evaṃ nānāvidho nādo jāyate nityam abhyasāt // GhS_5.81
+
+anāhatasya śabdasya tasya śabdasya yo dhvaniḥ 
+dhvaner antargataṃ jyotir jyotir antargataṃ manaḥ // GhS_5.82
+
+tasmiṃs tu vilayaṃ yāti tad viṣṇoḥ paramaṃ padam 
+evaṃ bhrāmarīsaṃsiddhiḥ samādhisiddhim āpnuyāt // GhS_5.83
+
+mukhe ca kumbhakaṃ kṛtvā bhruvor antargataṃ manaḥ 
+saṃtyajya viṣayān sarvān manomūrcchā sukhapradā // GhS_5.84
+
+ātmani manasaṃyogād ānandaṃ jāyate dhruvam 
+evaṃ nānāvidhānando jāyate nityam abhyasāt 
+evam abhyāsayogena samādhisiddhim āpnuyāt // GhS_5.85
+
+bhujaṃginyāḥ śvāsavaśād ajapā jāyate nanu 
+haṃkāreṇa bahir yāti saḥkāreṇa viśet punaḥ // GhS_5.86
+
+ṣaṭ śatāni divārātrau sahasrāṇy ekaviṃśatiḥ 
+ajapāṃ nāma gāyatrīṃ jīvo japati sarvadā // GhS_5.87
+
+mūlādhāre yathā haṃsas tathā hi hṛdi paṅkaje 
+tathā nāsāpuṭadvandve triveṇīsaṃgamāgamam // GhS_5.88
+
+ṣaṇṇavatyaṅgulīmānaṃ śarīraṃ karmarūpakam 
+dehād bahirgato vāyuḥ svabhāvād dvādaśāṅguliḥ // GhS_5.89
+
+śayane ṣoḍaśāṅgulyo bhojane viṃśatis tathā 
+caturviṃśāṅguliḥ panthe nidrāyāṃ triṃśadaṅguliḥ 
+maithune ṣaṭtriṃśad uktaṃ vyāyāme ca tato 'dhikam // GhS_5.90
+
+svabhāve 'sya gater nyūne param āyuḥ pravardhate 
+āyuḥkṣayo 'dhike prokto mārute cāntarād gate // GhS_5.91
+
+tasmāt prāṇe sthite dehe maraṇaṃ naiva jāyate 
+vāyunā ghaṭasaṃbandhe bhavet kevalakumbhakaḥ // GhS_5.92
+
+yāvajjīvaṃ japen mantram ajapāsaṃkhyakevalam 
+adyāvadhi dhṛtaṃ saṃkhyāvibhramaṃ kevalīkṛte // GhS_5.93
+
+ata eva hi kartavyaḥ kevalīkumbhako naraiḥ 
+kevalī cājapāsaṃkhyā dviguṇā ca manonmanī // GhS_5.94
+
+nāsābhyāṃ vāyum ākṛṣya kevalaṃ kumbhakaṃ caret 
+ekādikacatuḥṣaṣṭiṃ dhārayet prathame dine // GhS_5.95
+
+kevalīm aṣṭadhā kuryād yāme yāme dine dine 
+atha vā pañcadhā kuryād yathā tat kathayāmi te // GhS_5.96
+
+prātar madhyāhnasāyāhne madhyarātre caturthake 
+trisaṃdhyam atha vā kuryāt samamāne dine dine // GhS_5.97
+
+pañcavāraṃ dine vṛddhir vāraikaṃ ca dine tathā 
+ajapāparimāṇe ca yāvat siddhiḥ prajāyate // GhS_5.98
+
+prāṇāyāmaṃ kevalīṃ nāma tadā vadati yogavit 
+kumbhake kevale siddhe kiṃ na sidhyati bhūtale // GhS_5.99
+
+[[iti śrī-gheraṇḍa-saṃhitāyāṃ gheraṇḍa-caṇḍa-saṃvāde ghata-stha-yoga-prakaraṇe prāṇā3yāma-prayogo nāma pañcamo1padeśaḥ //5// ]]
+
+sthūlaṃ jyotis tathā sūkṣmaṃ dhyānasya trividhaṃ viduḥ 
+sthūlaṃ mūrtimayaṃ proktaṃ jyotis tejomayaṃ tathā 
+sūkṣmaṃ bindumayaṃ brahma kuṇḍalī paradevatā // GhS_6.1
+
+svakīyahṛdaye dhyāyet sudhāsāgaram uttamam 
+tanmadhye ratnadvīpaṃ tu suratnavālukāmayam // GhS_6.2
+
+caturdikṣu nīpataruṃ bahupuṣpasamanvitam 
+nīpopavanasaṃkulair veṣṭitaṃ paritā iva // GhS_6.3
+
+mālatīmallikājātī$kesaraiś campakais tathā &
+pārijātaiḥ sthalapadmair gandhāmoditadiṅmukhaiḥ // GhS_6.4
+
+tanmadhye saṃsmared yogī kalpavṛkṣaṃ manoramam 
+catuḥśākhācaturvedaṃ nityapuṣpaphalānvitam // GhS_6.5
+
+bhramarāḥ kokilās tatra guñjanti nigadanti ca 
+dhyāyettatra sthiro bhūtvā mahāmāṇikyamaṇḍapam // GhS_6.6
+
+tanmadhye tu smared yogī paryaṅkaṃ sumanoharam 
+tatreṣṭadevatāṃ dhyāyed yaddhyānaṃ gurubhāṣitam // GhS_6.7
+
+yasya devasya yad rūpaṃ yathā bhūṣaṇavāhanam 
+tad rūpaṃ dhyāyate nityaṃ sthūladhyānam idaṃ viduḥ // GhS_6.8
+
+sahasrāramahāpadme karṇikāyāṃ vicintayet 
+vilagnasahitaṃ padmaṃ dvādaśair dalasaṃyutam // GhS_6.9
+
+śubhravarṇaṃ mahātejo dvādaśair bījabhāṣitam 
+sahakṣamavalariyuṃ haṃsaśaktiṃ yathākramam // GhS_6.10
+
+tanmadhye karṇikāyāṃ tu akathādirekhātrayam 
+halakṣakoṇasaṃyuktaṃ praṇavaṃ tatra vartate // GhS_6.11
+
+nādabindumayaṃ pīṭhaṃ dhyāyet tatra manoharam 
+tatropari haṃsayugmaṃ pādukā tatra vartate // GhS_6.12
+
+dhyāyettatra guruṃ devaṃ vibhujaṃ ca trilocanam 
+śvetāmbaradharaṃ devaṃ śuklagandhānulepanam // GhS_6.13
+
+śuklapuṣpamayaṃ mālyaṃ raktaśaktisamanvitam 
+evaṃvidhagurudhyānāt sthūladhyānaṃ prasidhyati // GhS_6.14
+
+kathitaṃ sthūladhyānaṃ tu tejodhyānaṃ śṛṇuṣva me 
+yaddhyānena yogasiddhir ātmapratyakṣam eva ca 
+mūlādhāre kuṇḍalinī bhujagākārarūpiṇī // GhS_6.15
+
+jīvātmā tiṣṭhati tatra pradīpakalikākṛtiḥ 
+dhyāyet tejomayaṃ brahma tejodhyānaṃ tad eva hi // GhS_6.16
+
+nābhimūle sthitaṃ sūryamaṇḍalaṃ vahnisaṃyutam 
+dhyāyet tejo mahad vyāptaṃ tejodhyānaṃ tad eva hi // GhS_6.17
+
+bhruvor madhye manordhve ca yat tejaḥ praṇavātmakam 
+dhyāyej jvālāvalīyuktaṃ tejodhyānaṃ tad eva hi // GhS_6.18
+
+tejodhyānaṃ śrutaṃ caṇḍa sūkṣmadhyānaṃ vadāmy aham 
+bahubhāgyavaśād yasya kuṇḍalī jāgratī bhavet // GhS_6.19
+
+ātmanā saha yogena netrarandhrād vinirgatā 
+vihared rājamārge ca cañcalatvān na dṛśyate // GhS_6.20
+
+śāṃbhavīmudrayā yogī dhyānayogena sidhyati 
+sūkṣmadhyānam idaṃ gopyaṃ devānām api durlabham // GhS_6.21
+
+sthūladhyānāc chataguṇaṃ tejodhyānaṃ pracakṣate 
+tejodhyānāl lakṣaguṇaṃ sūkṣmadhyānaṃ parātparam // GhS_6.22
+
+iti te kathitaṃ caṇḍa dhyānayogaṃ sudurlabham 
+ātmā sākṣād bhaved yasmāt tasmād dhyānaṃ viśiṣyate // GhS_6.23
+
+[[iti śrī-gheraṇḍa-saṃhitāyāṃ gheraṇḍa-caṇḍa-saṃvāde ghata-stha-yoge sapta-sādhane dhyāna-yogo nāma ṣaṣṭho1padeśaḥ //6// ]]
+
+samādhiś ca paraṃ tattvaṃ bahubhāgyena labhyate 
+guroḥ kṛpāprasādena prāpyate gurubhaktitaḥ // GhS_7.1
+
+vidyāpratītiḥ svagurupratītir $
+ātmapratītir manasaḥ prabodhaḥ &
+dine dine yasya bhavet sa yogī %
+suśobhanābhyāsam upaiti sadyaḥ // GhS_7.2
+
+ghaṭād bhinnaṃ manaḥ kṛtvā aikyaṃ kuryāt parātmani 
+samādhiṃ taṃ vijānīyān muktasaṃjño daśādibhiḥ // GhS_7.3
+
+ahaṃ brahma na cānyo 'smi brahmaivāhaṃ na śokabhāk 
+saccidānandarūpo 'haṃ nityamuktaḥ svabhāvavān // GhS_7.4
+
+śāṃbhavyā caiva khecaryā bhrāmaryā yonimudrayā 
+dhyānaṃ nādaṃ rasānandaṃ layasiddhiś caturvidhā // GhS_7.5
+
+pañcadhā bhaktiyogena manomūrcchā ca ṣaḍvidhā 
+ṣaḍvidho 'yaṃ rājayogaḥ pratyekam avadhārayet // GhS_7.6
+
+śāṃbhavīṃ mudrikāṃ kṛtvā ātmapratyakṣam ānayet 
+bindu brahmamayaṃ dṛṣṭvā manas tatra niyojayet // GhS_7.7
+
+khamadhye kuru cātmānam ātmamadhye ca khaṃ kuru 
+ātmānaṃ khamayaṃ dṛṣṭvā na kiṃcid api bādhyate 
+sadānandamayo bhūtvā samādhistho bhaven naraḥ // GhS_7.8
+
+khecarīmudrāsādhanād rasanā ūrdhvagatā yadā 
+tadā samādhisiddhiḥ syād dhitvā sādhāraṇakriyām // GhS_7.9
+
+anilaṃ mandavegena bhrāmarīkumbhakaṃ caret 
+mandaṃ mandaṃ recayed vāyuṃ bhṛṅganādaṃ tato bhavet // GhS_7.10
+
+antaḥsthaṃ bhramarīnādaṃ śrutvā tatra mano nayet 
+samādhir jāyate tatra ānandaḥ so 'ham ity ataḥ // GhS_7.11
+
+yonimudrāṃ samāsādya svayaṃ śaktimayo bhavet 
+suśṛṅgārarasenaiva viharet paramātmani // GhS_7.12
+
+ānandamayaḥ saṃbhūtvā aikyaṃ brahmaṇi saṃbhavet 
+ahaṃ brahmeti cādvaitaṃ samādhis tena jāyate // GhS_7.13
+
+svakīyahṛdaye dhyāyed iṣṭadevasvarūpakam 
+cintayed bhaktiyogena paramāhlādapūrvakam // GhS_7.14
+
+ānandāśrupulakena daśābhāvaḥ prajāyate 
+samādhiḥ saṃbhavet tena saṃbhavec ca manonmanī // GhS_7.15
+
+manomūrcchāṃ samāsādya mana ātmani yojayet 
+parātmanaḥ samāyogāt samādhiṃ samavāpnuyāt // GhS_7.16
+
+iti te kathitaṃ caṇḍa samādhir muktilakṣaṇam 
+rājayogaḥ samādhiḥ syād ekātmany eva sādhanam 
+unmanī sahajāvasthā sarve caikātmavācakāḥ // GhS_7.17
+
+jale viṣṇuḥ sthale viṣṇur viṣṇuḥ parvatamastake 
+jvālāmālākule viṣṇuḥ sarvaṃ viṣṇumayaṃ jagat // GhS_7.18
+
+bhūcarāḥ khecarāś cāmī yāvanto jīvajantavaḥ 
+vṛkṣagulmalatāvallītṛṇādyā vāri parvatāḥ 
+sarvaṃ brahma vijānīyāt sarvaṃ paśyati cātmani // GhS_7.19
+
+ātmā ghatasthacaitanyam advaitaṃ śāśvataṃ param 
+ghaṭād bhinnataraṃ jñānaṃ vītarāgaṃ vivāsanam // GhS_7.20
+
+evaṃvidhiḥ samādhiḥ syāt sarvasaṃkalpavarjitaḥ 
+svadehe putradārādibāndhaveṣu dhanādiṣu 
+sarveṣu nirmamo bhūtvā samādhiṃ samavāpnuyāt // GhS_7.21
+
+layāmṛtaṃ paraṃ tattvaṃ śivoktaṃ vividhāni ca 
+teṣāṃ saṃkṣepam ādāya kathitaṃ muktilakṣaṇam // GhS_7.22
+
+iti te kathitaś caṇḍa samādhir durlabhaḥ paraḥ 
+yaṃ jñātvā na punarjanma jāyate bhūmimaṇḍale // GhS_7.23
+
+[[iti śrī-gheraṇḍa-saṃhitāyāṃ gheraṇḍa-caṇḍa-saṃvāde ghata-stha-yoga-sādhane yogasya sapta-sāre samādhi-yogo nāma saptamo1padeśaḥ samāptaḥ //7// ]]

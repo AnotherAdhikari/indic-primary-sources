@@ -1,0 +1,133 @@
+Somānanda: Śāktavijñāna
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_somAnanda-zAktavijJAna.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Oliver Hellwig
+## Contribution: Oliver Hellwig
+## Date of this version: 2020-07-31
+
+## Source: 
+   - J.D. Zaidoo, Srinagar: Research Department, 1947.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Śāktavijñāna = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from somsv_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Somananda: Saktavijnana
+Based on the ed. by J.D. Zaidoo
+Srinagar: Research Department, 1947
+Input by Oliver Hellwig
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+sthānaṃ praveśo rūpaṃ ca lakṣaṃ lakṣaṇameva ca /
+utthāpanaṃ bodhanaṃ ca cakraviśrāmameva ca // somsv_1
+
+bhūmikāgamanaṃ caiva antāvasthā tathaiva ca /
+viśrāmaḥ pariṇāmaśca tathāgamanameva ca // somsv_2
+
+iti trayodaśavidhaṃ śāktaṃ vijñānamuttamam /
+sarveṣu trikaśāstreṣu sūcitaṃ śambhunā svayam // somsv_3
+
+nābhyadho 'ṅgulāḥ pañca meḍhrasyordhvāṅguladvayam /
+tanmadhye kandanāmā ca cakrasthānamiti smṛtam // somsv_4
+
+prāṇāpānanirodhena manastatraiva niḥkṣipet /
+samyag vāyugatiṃ jitvā yāvan madhyagatāṃ nayet // somsv_5
+
+eṣa praveśa ity āhū rūpaṃ vakṣyāmi cādhunā /
+śṛṅgāṭakanibhaṃ cakraṃ ṣaḍaraṃ cāparaṃ dhruvam // somsv_6
+
+dāḍimīkusumaprakhyaṃ kandaṃ vai jātilohitam /
+etadrūpaṃ samākhyātaṃ tṛtīyaṃ cintanātmakam // somsv_7
+
+tanmadhye nikṣipec cittaṃ yāvat tatra sthirīkṛtam /
+tyaktaruddho yadā vāyustadā lakṣaṃ vinirdiśet // somsv_8
+
+kandacakrasya madhyasthā tv anāhatamayī kalā /
+adhaūrdhve rekhāsaṃyuktā bhujaṃgakuṭilākṛtiḥ // somsv_9
+
+ūrdhvādho 'vasthitāvasthā sūryācandramasāv ubhau /
+satyaṃ virājamānā sā sahasrārkasamaprabhā // somsv_10
+
+tāmevālokayec chaktiṃ manāk kumbhakavṛttinā /
+etal lakṣaṇam uddiṣṭam utthāpanam ataḥ param // somsv_11
+
+juṣadrecakavṛttyā tu mantraṃ caiva samuccaret /
+prabuddhāṃ cintayecchaktiṃ daṇḍavat parameśvarīm // somsv_12
+
+ādhāramadhyādāyātā suṣumnāmārgam āśritā /
+utthāpanaṃ samākhyātaṃ bodhanaṃ paratastathā // somsv_13
+
+kandastho vedhayen nābhiṃ tato hṛtsthaṃ pitāmaham /
+kaṇṭhasthamacyutaṃ sākṣādrudraṃ tālutale sthitam // somsv_14
+
+bhruvormadhyagataṃ tv īśaṃ brahmadvāre sadāśivam /
+bodhayitvā vrajed āśu padaṃ cānāśritaṃ śivam // somsv_15
+
+etadbodhanam uddiṣṭaṃ cakraviśrāmaṇaṃ tataḥ /
+svābhāvikaṃ dalaṃ dīptaṃ dravaṃ sthiranabhopamam // somsv_16
+
+amṛtaṃ śekharaṃ caiva śaktirbrahmā tathaiva ca /
+bindunādaṃ tathā proktaṃ cakradvādaśakaṃ kila // somsv_17
+
+vedhayantī kramāc chaktiścakre cakre pratikṣaṇam /
+viśramet sā mahādevī cakraviśrāma uttamaḥ // somsv_18
+
+hṛdayaṃ kampate pūrvaṃ tālukadvārameva ca /
+śiraśca bhramate tasya dṛṣṭisaṃkrāntilakṣaṇam // somsv_19
+
+ekaikaṃ bhramayaty aṅgam aṅgapratyaṅgasaṃdhiṣu /
+ghūrṇate hṛdayaṃ cāsya samyagvidyāprabhāvataḥ // somsv_20
+
+yāni yāni vikārāṇi avasthā kurute sataḥ /
+teṣu teṣu na bhetavyaṃ krīḍati parameśvarī // somsv_21
+
+amṛte seyam unmattā vikārān kurute bahūn /
+malatrayavikārau bahujanmasu yatkṛtam // somsv_22
+
+dhunoti samalān pāśāt paraśaktisamutthitān /
+bhūmikāgamanaṃ proktam antāvasthā tathocyate // somsv_23
+
+yat saṃkrāntau romaharṣo 'srupāto jṛmbhārambho gadgadā gīr giro 'ntaḥ /
+granthisphoṭaḥ sparśadivyapraharṣo binduspandā nābhikandāt sphuranti // somsv_24
+
+antāvasthā samākhyātā viśrāmas tv adhunocyate /
+nābhicakraviniryātā yadā śaktiḥ prabudhyate // somsv_25
+
+tadā tv astamitaṃ sarvamakṣagrāmaṃ bahiḥ sthitam /
+yadā sā paramā śaktiḥ sulīnā parame pade // somsv_26
+
+tadā na vindate kiṃcid viṣayī viṣayāntaram /
+śive viśrāmyate śaktistadā viśrāma ucyate // somsv_27
+
+yatra viśramaṇaṃ śaktermanastatra layaṃ vrajet /
+tadātmā paramātmatve jñātavyo niścitātmabhiḥ // somsv_28
+
+śivībhūto bhavatyātmā pariṇāmaḥ sa eva hi /
+sadā sa varṣate divyam amṛtaṃ jantujīvanam // somsv_29
+
+cittaṃ tatra tu saṃdhārya punardaivī viśettu sā /
+tadā tv āgamanaṃ proktamevaṃ samyak trayodaśa // somsv_30

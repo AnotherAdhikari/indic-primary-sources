@@ -14,6 +14,13 @@ If you believe a specific item has been included in error, please open an issue 
 |---|---|---|---|---|
 | Ahirbudhnya Saṃhitā — Introduction | F. Otto Schrader | 1916 | PD (US, pre-1929) | Adyar Library and Research Centre; Pāñcarātra text |
 | Ahirbudhnya Saṃhitā — Sanskrit text | F. Otto Schrader (ed.) | 1916 | PD (US, pre-1929) | Adyar Library Sanskrit edition |
+| Devīkalottarāgama | GRETIL (EFEO/IFP digital) | — | CC BY-NC-SA 4.0 | IAST Sanskrit; GRETIL digital text |
+| Jñānaśambhu Śivapūjāstava | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Kiraṇatantra (chapters 1–6) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; partial text |
+| Mṛgendrāgama | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; Vidyāpāda + Yogapāda |
+| Pāśupatasūtra + Kauṇḍinya commentary | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Sārdhatriśatikālottarāgama | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Svacchandatantra | GRETIL (EFEO Śaiva reading group) | — | CC BY-NC-SA 4.0 | IAST Sanskrit; based on Dwivedi + KSTS editions |
 
 ## Brāhmaṇas
 
@@ -30,6 +37,8 @@ If you believe a specific item has been included in error, please open an issue 
 | Śatapatha-Brāhmaṇa Pt. 3 (SBE Vol. 41: Books V–VII) | Julius Eggeling | 1894 | PD (US, pre-1929) | Re-OCR'd 2026-04 |
 | Śatapatha-Brāhmaṇa Pt. 4 (SBE Vol. 43: Books VIII–X) | Julius Eggeling | 1897 | PD (US, pre-1929) | Contains Agnicayana fire-altar. Re-OCR'd 2026-04 |
 | Śatapatha-Brāhmaṇa Pt. 5 (SBE Vol. 44: Books XI–XIV) | Julius Eggeling | 1900 | PD (US, pre-1929) | Re-OCR'd 2026-04 with `-l eng` |
+| Śatapatha-Brāhmaṇa Sanskrit (kāṇḍas 1–14, excl. 12) | GRETIL (Ananthanarayana & Lehman) | — | CC BY-NC-SA 4.0 | IAST Sanskrit; 45,682 lines; kāṇḍa 12 not available |
+| Gopatha Brāhmaṇa (IAST) | GRETIL (Arlo Griffiths) | — | CC BY-NC-SA 4.0 | IAST Sanskrit; different edition from Mitra 1872 |
 
 ## Epics
 
@@ -62,9 +71,12 @@ If you believe a specific item has been included in error, please open an issue 
 | Source | Editor / Translator | Original Year | License | Notes |
 |---|---|---|---|---|
 | Agni Purāṇa (4 vols) | Manmatha Nath Dutt | 1903–1904 | PD (US, pre-1929) | Elysium Press, Calcutta; 383 chapters; ~78,000 lines |
+| Agni Purāṇa (Sanskrit) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; 12,657 lines |
 | Devī Bhāgavata Purāṇa | Swami Vijnanananda | 1921–1922 | PD (US, pre-1929) | Sacred Books of the Hindus series; Śākta Mahāpurāṇa |
 | Garuḍa Purāṇa (3 vols) | Manmatha Nath Dutt | 1908 | PD (US, pre-1929) | Elysium Press, Calcutta; ~37,000 lines |
+| Kāratoyamāhātmya | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; river-māhātmya text |
 | Mārkaṇḍeya Purāṇa | F. Eden Pargiter | 1904 | PD (US, pre-1929) | Bibliotheca Indica; contains Devī Māhātmyam (cantos 81–93) |
+| Nārada Purāṇa (Sanskrit) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; 47,160 lines |
 | Viṣṇu-Purāṇa: A System of Hindu Mythology and Tradition | Horace Hayman Wilson | 1840 | PD (US, pre-1929) | |
 
 ## Śilpa Śāstra (Architecture)
@@ -108,13 +120,103 @@ If you believe a specific item has been included in error, please open an issue 
 |---|---|---|---|---|
 | Lalitā-Sahasranāma with Bhāskararāya's commentary | R. Ananthakrishna Sastry | 1925 | PD (US, pre-1929) | Adyar Library edition; English translation of names + Saubhāgya-bhāskara |
 | Śakti and Śākta | Sir John Woodroffe | 1918 | PD (US, pre-1929) | 1st ed. 1918; comprehensive overview of Śākta-Tantric doctrine |
+| Hymns to the Goddess | Arthur Avalon (Sir John Woodroffe) | 1913 | PD (US, pre-1929) | Tantric hymns translated |
+| Karpūrādi Stotra | Arthur Avalon (Sir John Woodroffe) | 1922 | PD (US, pre-1929) | Tantric Texts series |
+| Tantrābhidhāna | Arthur Avalon (Sir John Woodroffe) | 1913 | PD (US, pre-1929) | Tantric dictionary/code-lexicon |
+
+## Tantric — GRETIL IAST Sanskrit
+
+All texts below are from GRETIL, distributed under **CC BY-NC-SA 4.0**.
+
+| Source | Notes |
+|---|---|
+| Bījanigantu | Seed-syllable lexicon |
+| Bhavopahāra (Cakrapāṇipnātha) | Tantric offering text |
+| Ekākṣarakośa (Puruṣottamadeva) | Single-syllable lexicon |
+| Gorākṣaśataka (+ alt. version) | Gorakṣanātha; 100 verses on Haṭha Yoga |
+| Amaraughaśāsana (with commentary) | Gorakṣanātha; Nāth tradition |
+| Kubjikāmatatantra | Major Kaula text; 9,113 lines |
+| Mālinīvijayottaratantra (Sanskrit) | GRETIL IAST; cf. KSTS OCR edition also in repo |
+| Mātṛkābhedatantra | Alphabet-based tantric cipher text |
+| Parājapavidhi + Parāmantravidhi | Orissan tantric manuals (10th–12th c.) |
+| Parāśurāmakalpasūtra | Śrī Vidyā ritual manual |
+| Saundaryalaharī | Attributed to Śaṅkara; wave of beauty |
+| Toḍalatantra | Tantric text |
+| Uddāmareśvaratantra | Tantric text |
+| Vināśikhatantra | Tantric text |
 
 ## Astronomy / Mathematics
 
-| Source | Editor / Translator | Original Year | License |
-|---|---|---|---|
-| Bṛhat Saṃhitā of Varāhamihira (partial, Ch I–LIX) | N. Chidambaram Iyer | 1884 | PD (US, pre-1929) |
-| Sūrya-Siddhānta: A Text-Book of Hindu Astronomy | Ebenezer Burgess | 1860 | PD (US, pre-1929) |
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Bṛhat Saṃhitā of Varāhamihira (partial, Ch I–LIX) | N. Chidambaram Iyer | 1884 | PD (US, pre-1929) | English translation |
+| Bṛhat Saṃhitā of Varāhamihira (Sanskrit) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; complete text; 13,723 lines |
+| Sūrya-Siddhānta: A Text-Book of Hindu Astronomy | Ebenezer Burgess | 1860 | PD (US, pre-1929) | |
+
+## Dharmaśāstra
+
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Gṛhya Sūtras Pt. 1 (SBE Vol. 29) | Hermann Oldenberg | 1886 | PD (US, pre-1929) | Śāṅkhāyana, Āśvalāyana, Pāraskara, Khādira |
+| Gṛhya Sūtras Pt. 2 (SBE Vol. 30) | Hermann Oldenberg & F. Max Muller | 1892 | PD (US, pre-1929) | Gobhila, Hiraṇyakeśin, Āpastamba |
+| Institutes of Viṣṇu (SBE Vol. 7) | Julius Jolly | 1880 | PD (US, pre-1929) | Viṣṇu-smṛti |
+| Minor Law Books (SBE Vol. 33) | Julius Jolly | 1889 | PD (US, pre-1929) | Nārada, Bṛhaspati |
+| Sacred Laws of the Āryas Pt. 1 (SBE Vol. 2) | Georg Buhler | 1879 | PD (US, pre-1929) | Āpastamba, Gautama |
+| Sacred Laws of the Āryas Pt. 2 (SBE Vol. 14) | Georg Buhler | 1882 | PD (US, pre-1929) | Vasiṣṭha, Baudhāyana |
+
+## Philosophy
+
+| Source | Editor / Translator | Original Year | License | Notes |
+|---|---|---|---|---|
+| Sāṅkhya Aphorisms of Kapila | James Robert Ballantyne | 1885 | PD (US, pre-1929) | With Vijñāna Bhikṣu's commentary |
+| Vedānta Sūtras with Śaṅkara Pt. 1 (SBE Vol. 34) | George Thibaut | 1890 | PD (US, pre-1929) | |
+| Vedānta Sūtras with Śaṅkara Pt. 2 (SBE Vol. 38) | George Thibaut | 1896 | PD (US, pre-1929) | |
+| Vedānta Sūtras with Rāmānuja (SBE Vol. 48) | George Thibaut | 1904 | PD (US, pre-1929) | Śrībhāṣya |
+
+## Philosophy — Kashmir Śaivism (GRETIL IAST Sanskrit)
+
+All texts below are from GRETIL (Goettingen Register of Electronic Texts in Indian Languages), distributed under **CC BY-NC-SA 4.0**.
+
+| Source | Author | Notes |
+|---|---|---|
+| Anuttarāṣṭikā | Abhinavagupta | 8-verse hymn |
+| Bhairavastava | Abhinavagupta | Hymn to Bhairava |
+| Bodhapañcadaśikā | Abhinavagupta | 15 verses on awakening |
+| Īśvarapratyabhijñāvimarśinī | Abhinavagupta | Commentary on Utpaladeva's Kārikās |
+| Kramastotra | Abhinavagupta | Krama tradition hymn |
+| Mālinīślokavārttika | Abhinavagupta | Commentary on Mālinīvijayottara |
+| Paramārthadvādaśikā | Abhinavagupta (or Ramyadeva) | 12 verses |
+| Paramārthasāra | Abhinavagupta | Essence of the Highest Reality |
+| Paramārthasāra (with commentary) | Abhinavagupta | With Yogarāja's Vivṛti |
+| Paryantapañcāśikā | Abhinavagupta | 50 verses |
+| Tantrāloka | Abhinavagupta | Complete text; based on KSTS edition (Takashima) |
+| Tantrasāra | Abhinavagupta | Digest of the Tantrāloka |
+| Tantravaṭadhānikā | Abhinavagupta | Short text |
+| Bhairavānukaraṇastotra | Kṣemarāja | Hymn |
+| Bodhavilāsa | Kṣemarāja | Text on awakening |
+| Pratyabhijñāhṛdaya | Kṣemarāja | Heart of Recognition |
+| Ājñāpramatṛsiddhi | Utpaladeva | Proof of the Sentient Agent |
+| Īśvarapratyabhijñākārikā (with Vṛtti) | Utpaladeva | Recognition Verses with auto-commentary |
+| Śivastotravāli | Utpaladeva | Hymns to Śiva |
+| Anuttaraprakāśapañcāśikā | Ādyanātha | 50 verses on Ultimate Reality |
+| Svabodhasiddhi | Bhūtirāja | Short prakaraṇa |
+| Ardhanarishvarastotra | Kalhaṇa | Hymn to Ardhanārīśvara |
+| Parātrīśikā | — | Root text |
+| Parātrīśikā (with commentary) | — | With Abhinavagupta's vivaraṇa |
+| Ratnatrayaparīkṣā | Śrīkaṇṭha | Examination of the Three Jewels |
+| Śaktivijñāna | Somananda | Knowledge of Śakti |
+| Śivasūtra Vārttika | — | Commentary on Śiva Sūtras |
+| Timirodghāṭana | — | Dispelling Darkness |
+| Dvayasampattivārttika | Vāmanadatta | |
+| Svabodhodayamañjarī | Vāmanadatta | |
+| Janmamaraṇavicāra | Vāmadeva | Inquiry into Birth and Death |
+| Vātulanāthasūtra (with commentary) | — | Siddha tradition |
+| Spandakārikā | Vasugupta | Verses on Vibration |
+| Spandakārikā (with commentary) | Vasugupta + Kṣemarāja | With Spandasaṃdoha / Spandanirṇaya |
+| Vijñānabhairava | — | 112 dhāraṇās |
+| Amarakośa | Amarasiṃha | Sanskrit thesaurus |
+| Śivamahimnastava | Puṣpadanta | Hymn on Śiva's greatness |
+| Śivopaniṣad | — | Upaniṣadic text on Śiva |
 
 ## Polity / Statecraft
 
@@ -128,6 +230,16 @@ If you believe a specific item has been included in error, please open an issue 
 |---|---|---|---|---|
 | Rasārṇava | Praphulla Chandra Rāy / Kaviratna | 1910 | PD (US, pre-1929) | Asiatic Society of Bengal ed. |
 | Rasaratna-Samuccaya of Vāgbhaṭa | Vidyābhūṣaṇa | 1927 | PD (US, pre-1929) | |
+| Ānandakanda | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; 19,307 lines |
+| Rasādhyāya (verses 1–302) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Rasahṛdayatantra | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Rasamañjarī (Śālinātha) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Rasaṅketakalikā (Cāmuṇḍa) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Rasaratnasamuccaya (Sanskrit) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; different edition from 1927 English |
+| Rasārṇava (Sanskrit) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; different edition from Kaviratna English |
+| Rasārṇavasudhākara (Siṃhabhūpāla) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Rasendracintāmaṇi | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit |
+| Rasendracūḍāmaṇi (partial) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; partial text |
 
 ## Reference
 
@@ -143,11 +255,27 @@ If you believe a specific item has been included in error, please open an issue 
 | Four Vedas: Ṛk + Yajur + Sāma + Atharva | Griffith / Bloomfield / Keith | 1893–1925 | PD (US, pre-1929) |
 | Gaṇapati Atharvaśīrṣa Upaniṣad | Sanskrit Documents (digital) | — | PD |
 
+## Vaiṣṇava / Pāñcarātra (GRETIL IAST Sanskrit)
+
+All texts below are from GRETIL, distributed under **CC BY-NC-SA 4.0**.
+
+| Source | Notes |
+|---|---|
+| Bhṛgusaṃhitā | Pāñcarātra text; 17,105 lines |
+| Jñānāmṛtasārasaṃhitā (Nārada Pāñcarātra) | Pāñcarātra text; 3,253 lines |
+| Prakāśasaṃhitā | Pāñcarātra text; 4,974 lines |
+| Sātvaṭatantra | Pāñcarātra text; 2,190 lines |
+| Vaikhānasa Mantrapraśna (praśnas 5–8) | Vaikhānasa tradition; 1,522 lines |
+| Viṣṇudharma | Vaiṣṇava dharma text |
+| Viśvaksenasaṃhitā | Pāñcarātra text; 11,798 lines |
+
 ## Yoga
 
 | Source | Translator | Original Year | License | Notes |
 |---|---|---|---|---|
-| Haṭha Yoga Pradīpikā | Pancham Sinh | 1915 | PD (US, pre-1929) | Sacred Books of the Hindus Vol. XV Part III |
+| Gheraṇḍa Saṃhitā (Sanskrit) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; 1,239 lines |
+| Haṭha Yoga Pradīpikā (English) | Pancham Sinh | 1915 | PD (US, pre-1929) | Sacred Books of the Hindus Vol. XV Part III |
+| Haṭha Yoga Pradīpikā (Sanskrit) | GRETIL digital | — | CC BY-NC-SA 4.0 | IAST Sanskrit; 1,355 lines |
 | Laghu Yoga Vāsiṣṭha | K. Narayanaswami Aiyer | 1896 | PD (US, pre-1929) | Thomson & Co., Madras; Advaita philosophy |
 | Yoga Sūtras of Patañjali with Vyāsa & Vācaspati Miśra | Rāma Prasāda | 1912 | PD (US, pre-1929) | Sacred Books of the Hindus Vol. IV |
 
@@ -160,4 +288,4 @@ If you believe a specific item has been included in error, please open an issue 
 
 ---
 
-*Last updated: 2026-04-29*
+*Last updated: 2026-05-07*

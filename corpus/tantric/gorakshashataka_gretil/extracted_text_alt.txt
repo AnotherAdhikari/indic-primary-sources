@@ -1,0 +1,359 @@
+ (= Gorakhnāth): Gorakṣaśataka
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gorakSazataka-alt.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: n.n.
+## Contribution: n.n.
+## Date of this version: 2020-07-31
+
+## Source: 
+   - the version of the text found in Briggs' Gorakhnath and the Kanphata Yogis (1938), reprinted in 1989 by Motilal Banarsidass (pp. 284-304).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Gorakṣaśataka-alt = GorS,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from gorst2au.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Goraksanatha [= Gorakhnath]: Goraksasataka
+Based on the version of the text found in Briggs' Gorakhnath and the
+Kanphata Yogis (1938), reprinted in 1989 by Motilal Banarsidass (pp. 284-304).
+Input by ...(?)
+Comment by the unknown contributor:
+Another, quite different version of this text is found in another file
+(Gorakṣa-śatakam 1). The numbers of verses found in the other version are given
+in brackets. Many of the verses are from Haṭha-yoga-pradīpikā and I would
+suspect that those not accounted for are taken from another text.
+It is hard to believe that this text is the original Gorakṣa-śataka.
+It looks more like someone was compiling verses from GS and HYP and
+other sources and never completed his mission.
+TEXT WITH PADA MARKERS
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+
+gorakṣa-śatakam
+
+oṃ haṭha-yoga-gorakṣa-śataka-prārambhaḥ
+
+śrī-guruṃ paramānandaṃ vande svānanda-vigraham 
+yasya saṃnidhya-mātreṇa cidānandāyate tanuḥ // GorS_1
+
+antar-niścalitātma-dīpa-kalikā-svādhāra-bandhādibhiḥ yo yogī yuga-kalpa-kāla-kalanāt tvaṃ jajegīyate 
+jñānāmoda-mahodadhiḥ samabhavad yatrādināthaḥ svayaṃ vyaktāvyakta-guṇādhikaṃ tam aniśaṃ śrī-mīnanāthaṃ bhaje // GorS_2
+
+namaskṛtya guruṃ bhaktyā gorakṣo jñānam uttamam 
+abhīṣṭaṃ yogināṃ brūte paramānanda-kārakam // GorS_3
+
+gorakṣaḥ śatakaṃ vakti yogināṃ hita-kāmyayā 
+dhruvaṃ yasyāvabodhena jāyate paramaṃ padam // GorS_4
+
+etad vimukti-sopānam etat kālasya vañcanam 
+yad vyāvṛttaṃ mano mohād āsaktaṃ paramātmani // GorS_5
+ n=(=1|2) 
+dvija-sevita-śākhasya śruti-kalpa-taroḥ phalam 
+śamanaṃ bhava-tāpasya yogaṃ bhajati sajjanaḥ // GorS_6 (=1|3)
+
+āsanaṃ prāṇa-saṃyāmaḥ pratyāhāro'tha dhāraṇā 
+dhyānaṃ samādhir etāni yogāṅgāni bhavanti ṣaṭ // GorS_7 (=1|4)
+
+āsanāni tu tāvanti yāvatyo jīva-jātayaḥ 
+eteṣām akhilān bhedān vijānāti maheśvaraḥ // GorS_8 (=1|5)
+
+caturāśīti-lakṣāṇāṃ ekam ekam udāhṛtam 
+tataḥ śivena pīṭhānāṃ ṣoḍeśānaṃ śataṃ kṛtam // GorS_9 (=1|6)
+
+āsanebhyaḥ samastebhyo dvayam eva viśiṣyate 
+ekaṃ siddhāsanaṃ proktaṃ dvitīyaṃ kamalāsanam // GorS_10 (=1|7)
+
+yoni-sthānakam aṅghri-mūla-ghaṭitaṃ kṛtvā dṛḍhaṃ vinyasen meḍhre pādam athaikam eva niyataṃ kṛtvā samaṃ vigraham 
+sthāṇuḥ saṃyamitendriyo'cala-dṛśā paśyan bhruvor antaram etan mokṣa-kavāṭa-bheda-janakaṃ siddhāsanaṃ procyate // GorS_11 (=1|8)
+
+vāmorūpari dakṣiṇaṃ hi caraṇaṃ saṃsthāpya vāmaṃ tathā dakṣorūpari paścimena vidhinā dhṛtvā karābhyāṃ dṛḍham 
+aṅguṣṭhau hṛdaye nidhāya cibukaṃ nāsāgram ālokayed etad-vyādhi-vikāra-hāri yamināṃ padmāsanaṃ procyate // GorS_12 (=1|9)
+
+ṣaṭ-cakraṃ ṣoḍaśādhāraṃ trilakṣaṃ vyoma-pañcakam 
+sva-dehe ye na jānanti kathaṃ sidhyanti yoginaḥ // GorS_13 (=1|10)
+
+eka-stambhaṃ nava-dvāraṃ gṛhaṃ pañcādhidaivatam 
+sva-dehaṃ ye na jānanti kathaṃ sidhyanti yoginaḥ // GorS_14
+
+caturdalaṃ syād ādhāraḥ svādhiṣṭhānaṃ ca ṣaṭ-dalam 
+nābhau daśa-dalaṃ padmaṃ sūrya-saṅkhya-dalaṃ hṛdi // GorS_15
+
+kaṇṭhe syāt ṣoḍaśa-dalaṃ bhrū-madhye dvidalaṃ tathā 
+sahasra-dalam ākhyātaṃ brahma-randhre mahā-pathe // GorS_16
+
+ādhāraḥ prathamaṃ cakraṃ svādhiṣṭhānaṃ dvitīyakam 
+yoni-sthānaṃ dvayor madhye kāma-rūpaṃ nigadyate // GorS_17
+
+ādhārākhyaṃ guda-sthānaṃ paṅkajaṃ ca catur-dalam 
+tan-madhye procyate yoniḥ kāmākṣā siddha-vanditā // GorS_18 (=1|11)
+
+yoni-madhye mahā-liṅgaṃ paścimābhimukhaṃ sthitam 
+mastake maṇivad bimbaṃ yo jānāti sa yogavit // GorS_19 (=1|12)
+
+tapta-cāmīkarābhāsaṃ taḍil-lekheva visphurat 
+trikoṇaṃ tat-puraṃ vahner adho-meḍhrāt pratiṣṭhitam // GorS_20 (=1|13)
+
+yat samādhau paraṃ jyotir anantaṃ viśvato-mukham 
+tasmin dṛṣṭe mahā-yoge yātāyātaṃ na vidyate // GorS_21 (=1|14)
+
+sva-śabdena bhavet prāṇaḥ svādhiṣṭhānaṃ tad-āśrayaḥ 
+svādhiṣṭhānāt padād asmān meḍhram evābhidhīyate // GorS_22
+
+tantunā maṇivat proto yatra kandaḥ suṣumṇayā 
+tan-nābhi-maṇḍalaṃ cakraṃ procyate maṇi-pūrakam // GorS_23 (=1|15)
+
+dvādaśāre mahā-cakre puṇya-pāpa-vivarjite 
+tāvaj jīvo bhramaty eva yāvat tattvaṃ na vindati // GorS_24 (=1|16)
+
+ūrdhvaṃ meḍhrād adho nābheḥ kanda-yoniḥ khagāṇḍavat 
+tatra nāḍyaḥ samutpannāḥ sahasrāṇāṃ dvisaptatiḥ // GorS_25
+
+teṣu nāḍi-sahasreṣu dvisaptatir udāhṛtāḥ 
+pradhānaṃ prāṇa-vāhinyo bhūyas tatra daśa smṛtāḥ // GorS_26 (=1|17)
+
+iḍā ca piṅgalā caiva suṣumṇā ca tṛtīyakā 
+gāndhārī hasti-jihvā ca pūṣā caiva yaśasvinī // GorS_27 (=1|18)
+
+alambuṣā kuhūś caiva śaṅkhinī daśamī smṛtā 
+etan nāḍi-mayaṃ cakraṃ jñātavyaṃ yogibhiḥ sadā // GorS_28 (=1|19)
+
+iḍā vāme sthitā bhāge piṅgalā dakṣiṇe tathā 
+suṣumṇā madhya-deśe tu gāndhārī vāma-cakṣuṣi // GorS_29 (=1|20)
+
+dakṣiṇe hasti-jihvā ca pūṣā karṇe ca dakṣiṇe 
+yaśasvinī vāma-karṇe cāsane vāpy alambuṣā // GorS_30 (=1|21)
+
+kuhūś ca liṅga-deśe tu mūla-sthāne ca śaṅkhinī 
+evaṃ dvāram upāśritya tiṣṭhanti daśa-nāḍikāḥ // GorS_31 (=1|22)
+
+iḍā-piṅgalā-suṣumṇā ca tisro nāḍya udāhṛtāḥ 
+satataṃ prāṇa-vāhinyaḥ soma-sūryāgni-devatāḥ // GorS_32 (=1|23)
+
+prāṇo'pānaḥ samānaś ca udāno vyānau ca vāyavaḥ 
+nāgaḥ kūrmo'tha kṛkaro devadatto dhanañjayaḥ // GorS_33 (=1|24)
+
+hṛdi prāṇo vasen nityaṃ apāno guda-maṇḍale 
+samāno nābhi-deśe syād udānaḥ kaṇṭha-madhyagaḥ // GorS_34 (=1|25)
+
+udgāre nāgākhyātaḥ kūrma unmīlane smṛtaḥ 
+kṛkaraḥ kṣuta-kṛj jñeyo devadatto vijṛmbhaṇe // GorS_35
+
+na jahāti mṛtaṃ cāpi sarva-vyāpi dhanañjayaḥ 
+ete sarvāsu nāḍīṣu bhramante jīva-rūpiṇaḥ // GorS_36
+
+ākṣipto bhuja-daṇḍena yathoccalati kandukaḥ 
+prāṇāpāna-samākṣiptas tathā jīvo na tiṣṭhati // GorS_38 (=1|27)
+
+prāṇāpāna-vaśo jīvo hy adhaś cordhvaṃ ca dhāvati 
+vāma-dakṣiṇa-mārgeṇa cañcalatvān na dṛśyate // GorS_39 (=1|26)
+
+rajju-baddho yathā śyeno gato'py ākṛṣyate(?) 
+guṇa-baddhas tathā jīvaḥ prāṇāpānena kṛṣyate // GorS_40 (=1|28)
+
+apānaḥ karṣati prāṇaḥ prāṇo'pānaṃ ca karṣati 
+ūrdhvādhaḥ saṃsthitāv etau saṃyojayati yogavit // GorS_41 (=1|29)
+
+ha-kāreṇa bahir yāti sa-kāreṇa viśet punaḥ 
+haṃsa-haṃsety amuṃ mantraṃ jīvo japati sarvadā // GorS_42 (=1|30)
+
+ṣaṭ-śatānitvaho-rātre sahasrāṇy eka-viṃśatiḥ 
+etat saṅkhyānvitaṃ mantra jīvo japati sarvadā // GorS_43
+
+ajapā nāma gāyatrī yogināṃ mokṣa-dāyinī 
+asyāḥ saṅkalpa-mātreṇa sarva-pāpaiḥ pramucyate // GorS_44
+
+anayā sadṛśī vidyā anayā sadṛśo japaḥ 
+anayā sadṛśaṃ jñānaṃ na bhūtaṃ na bhaviṣyati // GorS_45
+
+kundalinyāḥ samudbhūtā gāyatrī prāṇa-dhāriṇī 
+prāṇa-vidyā mahā-vidyā yas tāṃ vetti sa yogavit // GorS_46
+
+kandordhvaṃ kuṇḍalī śaktir aṣṭadhā kuṇḍalākṛti 
+brahma-dvāra-mukhaṃ nityaṃ mukhenācchādya tiṣṭhati // GorS_47
+
+yena dvāreṇa gantavyaṃ brahma-sthānam anāmayam 
+mukhenācchādya tad-dvāraṃ prasuptā parameśvarī // GorS_48 (=1|31)
+
+prabuddhā vahni-yogena manasā mārutā hatā 
+sūcīvad guṇam ādāya vrajaty ūrdhvaṃ suṣumṇayā // GorS_49
+
+prasphurad-bhujagākārā padma-tantu-nibhā śubhā 
+prabuddhā vahni-yogena vratya ūrdhvaṃ suṣumṇayā // GorS_50 (=HYP 1.50)
+
+udghaṭayet kapātaṃ tu yathā kuñcikayā haṭhāt 
+kuṇḍalinyā tathā yogī mokṣa-dvāraṃ prabhedayet // GorS_51
+
+kṛtvā sampuṭitau karau dṛḍhataraṃ baddhvā tu padmāsanaṃ gāḍhaṃ vakṣasi sannidhāya cibukaṃ dhyātvā ca tat prekṣitam 
+vāraṃ vāram apānam ūrdhvam anilaṃ proccārayet pūritaṃ muñcan prāṇam upaiti bodham atulaṃ śakti-prabodhān naraḥ // GorS_52
+
+aṅgānāṃ mardanaṃ kuryāc chrama-jātena vāriṇā 
+kaṭv-amla-lavaṇa-tyāgī kṣīra-bhojanam ācaret // GorS_53 (=1|50)
+
+brahmacārī mitāhārī tyāgī yoga-parāyaṇaḥ 
+abdād ūrdhvaṃ bhavet siddho nātra kāryā vicāraṇā // GorS_54 (=HYP 1.59)
+
+susnigdhaṃ madhurāhāraṃ caturthāṃśa-vivarjitam 
+bhujyate sura-samprītyai mitāhāraḥ sa ucyate // GorS_55 (=HYP 1.60)
+
+kandordhvaṃ kuṇḍalī śaktir aṣṭadhā kuṇḍalākṛtiḥ 
+bandhanāya ca mūḍhānāṃ yogināṃ mokṣadā smṛtā // GorS_56 (=HYP 3.107)
+
+mahāmudrāṃ namo-mudrām uḍḍiyānaṃ jalandharam 
+mūla-bandhaṃ ca yo vetti sa yogī siddhi-bhājanam // GorS_57 (=1|32)
+
+śodhanaṃ nāḍi-jālasya cālanaṃ candra-sūryayoḥ 
+rasānāṃ śoṣaṇaṃ caiva mahā-mudrābhidhīyate // GorS_58 (=1|33)
+
+vakṣo-nyasta-hanur nipīḍya suciraṃ yoniṃ ca vāmāṅghriṇā hastābhyām avadhāritaṃ prasaritaṃ pādaṃ tathā dakṣiṇam 
+āpūrya śvasanena kukṣi-yugalaṃ baddhvā śanai recayed eṣā pātaka-nāśinī sumahatī mudrā nṝṇāṃ procyate // GorS_59
+
+candrāṅgena samabhyasya sūryāṅgenābhyaset punaḥ 
+yāvat tulyā bhavet saṅkhyā tato mudrāṃ visarjayet // GorS_60 (=HYP 3.15)
+
+na hi pathyam apathyaṃ vā rasāḥ sarve'pi nīrasāḥ 
+api muktaṃ viṣaṃ ghoraṃ pīyūṣam api jīryate // GorS_61 (=HYP 3.16)
+
+kṣaya-kuṣṭha-gudāvartagulmājīrṇa-purogamāḥ 
+tasya doṣāḥ kṣayaṃ yānti mahāmudrāṃ tu yo'bhyaset // GorS_62 (=HYP 3.17)
+
+kathiteyaṃ mahāmudrā mahā-siddhi-karā nṝṇām 
+gopanīyā prayatnena na deyā yasya kasyacit // GorS_63 (=HYP 3.18)
+
+kapāla-kuhare jihvā praviṣṭā viparītagā 
+bhruvor antargatā dṛṣṭir mudrā bhavati khecarī // GorS_64 (=1|34)
+
+na rogo maraṇaṃ tandrā na nidrā na kṣudhā tṛṣā 
+na ca mūrcchā bhavet tasya yo mudrāṃ vetti khecarīm // GorS_65 (=HYP 3.39)
+
+pīḍyate na sa rogeṇa lipyate na ca karmaṇā 
+bādhyate na sa kālena yo mudrāṃ vetti khecarīm // GorS_66 (=HYP 3.40)
+
+cittaṃ carati khe yasmāj jihvā carati khe gatā 
+tenaiṣā khecarī nāma mudrā siddhair nirūpitā // GorS_67 (=HYP 3.41)
+
+bindu-mūlaṃ śarīraṃ tu śirās tatra pratiṣṭhitāḥ 
+bhāvayanti śarīraṃ yā āpāda-tala-mastakam // GorS_68 (=HYP 3.43)
+
+khecaryā mudritaṃ yena vivaraṃ lambikordhvataḥ 
+na tasya kṣarate binduḥ kāminyāliṅgitasya ca // GorS_69
+
+yāvad binduḥ sthito dehe tāvat kāla-bhayaṃ kutaḥ 
+yāvad baddhā nabho-mudrā tāvad bindur na gacchati // GorS_70
+
+calito'pi yadā binduḥ samprāptaś ca hutāśanam 
+vrajaty ūrdhvaṃ hṛtaḥ śaktyā niruddho yoni-mudrayā // GorS_71
+
+sa punar dvividho binduḥ paṇḍuro lohitas tathā 
+pāṇḍuraṃ śukram ity āhur lohitaṃ tu mahārājaḥ // GorS_72 (=HYP 3.56)
+
+sindūra-drava-saṅkāśaṃ ravi-sthāne sthitaṃ rajaḥ 
+śaśi-sthāne sthito bindus tayor aikyaṃ sudurlabham // GorS_73
+
+binduḥ śivo rajaḥ śaktir bindum indū rajo raviḥ 
+ubhayoḥ saṅgamād eva prāpyate paramaṃ padam // GorS_74
+
+vāyunā śakti-cāreṇa preritaṃ tu mahā-rajaḥ 
+bindunaiti sahaikatvaṃ bhaved divyaṃ vapus tadā // GorS_75
+
+śukraṃ candreṇa saṃyuktaṃ rajaḥ sūryeṇa saṃyutam 
+tayoḥ samarasaikatvaṃ yojānāti sa yogavit // GorS_76
+
+uḍḍīnaṃ kurute yasmād aviśrāntaṃ mahā-khagaḥ 
+uḍḍīyānaṃ tad eva syāt tava bandho'bhidhīyate // GorS_77
+
+udarāt paścime bhāge hy adho nābher nigadyate 
+uḍḍīyanasya bandho'yaṃ tatra bandho vidhīyate // GorS_78 (=HYP 3.71)
+
+badhnāti hi sirājālam adho-gāmi śiro-jalam 
+tato jālandharo bandhaḥ kaṇṭha-duḥkhaugha-nāśanaḥ // GorS_79
+
+jālandhare kṛte bandhe kaṇṭha-saṃkoca-lakṣaṇe 
+pīyūṣaṃ na pataty agnau na ca vāyuḥ prakupyati // GorS_80 (=1|36, HYP 3.72)
+
+pārṣṇi-bhāgena sampīḍya yonim ākuñcayed gudam 
+apānam ūrdhvam ākṛṣya mūla-bandho'bhidhīyate // GorS_81 (=1|37, HYP 3.61)
+
+apāna-prāṇayor aikyāt kṣayān mūtra-purīṣayoḥ 
+yuvā bhavati vṛddho'pi satataṃ mūla-bandhanāt // GorS_82 (=1|38, HYP 3.65)
+
+padmāsanaṃ samāruhya sama-kāya-śiro-dharaḥ 
+nāsāgra-dṛṣṭir ekānte japed oṅkāram avyayam // GorS_83 (=1|39, HYP 2.2)
+
+bhūr bhuvaḥ svar ime lokāḥ soma-sūryāgni-devatāḥ 
+yasyā mātrāsu tiṣṭhanti tat paraṃ jyotir om iti // GorS_84
+
+trayaḥ kālās trayo vedās trayo lokās trayaḥ sverāḥ 
+trayo devāḥ sthitā yatra tat paraṃ jyotir om iti // GorS_85
+
+kriyā cecchā tathā jñānā brāhmī raudrī ca vaiṣṇavī 
+tridhā śaktiḥ sthitā yatra tat paraṃ jyotir om iti // GorS_86
+
+ākārāś ca tatho-kāro ma-kāro bindu-saṃjñakaḥ 
+tisro mātrāḥ sthitā yatra tat paraṃ jyotir om iti // GorS_87
+
+vacasā taj jayed bījaṃ vapuṣā tat samabhyaset 
+manasā tat smaren nityaṃ tat paraṃ jyotir om iti // GorS_88
+
+śucir vāpy aśucir vāpi yo japet praṇavaṃ sadā 
+lipyate na sa pāpena padma-patram ivāmbhasā // GorS_89
+
+cale vāte calo bindur niścale niścalo bhavet 
+yogī sthāṇutvam āpnoti tato vāyuṃ nirodhayet // GorS_90
+
+yāvad vāyuḥ sthito dehe tāvaj jīvanam ucyate 
+maraṇaṃ tasya niṣkrāntis tato vāyuṃ nirodhayet // GorS_91 (=HYP 2.3)
+
+yāvad baddho marud dehe yāvac cittaṃ nirākulam 
+yāvad dṛṣṭir bhruvor madhye tāvat kāla-bhayaṃ kutaḥ // GorS_92 (=HYP 2.40)
+
+ataḥ kāla-bhayād brahmā prāṇāyāma-parāyaṇaḥ 
+yogino munayaś caiva tato vāyuṃ nirodhayet // GorS_93 (=1|40)
+
+ṣaṭ-triṃśad-aṅgulo haṃsaḥ prayāṇaṃ kurute bahiḥ 
+vāma-dakṣiṇa-mārgeṇa tataḥ prāṇo'bhidhīyate // GorS_94
+
+śuddhim eti yadā sarvaṃ nāḍī-cakraṃ malākulam 
+tadaiva jāyate yogī prāṇa-saṃgrahaṇe kṣamaḥ // GorS_95 (=1|43)
+
+baddha-padmāsano yogī prāṇaṃ candreṇa pūrayet 
+dhārayitvā yathā-śakti bhūyaḥ sūryeṇa recayet // GorS_96
+
+amṛtaṃ dadhi-saṅkāśaṃ go-kṣīra-rajatopamam 
+dhyātvā candramaso bimbaṃ prāṇāyāmī sukhī bhavet // GorS_97 (=1|44)
+
+dakṣiṇo śvāsam ākṛṣya pūrayed udaraṃ śanaiḥ 
+kumbhayitvā vidhānena puraś candreṇa recayet // GorS_98 (=1|45)
+
+prajvalaj-jvalana-jvālāpuñjam āditya-maṇḍalam 
+dhyātvā nābhi-sthitaṃ yogī prāṇāyāme sukhī bhavet // GorS_99 (=1|46)
+
+prāṇaṃ codiḍayā piben parimitaṃ bhūyo'nyayā recayet pītvā piṅgalayā samīraṇam atho baddhvā tyajed vāmayā 
+sūrya-candramasor anena vidhinā bimba-dvayaṃ dhyāyataḥ śuddhā nāḍi-gaṇā bhavanti yamino māsa-trayād ūrdhvataḥ // GorS_100 (=HYP 2.10)
+
+yatheṣṭhaṃ dhāraṇaṃ vāyor analasya pradīpanam 
+nādābhivyaktir ārogyaṃ jāyate nāḍi-śodhanāt // GorS_101
+
+iti gorakṣa-śatakaṃ sampūrṇam

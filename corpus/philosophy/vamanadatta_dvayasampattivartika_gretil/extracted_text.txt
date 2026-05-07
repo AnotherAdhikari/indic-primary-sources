@@ -1,0 +1,99 @@
+Vāmanadatta: Dvayasaṃpattivārttika
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vAmanadatta-dvayasaMpattivArttika.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Daniele Cuneo
+## Contribution: Daniele Cuneo
+## Date of this version: 2019-05-13
+
+## Source: 
+   - Raniero Gnoli: »Il Dvayasampattivārttikam di Vāmanadatta.« In: Gururajamañjarikā. Napoli 1974, pp. 451-455.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Dvayasaṃpattivārttikam = DvSampV,
+   - the number of the verse in arabic numerals.
+
+
+# Text
+
+oṃ namaḥ śivāya |
+
+namaḥ paramanāthāya gaṇanāthāya śūline |
+cidpadmāsanasaṃsthāya caturdhābhinnamūrtaye || DvSampV_1
+
+avarṇam asvaraṃ dhyātvā vyāpakaṃ parameśvaram |
+vyutthāne yoginām itthaṃ śivatvaṃ jāyate sphuṭam || DvSampV_2
+
+tataḥ śaktimayo yogī nādabindvātmavigrahaḥ |
+dvayasampattim āpnoti nirādhārapade sthitaḥ || DvSampV_3
+
+ślokadvayam idaṃ yasmāc chivavaktrāgamoditam |
+śuddhaiṣā yogikoṣasya vivṛtyeha pravartate || DvSampV_4
+
+ahaṃkāramayī bhūmir buddhibhūmeḥ parā hi sā |
+tayā vyāptam idaṃ sarvaṃ saiva jñātā vimuktidā || DvSampV_5
+
+saṃvidrūpā parā śaktir abhinnā pārameśvarī |
+jñānaśaktiḥ punaḥ saiva mantrarūpā prakāśate || DvSampV_6
+
+ahaṃkāraḥ smṛto mantraḥ śivaśaktyātmarūpakaḥ |
+yad atrādyam avarṇākyaṃ sa śivaḥ parameśvaraḥ || DvSampV_7
+
+nādabindvātmakaṃ yat tu dvitīyā śaktir aiśvarī |
+dvayam etat samākhyātaṃ bījabhūtaṃ carācare || DvSampV_8
+
+anena mudritāḥ sarve varṇā aṅgārarūpiṇā |
+śabdabrahma tataḥ prāhur yoginas tattvacintakāḥ || DvSampV_9
+
+aprāṇam asvaraṃ dhyātvā paśyantyā nirvibhāgayā |
+cinmātrāmarśayogena vilīnaḥ syāt pare pade || DvSampV_10
+
+tathā hi siddhair ādiṣṭaṃ kvacit siddhāntasaṃgrahe |
+nābher ūrdhvaṃ vitastis tu kaṇṭhādhastāt ṣaḍaṅgulam || DvSampV_11
+
+hṛdayaṃ madhyadeśe tu padmaṃ tu hṛdi madhyataḥ |
+tatra madhye sthitā sūkṣmā karṇikā tripathopagā || DvSampV_12
+
+tatra madhye hy akāraṃ tu svātmatattvaṃ vyavasthitam |
+akārāntaḥ paraṃ sūkṣmaṃ cinmātratattvalakṣaṇam || DvSampV_13
+
+tasyāpy upāsā kathitā vijñāne bhairavena tu |
+abindum avisargaṃ ca akāraṃ japato mahān || DvSampV_14
+
+udeti devi sahasāj jñānaughaḥ parameśvaraḥ |
+karṇasthāne nirādhārā dvitiyā śaktir aiśvarī || DvSampV_15
+
+bījabhūtā kuṇḍalinī nādabindusvarūpiṇī |
+prāṇaśaktir iyaṃ dehe hakārākhyā nadaty alam || DvSampV_16
+
+karṇāntaravivare yogī sthagitvā lakṣayet sphuṭam |
+bindurūpā bhruvor madhye viśvasya jananī dhruvā || DvSampV_17
+
+lakṣyate yogibhir nityaṃ bhrājamāna svatejasā |
+tasya bimbau tu candrārkau vāmadakṣinanetrayoḥ || DvSampV_18
+
+nirāśrayau tu tau kṛtvā viṣed brahma sanātanam |
+vijñānabhairave 'py uktaṃ śastre siddhaniṣevite || DvSampV_19
+
+sampradāyam imaṃ samyak śṛṇu devi vadāmy aham |
+kaivalyaṃ jāyate sadyo netrayoḥ stabdhamātrayoḥ || DvSampV_20
+
+saṃkocaṃ karṇayoḥ kṛtvā hy adhodvāre tathaiva ca |
+anackam ahalaṃ dhyāyan viṣed brahmabilaṃ kṣaṇāt || DvSampV_21
+
+iti siddhamukhodgītaṃ svayam eva udāhṛtam |
+mārgenānena saṃsiddhā labhante yoginīpadam || DvSampV_22
+
+jākadeśasamudbhūto mīmāṃsāvanakesarī |
+harṣadattetināmā yas tasya sūnor iyaṃ kṛtiḥ || DvSampV_23

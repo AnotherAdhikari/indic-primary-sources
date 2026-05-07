@@ -1,0 +1,151 @@
+Parātriṃśikā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_parAtriMzikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Marino Faliero
+## Contribution: Marino Faliero
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Parātriṃśikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from paratriu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Paratrimsika
+Encoded by: Dott. Marino Faliero
+Date: July 1998
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+śrīdevy uvāca |
+
+anuttaraṃ kathaṃ deva svataḥ kaulikasiddhidam |
+yena vijñātamātreṇa khecarīsamatāṃ vrajet || 1 ||
+
+etad guhyaṃ mahāguhyaṃ kathayasva mama prabho |
+hṛdayasthā tu yā śaktiḥ kaulinī kulanāyikā || 2 ||
+
+tām me kathaya deveśa yena tṛptiṃ vrajāmy aham |
+
+śrībhairava uvāca |
+śṛṇu devi mahābhage uttarasyāpy anuttaram || 3 ||
+kathayāmi na saṃdehaḥ sadyaḥ kaulikasiddhidam |
+kauliko 'yaṃ vidhir devi mama hṛdvyomny avasthitaḥ || 4 ||
+
+athādyās tithayaḥ sarve svarā bindvavasānakāḥ |
+tadantaḥ kālayogena somasūryau prakīrtitau || 5 ||
+
+pṛthivyādīni tattvāni puruṣāntāni pañcasu |
+kramāt kādiṣu vargeṣu makārānteṣu suvrate || 6 ||
+
+vāyvagnisalilendrāṇāṃ dhāraṇānāṃ catuṣṭayam |
+tadūrdhve śādivikhyātam purastād brahmapañcakam || 7 ||
+
+amūlā tatkramā jñeyā kṣāntā sṛṣṭir udāhṛtā |
+sarveṣāṃ caiva mantrāṇāṃ vidyānāṃ ca yaśasvini || 8 ||
+
+iyaṃ yoniḥ samākhyātā sarvatantreṣu sarvadā |
+caturdaśayutaṃ bhadre tithīśāntasamanvitam |
+tṛtīyam brahma suśroṇi hṛdayam bhairavātmanaḥ || 9 ||
+
+etan nā yoginījāto nā rudro labhate sphuṭam |
+hṛdayaṃ devadevasya sadyo yogavimokṣadam || 10 ||
+
+asyoccāre kṛte samyaṅ mantramudrāgaṇo mahān |
+sadyaḥ sanmukhatām eti svadehāveśalakṣaṇam || 11 ||
+
+muhūrtaṃ smarate yas tu cumbake nābhimudritaḥ |
+sa badhnāti tadā dehaṃ mantramudrāgaṇaṃ naraḥ || 12 ||
+
+atītānāgatānarthān pṛṣṭo 'sau kathayaty api |
+praharād yad abhipretaṃ devatārūpam uccaran || 13 ||
+
+sakṣāt paśyaty asaṃdigdham ākṛṣṭaṃ rudrasaktibhiḥ |
+praharadvayamātreṇa vyomastho jāyate smaran || 14 ||
+
+trayeṇa mātaraḥ sarvā yogesvaryo mahābalāḥ |
+vīrā vīresvarāḥ siddhā balavān śākinīgaṇaḥ || 15 ||
+
+āgatya samayaṃ dattvā bhairaveṇa pracoditāḥ |
+yacchanti paramāṃ siddhiṃ phalaṃ yad vā samīhitam || 16 ||
+anena siddhāḥ setsyanti sādhayanti ca mantriṇaḥ || 17 ||
+yatkiṃcid bhairave tantre sarvam asmāt prasidhyati |
+mantravīryasamāveśaprabhāvān na niyantriṇā || 18 ||
+
+adṛṣṭama.ṅdalo 'py evam yaḥ kaścid vetti tattvataḥ |
+sa siddhibhāg bhaven nityaṃ sa yogī sa ca dīkṣītaḥ || 19 ||
+
+anena jñātamātreṇa jñāyate sarvaśaktibhiḥ |
+śākinīkulasāmānyo bhaved yogaṃ vināpi hi || 20 ||
+
+avidhijño vidhānajño jāyate yajanaṃ prati |
+kālāgnim āditaḥ kṛtvā māyāntam brahmadehagam || 21 ||
+
+śivo viśvadyanantāntaḥ paraṃ śaktitrayaṃ matam |
+tadantar varti yatkiṃcic chuddhamārge vyavasthitam || 22 ||
+
+aṇur viśuddham acirād aisvaraṃ jñānam aśnute |
+taccodakaḥ śivo jñeyaḥ sarvajñaḥ parameśvaraḥ || 23 ||
+
+sarvago nirmalaḥ svacchas tṛptaḥ svāyatanaḥ śuciḥ |
+yathā nyagrodhabījasthaḥ śaktirūpo mahādrumaḥ || 24 ||
+
+tathā hṛdayabījasthaṃ jagad etac carācaram |
+evaṃ yo vetti tattvena tasya nirvāṇagāminī || 25 ||
+
+dīkṣā bhavaty asaṃdigdhā tilājyāhutivarjitā |
+mūrdhni vaktre ca hṛdaye guhye murtau tathaiva ca || 26 ||
+
+nyāsaṃ krtvā śikhāṃ baddhvā saptaviṃsatimantritām |
+ekaikena diśāṃ bandhaṃ daśānām api kārayet || 27 ||
+
+tālatrayam purā dattvā saśabdaṃ vighnaśāntaye |
+śikhāsaṃkhyābhijaptena toyenābhyukṣayet tataḥ || 28 ||
+
+puṣpādikaṃ kramāt sarvaṃ liṅgaṃ vā stha.ṅdilaṃ ca vā |
+caturdaśābhijaptena puṣpeṇāsanakalpanā || 29 ||
+
+tatra sṛṣṭiṃ yajed vīraḥ punar evāsanaṃ tataḥ |
+sṛṣṭiṃ tu sampuṭīkṛtya paścād yajanam ārabhet || 30 ||
+
+sarvatattvasusampūrṇām sarvāvayavaśobhitām |
+yajed devīṃ mahābhāgā saptaviṃśatimantritām || 31 ||
+
+tataḥ sugandhipuṣpaiś ca yathāśaktyā samarcayet |
+pūjayet parayā bhaktyā svātmanaṃ ca nivedayet || 32 ||
+
+evaṃ yajanam ākhyātam agnikārye 'py ayaṃ vidhiḥ |
+kṛtapūjāvidhiḥ samyak smaran bījam prasiddhyati || 33 ||
+
+ādyantarahitam bījaṃ vikasat tithimadhyagam |
+hṛtpadmāntargataṃ dhyāyet somāṃśuṃ nityam abhyasyet || 34 ||
+
+yān yān kāmayate kāmāṃs tān tāñ cchīghram avāpnuyāt |
+ajñaḥ pratyakṣatām eti sarvajñatvaṃ na saṃśayaḥ || 35 ||
+
+evaṃ mantraphalāvaptir ity etad rudrayāmalam |
+etad abhyāsataḥ siddhiḥ sarvajñatvam avāpyate || 36 ||

@@ -1,0 +1,162 @@
+Utpaladeva: Ajaḍapramātṛsiddhi
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_utpaladeva-ajaDapramAtRsiddhi.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Somadeva Vasudeva
+## Contribution: Somadeva Vasudeva
+## Date of this version: 2020-07-31
+
+## Source: 
+   - of the Siddhitrayi by Madhusudan Kaul Shastri Srinagar : Kashmir Pratap Steam Press 1921 (Kashmir Series of Sanskrit Texts and Studies, 34).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Ajaḍapramātṛsiddhi = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from utajp_au.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   Utpaladeva:
+Ajadapramatrsiddhi
+Based on the edition of the Siddhitrayi by Madhusudan Kaul Shastri
+Srinagar : Kashmir Pratap Steam Press 1921
+(Kashmir Series of Sanskrit Texts and Studies, 34)
+
+Input by Somadeva Vasudeva
+
+TEXT WITH PADA-MARKERS
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ [pūrvapakṣaḥ:]
+yathā sadasatām naiva $ viśeṣo 'sti nijātmani &
+jadājaḍānām apy evaṃ % nāsty asāv iti niścayaḥ // utajp_01 //
+
+vṛ: vijñānasantānavādināṃ mate sarveṣāṃ bhāvānāṃ kṣaṇikatvāt svalakṣaṇātmake prātisvike svarūpe viśeṣābhāvaḥ saṃtānina ekasyānusaṃdhātur anabhyupagatatvāt | evaṃ cetanācetanānām api svātmani nirviśeṣatvam ||
+
+prakhyopākhyā ca sattā yad $ yad asattā viparyayaḥ & naitat svarūpaṃ spṛśati % vastuno jñātṛgāmy adaḥ // utajp_02 //
+
+vṛ: prakāśavimarśalakṣaṇābhyāṃ prakhyopākhyābhyāṃ tadabhāvena ca bhāvānāṃ sadasattayor vyavasthāpayitum iṣṭayor api vastunaḥ svarūpasparśābhāvaḥ, yatas tatprakhyādi jñātur dharmas tatas tatsvarūpavyavasthānābhāvaḥ ||
+
+prakhyopākhyāviṣayatāpy $ arthasyātmā na yujyate & parāpekṣitayā naika- % rūpatve sattvalaṅghanāt // utajp_03 //
+
+vṛ: na ca prakhyādiviṣayatve 'pi padārthasvarūpatopapadyate paraprakāśādhīnatvāt tasya | kiṃ cānekākāratve 'pi vastusattāyā apratiṣṭhānāt | tasmād anyonyaṃ vastutadabhāvayor nirviśeṣatvam |
+
+mā bhūd viśeṣaḥ prakhyādi- $ bhāvābhāvau tataḥ punaḥ & siddhyaty eva viśeṣo 'tra % tāvatā ca prayojanam // utajp_04 //
+
+vṛ: nirviśeṣatvābhyupagame 'pi sadasator vastunoḥ prakhyādi bhāvābhāvāv avikalāv eva tad avalambya punar viśeṣavattvasya siddheḥ, tataḥ sākalyena bhāveṣv arthakriyāpi siddhyed eva ||
+
+evam apy avabhāsānu- $ ṣaktā sattocitā bhavet & tadapekṣāṃ vinā bhāvā- % bhāvayor aviśiṣṭatā // utajp_05 //
+
+vṛ: itthaṃ ca vastusattāyāḥ prakāśalagnāyā evaucityaṃ prakāśamānatālakṣaṇaṃ saṃbhāvyate 'nyathā saṃvidanuṣaṅgaṃ vinā sadasator anyonyanirapekṣatvāt svasvarūpaniṣṭhayor viśeṣānupapatteḥ ||
+
+kathaṃ syād aviśeṣo 'tra $ yāvatārthakriyāṃ hi san & kuryān nānyas tathāpy artho % nirviśeṣo nijātmani // utajp_06 //
+
+vṛ: yasmāt sata eva vastuno 'rthakriyākāritvam asatas tadabhāva iti katham aviśiṣṭatvam arthakriyayaiva tadbhāvopapādanāt, ity ākṣepaḥ | tatrāha tathāpy arthakriyāyās tattatpramātradhīnatayā naisargikatvābhāvād vinā saṃvidāśrayatām arthasya svātmani viśeṣādhāyaktvāsiddheḥ ||
+
+evam arthakriyābhāso- $ pādhisaṃbhedam āgataḥ & sann arthaḥ syāt svarūpeṇa % nāsatas tu viśiṣyate // utajp_07 //
+
+vṛ: uktaprakāreṇa saṃvidy apratiṣṭhānād arthakriyākāribhis tattadābhāsopādhibhiḥ saṃbhinnasyārthasyārthasvarūpeṇa sattāsaṃoattāv api punar asato 'rthād viśeṣo na siddhyet ||
+
+tatrāpy arthakriyā siddha- $ sattākārthe na varṇitā & samam evānayos tena % pratiṣṭhā saṃvidāśrayā // utajp_08 //
+
+vṛ: tayor ubhayoḥ sadasator madhye 'pi prāgasiddhe 'rthe 'rthakriyāyā avyavasthitatvāt, atha ca pūrvasiddhe 'rthe tatsiddher nārthakriyaiva vastvātmā; tasmād bhāvābhāvayor akramam eva saṃvidadhīnaiva siddhis tanniṣṭhatvād eva bhāvavyavasthitīnām ||
+
+saṃvid apy aparāmarśa- $ rūpā cet tad asāv api & abhāvena jaḍenātha % tulyaiva prāgvad ātmani // utajp_09 //
+
+vṛ: nirvimarśasya prakāśasyāpi sphaṭikādivad viśvāvabhāsane 'py asvatantratvāt svātmany asatā jaḍena ca bhāvena sādṛśyam eva syāt parasparavṛttaparijñāne 'nelamūkaprāyatvāt, etena śāntabrahmavādanirāsaḥ kaṭākṣitaḥ ||
+
+saivaṃ bhūtātmanā svenāpy $ alabdhapariniṣṭhitiḥ & katham anyasya bhāvasya % pratiṣṭhāspadatām iyāt // utajp_10 //
+
+vṛ: nirvimarśā saṃvit svato ' labdhasattākā paraṃ vyavasthāpayituṃ nālaṃ gaganakusumam iva saurabhādijanane ||
+
+idam ity ucitaḥ saṃvit $ prakāśe 'nyasya vastunaḥ & pratiṣṭhātmakatāṃ gacched % aham ity ātmanā punaḥ // utajp_11 //
+
+vṛ: bhinnaṃ vastu idaṃtāvimarśena prakāśanārhaṃ sat punar ahaṃtātmanā vyavasthām iyāt | saṃvid eva viśvasphurattāmayī svasvātantryād eva vicitrārthātmanāvibhinnaprakāśamayena prasphurantī viśvajīvitaṃ, tad ahaṃtāviśrāntiṃ vinā svato 'siddhaṃ kathaṃ vyavahāryaṃ syāt ||
+
+vyatireketarābhyām hi $ niścayo 'nyajaḍātmanoḥ & vyavasthitiḥ pratiṣṭhā ca % siddhir nirvṛttir ucyate // utajp_12 //
+
+vṛ: jñātari vyavasthitatve san jaḍo 'nyathāsan, svātmānyasaṃrambhatve svaprakāśatvaṃ tadabhāve nāstīty anvayavyatirekābhyāṃ hi svaparatvaniścayaḥ, sa ca vyavasthāpratiṣṭhādiśabdair ucyate ||
+
+evam ātmany asatkalpāḥ $ prakāśasyaiva santy amī & jaḍāḥ prakāśa evāsti % svātmanaḥ svaparātmabhiḥ // utajp_13 //
+
+vṛ: itthaṃ jaḍabhāvānāṃ saṃvidviśrāntiṃ vināsatkalpatvāt svātmany asatsvabhāvānāṃ jñātuḥ prakāśasvabhāvasya saṃbandhitayaiva sattvaṃ, tasmāt saṃvitprakāśa eva svātmocchalattayā svamāyāśaktyullāsite viśvavaicitrye jaḍājaḍabhāvarāśidvayena vedyavedakātmakena svarūpānatiriktenātirikteneva prashpuret, -- iti svātantryavādasya pronmīlanaṃ sūcitavān ācāryaḥ ||
+
+na caivānubhavo 'py asti $ bhinnābhinnaviniścayam & muktvānvayasya prakāśasya % vimarśarahitātmanaḥ // utajp_14 //
+
+vṛ: saṃyojanaviyojanātmakaṃ svātantryaṃ vihāya sato jaḍaprakāśasya naiva saṃrambhātmānubhavo nirvimarśātmakatvāt | etad eva hi pratyavamarśasya māhātmyaṃ yad viśvaṃ svātmaikyenāntaḥsthitaṃ bahiridaṃtayodbhāsayan udbhāsyamānam api punaḥ pūrṇāhaṃtāviśrāntyabhedam āpādayet ||
+
+idam ity asya vicchinna- $ vimarśasya kṛtārthatā & yā svasvarūpe viśrāntir % vimarśaḥ so 'ham ity ayam // utajp_15 //
+
+vṛ: idam iti vicchinnatayā vimṛśyasyāsya jaḍasya yā saṃvitsvarūpaviśrāntilakṣaṇā kṛtārthatā so 'yam aham eva tattadbhāvavaicitryātmanā prakāśe iti caitanyaprakāśatādātmyād ahaṃpratyavamarṣātmā jīvitasthānīyaḥ, yadāśrayāj jaḍam api vastu vimraṣṭṛsvabhāvapramātraikyād ahaṃbhāvaviśrānter ajaḍatvam āyāti | ajaḍāś ca vastutaḥ parapramātrekasvabhāvāḥ, -- ity advaito 'jaḍapramātṛbhāva eva sarvataḥ pāripūrṇyena vijṛmbhate iti tātparyam ||
+
+dvidhā sa eṣa evātmā $ mito 'parimitas tathā & prāṇādinā niruddho 'ṇuḥ % paramātmā tv akhaṇḍitaḥ // utajp_16 //
+
+vṛ: sa eva saṃvidātmā parameśvaraḥ svecchayā viśvakrīḍollilāsayiṣāyāṃ prāṇādyātmatām avabhāsya tatpramātṛtvena saṃkucitībhūya jīvatām eti, prāṇādyaniruddhas tu viśvanirbharitātmatayā pūrṇaḥ svatantraś cidātmaiveti parimitāparimitatvena dvividhatvam ||
+
+ubhayo 'py eṣa paryanta- $ bhūmiḥ sarvārthasaṃvidām & eka evānusandhānād % ato 'nyo nopapadyate // utajp_17 //
+
+vṛ: dvividhasyāpy asya prakāśātmanaḥ samastabhāvābhāvātmikānām arthasaṃvidāṃ viśrāntyāspadatvam | sa ca paurvāparyānusaṃdhātṛtayā saṃvinmātrasphurattaikarūpa eva yasmād ato bhedānupapattiḥ ||
+
+na cāpy avyatirekātma- $ vimarśātmany ahaṃvidi & bhāti paryantavartinyāṃ % bhāsanād adhikaṃ jaḍam // utajp_18 //
+
+vṛ: na ca viśvābhinnapratyavamarśasvarūpe 'haṃprakāśe sarvajñānaviśrāntibhūmau tatprakāśādhikyena jaḍasya sattā, tasya saṃvitprakāśād bhedābhedavikalpair upahatatvāt, ata eka evājaḍapramātā svasvātantryeṇa svābhinnaṃ bhāvajātaṃ svātmany evodbhāsayan vilāpayāṃś cāpracyutasvātmasthitiḥ prasphuratītyarthaḥ ||
+
+na siddho 'prathanād eva $ jñānādisamavāyy api & tat prāṇādi prameyaṃ syān % na pramātānyato bhramāt // utajp_19 //
+
+vṛ: jñānādiguṇaiḥ samaveto 'pi parimitapramātā vimarśavaidhuryād eva na siddhyati nirvimarśatve jāḍyaprasaṅgāt, tasmād vyavacchinnāṃ bhrāntim āśritya prāṇapuryaṣṭakamātur vedyatvaṃ syān na paramārthapramātṛbhāvaḥ saṃbhāvyate ||
+
+yady apy arthasthitiḥ prāṇa- $ puryaṣṭakaniyantrite & jīve niruddhā tatrāpi % paramātmani sā sthitā // utajp_20 //
+
+vṛ: māyāvyavahārātmani lokayātrāyāṃ yady api prāṇādi saṃkocavati jīve sarveṣāṃ bāhyābhyantarāṇāṃ viṣayāṇāṃ vyavasthitir niyantritā tathāpi saṃkucitātmani tatra mitapramātari saṃkocāpahastanena parapramātrekātmatayā śivātmany eva sā tiṣṭhati prāṇādeś citprakāśād avyatirekitvāt, śivasyaiva svecchayā samullāsitāyāḥ paśubhūmikāyā grahaṇenāṇubhāvābhyupagamāt ||
+
+tadātmanaiva tasya syāt $ kathaṃ prāṇena yantraṇā & sādhitā pratyabhijñāyām % akhyāter jīvatā param // utajp_21 //
+
+vṛ: tasmād vastutaḥ śivasvabhāvābhinnena prāṇādipramātrā saṃkucitaśuktikena katham anavacchinnaprakāśānandamayapūrṇāhaṃtāsphurattātmanaḥ śivasyāvabhāsananirodhaḥ syāt tathātve tasya svayaṃ sthātum aśakyatvāt kevalam aparicchinnasvaśaktivikāsasyāprathanam eva bandhakatvaparyāyaṃ jīvatvaṃ, tasya ceśvarapratyabhijñāyāṃ śāstre savistaraṃ nirṇītatvād iti tata eva vivecyam ||
+
+nārthavyavasthā prāṇādāv $ ahaṃbhāvanirodhataḥ & prakāśasyātmaviśrāntir % ahaṃbhāvo hi kīrtitaḥ // utajp_22 //
+
+uktā saiva ca viśrāntiḥ $ sarvāpekṣānirodhataḥ & svātantryam atha kartṛtvaṃ % mukhyam īśvaratāpi ca // utajp_23 //
+
+vṛ: prāṇādau parimitapramātrāspade jaḍe svātmamātrasphurattātmanaḥ parāmarśasya nirodhān naiva vastuvyavasthā tasyāḥ saṃvinniṣṭhatvāt, yato yā saṃvidaḥ svātmamātraviśrāntiḥ sa eva pūrṇāhaṃtāvimarśasvabhāvo 'haṃbhāvo 'rthavyavasthāpako gīyate | saiva viśvabhāvānāṃ paryantapratiṣṭhābhūmikatvād viśrāntiḥ, viśvaprasaraṇe svavyatiriktasāmagrīnirapekṣatvāt svātantryaṃ, tad eva kartṛtvaṃ mukhyam aiśvaryam apy āgameṣūdghoṣyate ||
+
+māyābhidās tacchakter eva $ cānyāprasiddhitaḥ & tadakhyātimayaṃ hy etaj % jagannirmātṛteśitā // utajp_24 //
+
+vṛ: māyā nāma śaktiḥ śivasya śaktimato 'vyatirekiṇī svarūpagopanātmikā krīḍā, tannimittād eva yasmād akhyātimayam etad viśvaṃ bhāsate vyatiriktakāraṇasya bhedābhedavikalpopahatatvenāprasiddhatvāt, tasmād viśvābhāsānāṃ nirmātṛtvam īśvaratvam ||
+
+ekaiva cānusaṃdhānāt $ sā proktā sarvasaṃvidām & svasaṃvedanaparyāya- % mātṛtattvam anādi tat // utajp_25 //
+
+vṛ: saiśvarī parāśaktiḥ samastānāṃ vicchinnanīlāsisaṃvidāṃ saṃyojanaviyojanādau kārye pūrāparādikoṭāv aikyānusaṃdhānam āśritya tadādhārabhūtān avacchedinī ekaiva, tad eva svasaṃvedanaparyāyaṃ mātur anādi tattvam ucyate ||
+
+bhāvavyavasthā yan niṣṭhā $ tasyāhaṃbhāvabhāginaḥ & vyāpitvam anusaṃdhānaṃ % taj jaḍasya na yujyate // utajp_26 //
+
+vṛ: yatra sarvārthānāṃ vyavasthitiḥ pratiṣṭhitā tasya saṃvidātmanaḥ pūrṇāhaṃtāparāmarśasārasyājaḍapramātuḥ svātantryāvinābhāvavattvāt sarvatrānusaṃdhānātmakaṃ vyāpitvam asti, tac cāsvatantrasya jaḍasya na ghaṭate vimarśasāratvābhāvāt ||
+
+tato bhede tu bhāsasya $ ghaṭate bhāsamānatā & tenoktam pratyabhijñāyāṃ % tadadvayamayaṃ jagat // utajp_27 //
+
+vṛ: ajaḍatvam āśritya punar etāvati bhedollāsātmake viśvasmin nīlasukhāder bhāsasyāparikṣīṇāntaḥsthiter eva jñānaśaktyā bahirbhāsinaḥ prakāśamānatāyā ghaṭanāt; atha cābhedam avalambya jaḍasya punaḥ prakāśanopapatter anyathā tv aprakāśanāt | tena hetunā śrīmadīśvarapratyabhijñāyāṃ saṃvidadvayaprakṛti viśvam uktaṃ bhavatīti śivam ||
+
+[pramātṛsiddhāv ācāryotpaladevakṛtau manāk |
+candrābdhyaṣṭenduśākābde śāstrī vṛttiṃ haro vyadhāt // [śāka era 1841]]
+
+ity ajaḍapramātṛsiddhau śrīmānmahāmāheśvarācāryotpaladevapādaviracitāyāṃ vṛttiḥ samāptā ||
+
+[śrīmatpratāpabhūbhartur ājñayā prītaye satām | madhusūdanakaulena saṃpādyeyaṃ prakāśitā//]
