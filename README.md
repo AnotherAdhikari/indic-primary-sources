@@ -14,25 +14,26 @@ The corpus spans the major textual traditions of classical India. Both **Vedic**
 
 | Category | Texts | Description |
 |---|---|---|
-| **Āgamas** | 8 | Ahirbudhnya Saṃhitā (Schrader 1916); GRETIL IAST: Svacchandatantra, Mṛgendrāgama, Devīkalottarāgama, Kiraṇatantra (ch 1–6), Pāśupatasūtra + commentary, Sārdhatriśatikālottarāgama, Jñānaśambhu Śivapūjāstava |
-| **Alchemy** | 14 | Rasārṇava English (Kaviratna 1910) + Sanskrit (GRETIL); Rasaratna-Samuccaya English (1927) + Sanskrit (GRETIL); GRETIL IAST: Ānandakanda, Rasahṛdayatantra, Rasendracintāmaṇi, Rasendracūḍāmaṇi (partial), Rasādhyāya, Rasamañjarī, Rasaṅketakalikā, Rasārṇavasudhākara; Rasa-Prakāśa-Sudhākara, Rasārṇavakalpa |
-| **Astronomy / Math** | 3 | Sūrya-Siddhānta (Burgess 1860), Bṛhat Saṃhitā English (Iyer 1884, partial) + Sanskrit (GRETIL) |
+| **Āgamas** | 15 | Ahirbudhnya Saṃhitā (Schrader 1916); Kāmikāgama Pūrva + Uttara Pāda (HRCE); Īśānaśivagurudevapaddhati 2 vols (Ganapati Sastri 1920); Mataṅgapārameśvara vidyā + kriyā (Bhatt IFP); Mṛgendrāgama (Bhatt IFP); GRETIL IAST: Svacchandatantra, Mṛgendrāgama, Devīkalottarāgama, Kiraṇatantra (ch 1-6), Pāśupatasūtra + commentary, Sārdhatriśatikālottarāgama, Jñānaśambhu Śivapūjāstava |
+| **Alchemy** | 25 | Rasajalanidhi 5 vols (Mookerji 1926-1938); PC Ray Hindu Chemistry 2 vols (1902-1909); Rasārṇava English (Kaviratna 1910) + Sanskrit (GRETIL); Rasaratna-Samuccaya English (1927) + Sanskrit (GRETIL); Rasa Hṛdaya Tantra (1911); Rasāyana Khaṇḍa (1913); GRETIL IAST: Ānandakanda, Rasahṛdayatantra, Rasendracintāmaṇi, Rasendracūḍāmaṇi (partial), Rasādhyāya, Rasamañjarī, Rasaṅketakalikā, Rasārṇavasudhākara, Rasaprakāśasudhākara, Rasaratnākara; Rasa-Prakāśa-Sudhākara, Rasārṇavakalpa |
+| **Astronomy / Math** | 4 | Sūrya-Siddhānta (Burgess 1860), Bṛhat Jātaka (1885), Bṛhat Saṃhitā English (Iyer 1884, partial) + Sanskrit (GRETIL) |
 | **Brāhmaṇas** | 13 | Śatapatha English (all 5 pts, Eggeling SBE) + Sanskrit (GRETIL, 13 of 14 kāṇḍas), Aitareya, Kauṣītaki, Gopatha (Bloomfield + Mitra + GRETIL IAST), Ṛgveda Brāhmaṇas (Keith) |
-| **Dharmaśāstra** | 6 | Gṛhya Sūtras pts 1–2 (Oldenberg, SBE 29–30), Sacred Laws pts 1–2 (Buhler, SBE 2, 14), Institutes of Viṣṇu (Jolly, SBE 7), Minor Law Books (Jolly, SBE 33) |
+| **Dharmaśāstra** | 6 | Gṛhya Sūtras pts 1-2 (Oldenberg, SBE 29-30), Sacred Laws pts 1-2 (Buhler, SBE 2, 14), Institutes of Viṣṇu (Jolly, SBE 7), Minor Law Books (Jolly, SBE 33) |
 | **Epics** | 3 | Mahābhārata (Ganguli, all 18 Parvas), Rāmāyaṇa (Griffith), Bhagavad Gītā with Śaṅkara (Mahadeva Sastri) |
 | **Grammar** | 4 | Pāṇini Aṣṭādhyāyī (Vasu), Patañjali Mahābhāṣya 3 vols (Kielhorn) |
-| **Medical** | 4 | Charaka Saṃhitā (Kaviratna 1890), Suśruta Saṃhitā 3 vols (Bhishagratna) |
-| **Philosophy** | 42 | Vedānta Sūtras: Śaṅkara pts 1–2 + Rāmānuja (Thibaut, SBE); Sāṅkhya Aphorisms (Ballantyne); GRETIL IAST Kashmir Śaivism: Abhinavagupta (13 works incl. Tantrāloka, Tantrasāra, Parāmārthasāra, Mālinīślokavārttika, Īśvarapratyabhijñāvimarśinī), Kṣemarāja (3 works), Utpaladeva (3 works), Somananda, Vasugupta Spandakārikā + comm.; Parātrīśikā + comm., Śivasūtra Vārttika, Vātulanāthasūtra + comm.; Amarakośa, Śivopaniṣad, Śivamahimnastava, and 12 smaller prakaraṇas |
-| **Purāṇas** | 8 | Viṣṇu (Wilson), Devī Bhāgavata (Vijnanananda), Mārkaṇḍeya (Pargiter), Agni English (Dutt 1904) + Sanskrit (GRETIL), Garuḍa (Dutt 1908), Nārada Sanskrit (GRETIL), Kāratoyamāhātmya (GRETIL) |
-| **Śilpa Śāstra** | 1 | Mānasāra (Acharya 1927) — temple architecture |
-| **Tantric** | 39 | KSTS Kashmir Śaivism (8 texts), Tantrāloka Sanskrit 7 vols (KSTS 1918–1926), Avalon Tantric Texts (4 + Hymns to the Goddess, Karpūrādi Stotra, Tantrābhidhāna), Lalitā-Sahasranāma (2 eds.), Śakti and Śākta; GRETIL IAST: Kubjikāmatatantra, Mālinīvijayottaratantra, Mātṛkābhedatantra, Bījanigantu, Ekākṣarakośa, Gorākṣaśataka (2 versions + Amaraughaśāsana), Saundaryalaharī, Toḍalatantra, Uddāmareśvaratantra, Vināśikhatantra, Parāśurāmakalpasūtra, Parājapavidhi-Parāmantravidhi, Bhavopahāra |
-| **Vaiṣṇava** | 7 | GRETIL IAST: Bhṛgusaṃhitā, Sātvaṭatantra, Prakāśasaṃhitā, Jñānāmṛtasārasaṃhitā (Nārada Pāñcarātra), Viṣṇudharma, Viśvaksenasaṃhitā, Vaikhānasa Mantrapraśna 5–8 |
-| **Vedic Saṃhitās** | 2 | Four Vedas (Griffith/Keith/Bloomfield), Gaṇapati Atharvaśīrṣa |
-| **Yoga** | 5 | Laghu Yoga Vāsiṣṭha (Aiyer 1896), Yoga Sūtras (Rāma Prasāda 1912), Haṭha Yoga Pradīpikā English (Pancham Sinh 1915) + Sanskrit (GRETIL), Gheraṇḍa Saṃhitā Sanskrit (GRETIL) |
-| **Reference** | 2 | Aufrecht Catalogus Catalogorum, Caraṇa-vyūha |
+| **Medical** | 5 | Charaka Saṃhitā (Kaviratna 1890), Suśruta Saṃhitā 3 vols (Bhishagratna), Āyurvedaprakāśa (1913) |
+| **Music** | 1 | Fox Strangways Music of Hindostan (1914) |
+| **Philosophy** | 50 | Vedānta Sūtras: Śaṅkara pts 1-2 + Rāmānuja (Thibaut, SBE); Sāṅkhya Aphorisms (Ballantyne); Brahma Knowledge (Barnett 1907); Hindu Mysticism (Dasgupta 1927); Vivekacūḍāmaṇi; Dakṣiṇāmūrti Stotra (Sastri 1920); Select Works of Śaṅkara (Venkataramanan 1905); Hymns of Tamil Śaivite Saints (Kingsbury 1921); Yoga Vāsiṣṭha 2 vols (Mitra 1891-1899); GRETIL IAST Kashmir Śaivism: Abhinavagupta (13 works), Kṣemarāja (3 works), Utpaladeva (3 works), Somananda, Vasugupta; and smaller prakaraṇas |
+| **Purāṇas** | 10 | Viṣṇu (Wilson), Devī Bhāgavata (Vijnanananda), Mārkaṇḍeya (Pargiter), Agni English (Dutt 1904) + Sanskrit (GRETIL), Garuḍa (Dutt 1908), Nārada Sanskrit (GRETIL), Kāratoyamāhātmya (GRETIL), Devī Gītā, Prem Sagar (Lallu Lal 1810) |
+| **Reference** | 19 | Acharya Manasara Series: Dictionary + Encyclopedia + Vol 5 Architecture + Vol 6 India & Abroad (1927); Fergusson Indian Architecture 2 vols (1876) + Cave Temples (1880); Gopinatha Rao Hindu Iconography 3 parts (1914-1916); Coomaraswamy Dance of Śiva (1918) + History of Art (1927); Havell (1915); Dubois Hindu Manners (1897); Ram Raz (1834); Jouveau-Dubreuil Dravidian Architecture (1917); Hindu Mythology (Wilkins 1882); Aufrecht Catalogus; Caraṇa-vyūha |
+| **Śilpa Śāstra** | 8 | Mānasāra English + Sanskrit + Notes (Acharya 1927); Kāśyapa Śilpa Śāstra; Śilparatna vol 2 (TSS) + Uttarabhāga (IFP); Viśvakarmā Vāstu Śāstra |
+| **Tantric** | 49 | KSTS Kashmir Śaivism (8 texts), Tantrāloka Sanskrit 7 vols (KSTS 1918-1926), Svacchandatantra + Kṣemarāja (KSTS 1921); Avalon/Woodroffe: Serpent Power (1919), Introduction to Tantra (1913), Principles of Tantra (1916), Prapañcasāra 2 vols (1914), Varṇamālā (1913), Ṣaṭcakranirūpaṇa (1913), Tantrābhidhāna + 4 other Tantric Texts, Hymns to the Goddess, Karpūrādi Stotra; Brahmayāmala Sanskrit; Lalitā-Sahasranāma (2 eds.); GRETIL IAST: Kubjikāmata, Mālinīvijayottara, and 14 smaller tantras |
+| **Vaiṣṇava** | 7 | GRETIL IAST: Bhṛgusaṃhitā, Sātvaṭatantra, Prakāśasaṃhitā, Jñānāmṛtasārasaṃhitā (Nārada Pāñcarātra), Viṣṇudharma, Viśvaksenasaṃhitā, Vaikhānasa Mantrapraśna 5-8 |
+| **Vedic Saṃhitās** | 3 | Four Vedas (Griffith/Keith/Bloomfield), Atharva Veda (Bloomfield SBE 1897), Gaṇapati Atharvaśīrṣa |
+| **Yoga** | 11 | Laghu Yoga Vāsiṣṭha (Aiyer 1896), Yoga Sūtras (Rāma Prasāda 1912), Haṭha Yoga Pradīpikā English (Sinh 1915) + Sanskrit (GRETIL) + Adyar (Iyangar 1893), Gheraṇḍa Saṃhitā English (Vasu 1914) + Sanskrit (GRETIL), Śiva Saṃhitā (Vasu 1914), Karma Yoga (Vivekananda 1896), How to Be a Yogi (Abhedananda 1902), Gorakhnāth (Briggs 1938) |
 | **Misc** | 1 | Arthaśāstra (Shamasastry 1909) |
 
-**Total: 162 texts across 16 categories, ~2.85M lines**
+**Total: 234 texts across 18 categories**
 
 ## Copyright texts in our research corpus
 

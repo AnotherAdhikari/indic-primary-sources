@@ -1,0 +1,171 @@
+% Text title            : gaNapati atharvashIrSha
+% File name             : atharva.itx
+% Category              : atharvashIrSha, ganesha
+% Location              : doc\_ganesha
+% Author                : Vedic Tradition
+% Latest update         : July 1, 2003
+% Send corrections to   : sanskrit at cheerful dot c om
+%
+% This text is prepared by volunteers and is to be used for personal study 
+% and research. The file is not to be copied or reposted for promotion of 
+% any website or individuals or for commercial purpose without permission. 
+% Please help to maintain respect for volunteer spirit.
+%
+\documentstyle[11pt,multicol,itrans]{article}
+#include=ijag.inc
+#endwordvowel=.h
+\portraitwide
+\parindent=100pt                
+\let\usedvng=\Largedvng      % for 1 column     
+\pagenumbering{itrans} 
+\def\engtitle#1{\hrule\medskip\centerline{\LARGE #1}}
+\def\itxtitle#1{\medskip\centerline{\LARGEdvng #1}\medskip\hrule}
+\def\endtitles{\medskip\obeyspaceslines}
+%%
+\begin{document}
+\engtitle{.. shrI gaNapatyatharvashIrSha   ..}##
+\itxtitle{.. shrIgaNapatyatharvashIrSha ..}##\endtitles ##
+
+          .. shrI gaNapatyatharvashIrSha ..
+##
+Shri Ganapati Atharvashirsha occurs in the atharva veda . It is considered
+to be most important text on Lord Ganesha . Atharva means firmness, oneness
+of purpose, while shIrSha means intellect (directed towards liberation).
+May Ganapati, the remover of obstacles protect us . Aum . Aum . Aum.
+Several translations of the text are available.
+1- Ganapatyatharvasirsopanisad by Sukthankar.
+2- Ganapati : Song of the Self by Grimes
+3- Saiva upanisads translated by Srinivas Ayyangar
+4- Aum Ganesha : The peace of God by Navaratnam
+5- Ganesha : Lord of Obstacles, Lord of Beginnings by Courtright
+6- Glory of Ganesha by Swami Chinmayananda
+7- Ganesha Kosha by Rao.
+##
+		.. shAnti pATha ..
+OM bhadraM karNebhiH shR^iNuyAma devA .
+bhadraM pashyemAkShabhiryajatrAH ..
+sthiraira~NgaistuShTuvA.nsastanUbhiH .
+vyashema devahitaM yadAyuH ..
+OM svasti na indro vR^iddhashravAH .
+svasti naH pUShA vishvavedAH ..
+svastinastArkShyo ariShTanemiH .
+svasti no bR^ihaspatirdadhAtu ..
+OM tanmAmavatu
+tad vaktAramavatu
+avatu mAm
+avatu vaktAram
+OM shA.ntiH .  shA.ntiH .. shA.ntiH...
+		.. upaniShat ..
+hariH OM namaste gaNapataye ..
+tvameva pratyakShaM tattvamasi .. tvameva kevalaM kartA.asi ..
+tvameva kevalaM dhartA.asi .. tvameva kevalaM hartA.asi ..
+tvameva sarva.n khalvidaM brahmAsi ..
+tvaM sAkShAdAtmA.asi nityam .. 1..
+               .. svarUpa tattva ..
+R^itaM vachmi ##(##vadiShyAmi##)## .. satyaM vachmi ##(##vadiShyAmi##)## .. 2..
+ava tvaM mAm .. ava vaktAram .. ava shrotAram ..
+ava dAtAram .. ava dhAtAram ..
+avAnUchAnamava shiShyam ..
+ava pashchAttAt .. ava purastAt ..
+avottarAttAt .. ava dakShiNAttAt ..
+ava chordhvAttAt .. avAdharAttAt ..
+sarvato mAM pAhi pAhi sama.ntAt .. 3..
+tvaM vA~NmayastvaM chinmayaH ..
+tvamAna.ndamayastvaM brahmamayaH ..
+tvaM sachchidAna.ndAdvitIyo.asi ..
+tvaM pratyakShaM brahmAsi ..
+tvaM j~nAnamayo vij~nAnamayo.asi .. 4..
+sarvaM jagadidaM tvatto jAyate ..
+sarvaM jagadidaM tvattastiShThati ..
+sarvaM jagadidaM tvayi layameShyati ..
+sarvaM jagadidaM tvayi pratyeti ..
+tvaM bhUmirApo.analo.anilo nabhaH ..
+tvaM chatvAri vAkpadAni .. 5..
+tvaM guNatrayAtItaH tvamavasthAtrayAtItaH ..
+tvaM dehatrayAtItaH .. tvaM kAlatrayAtItaH ..
+tvaM mUlAdhArasthito.asi nityam ..
+tvaM shaktitrayAtmakaH ..
+tvAM yogino dhyAya.nti nityam ..
+tvaM brahmA tvaM viShNustvaM rudrastvaM
+indrastvaM agnistvaM vAyustvaM sUryastvaM cha.ndramAstvaM
+brahmabhUrbhuvaHsvarom .. 6..
+               .. gaNesha ma.ntra ..
+gaNAdiM pUrvamuchchArya varNAdi.n tadana.ntaram ..
+anusvAraH parataraH .. ardhendulasitam .. tAreNa R^iddham ..
+etattava manusvarUpam .. gakAraH pUrvarUpam ..
+akAro madhyamarUpam .. anusvArashchAntyarUpam ..
+binduruttararUpam .. nAdaH sa.ndhAnam ..
+sa.nhitAsa.ndhiH .. saiShA gaNeshavidyA ..
+gaNakaR^iShiH .. nichR^idgAyatrIchCha.ndaH ..
+gaNapatirdevatA .. OM ga.n gaNapataye namaH .. 7..
+               .. gaNesha gAyatrI ..
+ekada.ntAya vidmahe . vakratuNDAya dhImahi ..
+tanno da.ntiH prachodayAt .. 8..
+               .. gaNesha rUpa ..
+ekada.ntaM chaturhastaM pAshama.nkushadhAriNam ..
+radaM cha varadaM hastairbibhrANaM mUShakadhvajam ..
+raktaM laMbodaraM shUrpakarNakaM raktavAsasam ..
+raktaga.ndhAnuliptA.ngaM raktapuShpaiH supUjitam ..
+    bhaktAnukaMpinaM devaM jagatkAraNamachyutam ..
+    AvirbhUtaM cha sR^iShTyAdau prakR^iteH puruShAtparam ..
+    evaM dhyAyati yo nityaM sa yogI yoginAM varaH .. 9..
+               .. aShTa nAma gaNapati ..
+namo vrAtapataye . namo gaNapataye . namaH pramathapataye .
+namaste.astu laMbodarAyaikada.ntAya .
+vighnanAshine shivasutAya . shrIvaradamUrtaye namo namaH .. 10..
+               .. phalashruti ..
+etadatharvashIrShaM yo.adhIte .. sa brahmabhUyAya kalpate ..
+sa sarvataH sukhamedhate .. sa sarva vighnairnabAdhyate ..
+     sa pa.nchamahApApAtpramuchyate ..
+sAyamadhIyAno divasakR^itaM pApaM nAshayati ..
+prAtaradhIyAno rAtrikR^itaM pApaM nAshayati ..
+     sAyaMprAtaH prayu.njAno apApo bhavati ..
+     sarvatrAdhIyAno.apavighno bhavati ..
+     dharmArthakAmamokShaM cha vi.ndati ..
+     idamatharvashIrShamashiShyAya na deyam ..
+     yo yadi mohAddAsyati sa pApIyAn bhavati
+     sahasrAvartanAt yaM yaM kAmamadhIte
+     taM tamanena sAdhayet .. 11..
+anena gaNapatimabhiShi.nchati sa vAgmI bhavati ..
+chaturthyAmanashnan japati sa vidyAvAn bhavati .
+sa yashovAn bhavati ..
+ityatharvaNavAkyam .. brahmAdyAvaraNaM vidyAt
+     na bibheti kadAchaneti .. 12..
+yo dUrvA.nkurairyajati sa vaishravaNopamo bhavati ..
+yo lAjairyajati sa yashovAn bhavati ..
+sa medhAvAn bhavati ..
+yo modakasahasreNa yajati
+    sa vA~nChitaphalamavApnoti ..
+yaH sAjyasamidbhiryajati
+    sa sarvaM labhate sa sarvaM labhate .. 13..
+aShTau brAhmaNAn samyaggrAhayitvA
+sUryavarchasvI bhavati ..
+sUryagrahe mahAnadyAM pratimAsa.nnidhau
+vA japtvA siddhama.ntro bhavati ..
+mahAvighnAtpramuchyate .. mahAdoShAtpramuchyate ..
+mahApApAt pramuchyate ..
+sa sarvavidbhavati sa sarvavidbhavati ..
+ya evaM veda ityupaniShat .. 14..
+		.. shAnti ma.ntra ..
+OM sahanAvavatu .. sahanaubhunaktu ..
+saha vIrya.n karavAvahai ..
+tejasvinAvadhItamastu mA vidviShAvahai ..
+OM bhadraM karNebhiH shR^iNuyAma devA .
+bhadraM pashyemAkShabhiryajatrAH ..
+sthiraira.ngaistuShTuvA.nsastanUbhiH .
+vyashema devahitaM yadAyuH ..
+OM svasti na indro vR^iddhashravAH .
+svasti naH pUShA vishvavedAH ..
+svastinastArkShyo ariShTanemiH .
+svasti no bR^ihaspatirdadhAtu ..
+OM shA.ntiH . shA.ntiH .. shA.ntiH ...
+.. iti shrIgaNapatyatharvashIrShaM samAptam ..
+##
+
+\medskip\hrule\obeylines
+
+Please send corrections to sanskrit@cheerful.com
+Last updated \today
+https://sanskritdocuments.org
+
+\end{document}
